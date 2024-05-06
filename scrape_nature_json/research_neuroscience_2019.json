@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Controllability governs the balance between Pavlovian and instrumental action selection",
+        "Link": "https://www.nature.com/articles/s41467-019-13737-7",
+        "Summary": "Pavlovian and instrumentally driven actions often conflict when determining the best outcome. Here, the authors present an arbitration theory supported by human behavioral data where Pavlovian predictors drive action selection in an uncontrollable environment, while more flexible instrumental prediction dominates under conditions of high controllability.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-8"
+    },
+    {
+        "Title": "A neural basis of probabilistic computation in visual cortex",
+        "Link": "https://www.nature.com/articles/s41593-019-0554-5",
+        "Summary": "Although Bayesian models provide good accounts of perceptual decisions, it is unclear how their components are represented in the brain. This paper addresses this question by showing that uncertainty decoded from visual cortex helps predict behavior.",
+        "Authors": [
+            "Edgar Y. Walker",
+            "R. James Cotton",
+            "Andreas S. Tolias"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 23, P: 122-129"
+    },
+    {
+        "Title": "Cortical pattern generation during dexterous movement is input-driven",
+        "Link": "https://www.nature.com/articles/s41586-019-1869-9",
+        "Summary": "The complex patterns of activity in motor cortex that control movements such as reach and grasp are dependent on both upstream neuronal activity in the thalamus and the current state of the cortex.",
+        "Authors": [
+            "Britton A. Sauerbrei",
+            "Jian-Zhong Guo",
+            "Adam W. Hantman"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "25 Dec 2019",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 577, P: 386-391"
+    },
+    {
+        "Title": "Natural hypothalamic circuit dynamics underlying object memorization",
+        "Link": "https://www.nature.com/articles/s41467-019-10484-7",
+        "Summary": "Hypothalamus is implicated in memory disorders but the neural mechanisms are unknown. Here, the authors report that MCH expressing hypothalamic neurons respond to novel object exposure, are inhibited by local GAD65 expressing neurons and these local circuit interactions are causally involved in object memory formation.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Jun 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-8"
+    },
+    {
+        "Title": "Enhancing plasticity in central networks improves motor and sensory recovery after nerve damage",
+        "Link": "https://www.nature.com/articles/s41467-019-13695-0",
+        "Summary": "Peripheral nerve damage generates maladaptive neuroplasticity as central networks attempt to compensate for the loss of peripheral connectivity. Here, the authors reverse the aberrant plasticity via vagus nerve stimulation to elicit synaptic reorganization and to improve sensorimotor recovery.",
+        "Authors": [
+            "Eric C. Meyers",
+            "Nimit Kasliwal",
+            "Seth A. Hays"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-14"
+    },
+    {
+        "Title": "Internal state dynamics shape brainwide activity and foraging behaviour",
+        "Link": "https://www.nature.com/articles/s41586-019-1858-z",
+        "Summary": "During foraging for live prey, zebrafish larvae alternate between persistent exploitation and exploration behavioural states that correlate with distinct patterns of neuronal activation.",
+        "Authors": [
+            "Jo\u00e3o C. Marques",
+            "Meng Li",
+            "Jennifer M. Li"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "18 Dec 2019",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 577, P: 239-243"
+    },
+    {
+        "Title": "Confirmation bias in the utilization of others\u2019 opinion strength",
+        "Link": "https://www.nature.com/articles/s41593-019-0549-2",
+        "Summary": "Kappes et al. report a new confirmation bias mechanism. When faced with disagreement, a reduction in the neural sensitivity to the confidence of others is observed leading to a subsequent failure to use others\u2019 confidence to alter one\u2019s own.",
+        "Authors": [
+            "Andreas Kappes",
+            "Ann H. Harvey",
+            "Tali Sharot"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "16 Dec 2019",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 23, P: 130-137"
+    },
+    {
+        "Title": "The role of prefrontal cortex in the control of feature attention in area V4",
+        "Link": "https://www.nature.com/articles/s41467-019-13761-7",
+        "Summary": "The neural mechanisms underlying feature based attention to targets in a cluttered scene are not well understood. Here, the authors show that inactivation of the ventral prearcuate region leads to deficits in picking out a target among many stimuli as well as eliminates the feature based modulation of responses of V4 neurons.",
+        "Authors": [
+            "Narcisse P. Bichot",
+            "Rui Xu",
+            "Robert Desimone"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-12"
+    },
+    {
+        "Title": "Offline ventral subiculum-ventral striatum serial communication is required for spatial memory consolidation",
+        "Link": "https://www.nature.com/articles/s41467-019-13703-3",
+        "Summary": "Spatial information is passed from the hippocampus via the subiculum to the ventral striatum. Here, the authors show that inhibiting this projection after spatial learning disrupts learning induced plasticity and spatial memory consolidation.",
+        "Authors": [
+            "G. Torromino",
+            "L. Autore",
+            "A. Mele"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-9"
+    },
+    {
+        "Title": "Audio-visual experience strengthens multisensory assemblies in adult mouse visual cortex",
+        "Link": "https://www.nature.com/articles/s41467-019-13607-2",
+        "Summary": "Sensory stimuli usually arrive simultaneously but the neural-circuit mechanisms that combine multiple streams of sensory information are incompletely understood. The authors here show that visual-auditory pairing drives plasticity in multi-modal neuron networks within the mouse visual cortex.",
+        "Authors": [
+            "Thomas Kn\u00f6pfel",
+            "Yann Sweeney",
+            "Samuel J. Barnes"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-15"
+    }
+]

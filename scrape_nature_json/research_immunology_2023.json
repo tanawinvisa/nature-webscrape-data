@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Early mucosal events promote distinct mucosal and systemic antibody responses to live attenuated influenza vaccine",
+        "Link": "https://www.nature.com/articles/s41467-023-43842-7",
+        "Summary": "Nasally delivered live attenuated influenza vaccines (LAIV) have been shown to be effective in vaccine trials yet immune responses are mostly measured in blood. Here the authors report a clinical trial in young adults and measure immune responses in the mucosa and blood to identify compartmentalised responses.",
+        "Authors": [
+            "Ryan S. Thwaites",
+            "Ashley S. S. Uruchurtu",
+            "Peter J. M. Openshaw"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-14"
+    },
+    {
+        "Title": "Activation of ILC2s through constitutive IFN\u03b3 signaling reduction leads to spontaneous pulmonary fibrosis",
+        "Link": "https://www.nature.com/articles/s41467-023-43336-6",
+        "Summary": "Idiopathic Pulmonary Fibrosis (IPF) consists of lung inflammation and collagen deposition leading to reduced lung function and non-inducible mouse models are needed. Here the authors show a spontaneous mouse IPF model where Ifngr1-/-Rag2-/- mice show enhanced ILC2 activation and function along with pathology similar to IPF.",
+        "Authors": [
+            "Natsuko Otaki",
+            "Yasutaka Motomura",
+            "Kazuyo Moro"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-20"
+    },
+    {
+        "Title": "Recently activated CD4 T cells in tuberculosis express OX40 as a target for host-directed immunotherapy",
+        "Link": "https://www.nature.com/articles/s41467-023-44152-8",
+        "Summary": "Marking of recently activated T cells may help further our understanding of immunity against Mycobacterium tuberculosis (Mtb). Here the authors use Nur77-GFP reporter mice infected with Mtb and systems data approaches to implicate OX40 as a marker for recently activated, functionally and transcriptome-wise distinct CD4 T cells, and as a potential target for immunotherapy.",
+        "Authors": [
+            "Abigail R. Gress",
+            "Christine E. Ronayne",
+            "Tyler D. Bold"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-16"
+    },
+    {
+        "Title": "Inflammasome activity is controlled by ZBTB16-dependent SUMOylation of ASC",
+        "Link": "https://www.nature.com/articles/s41467-023-43945-1",
+        "Summary": "Inflammasomes are multiprotein complexes, including the protein ASC, that assemble in response to inflammatory stimulation. Here the authors characterise the regulation of ASC during inflammasome formation and show the involvement of SUMOylation and zinc-finger and BTB domain-containing protein 16 (ZBTB16).",
+        "Authors": [
+            "Danfeng Dong",
+            "Yuzhang Du",
+            "Dakang Xu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-16"
+    },
+    {
+        "Title": "Distinct gene expression signatures comparing latent tuberculosis infection with different routes of Bacillus Calmette-Gu\u00e9rin vaccination",
+        "Link": "https://www.nature.com/articles/s41467-023-44136-8",
+        "Summary": "The ability of BCG vaccination to prevent pulmonary tuberculosis could be improved by targeting mucosal immunity within the lung. Here the authors compare latent Mtb-infected donors with intradermal or oral BCG vaccine recipients to show distinct systemic and pulmonary immune responses are induced by differing routes of natural infection or vaccination.",
+        "Authors": [
+            "Richard F. Silver",
+            "Mei Xia",
+            "Daniel F. Hoft"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-17"
+    },
+    {
+        "Title": "Epithelial IFN\u03b3 signalling and compartmentalized antigen presentation orchestrate gut immunity",
+        "Link": "https://www.nature.com/articles/s41586-023-06721-1",
+        "Summary": "IFN\u03b3 signalling in\u00a0epithelial cells promotes\u00a0antigen presentation\u00a0that\u00a0confers intra-epithelial T cells\u00a0the ability to limit extracellular\u00a0ATP and\u00a0consequent NLRP3 inflammasome activation, controlling pathogenic transformation of CD4+ T cells that promotes colitis and colorectal cancer in mouse models.",
+        "Authors": [
+            "Ankit Malik",
+            "Deepika Sharma",
+            "Bana Jabri"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Nov 2023",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 623, P: 1044-1052"
+    },
+    {
+        "Title": "Epithelial SIRT6 governs IL-17A pathogenicity and drives allergic airway inflammation and remodeling",
+        "Link": "https://www.nature.com/articles/s41467-023-44179-x",
+        "Summary": "IL-17 mediated inflammation in the lung is mediated by different effector molecules. Here the authors show that the epigenetic regulator epithelial sirtuin 6 (Sirt6) is associated with lung inflammation in asthma patients and that Sirt6 contributes to promotion of inflammation in mouse asthma models.",
+        "Authors": [
+            "Jingyun Quan",
+            "Xiaoxia Wen",
+            "Tianwen Lai"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-14"
+    },
+    {
+        "Title": "Maternal antibiotic exposure enhances ILC2 activation in neonates via downregulation of IFN1 signaling",
+        "Link": "https://www.nature.com/articles/s41467-023-43903-x",
+        "Summary": "Treatment of pregnant animals with antibiotics can have unexpected effects on offspring. Here the authors use mouse models to show that antibiotic treatment of mothers leads to changes in ILC2 phenotype in neonatal lungs accompanied by changes in the microbiota and microbiota derived butyrate.",
+        "Authors": [
+            "Haixu Xu",
+            "Xianfu Yi",
+            "Jie Zhou"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-16"
+    },
+    {
+        "Title": "Human and mouse neutrophils share core transcriptional programs in both homeostatic and inflamed contexts",
+        "Link": "https://www.nature.com/articles/s41467-023-43573-9",
+        "Summary": "Difficulties can be encountered when translating research between cells from animals and humans because of gene expression differences. Here the authors perform an integrative transcriptomic analysis from human and mouse neutrophils and identify a core inflammation program shared across inflamed contexts.",
+        "Authors": [
+            "Nicolaj S. Hackert",
+            "Felix A. Radtke",
+            "Ricardo Grieshaber-Bouyer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-21"
+    },
+    {
+        "Title": "FOXP1 and KLF2 reciprocally regulate checkpoints of stem-like to effector transition in CAR T cells",
+        "Link": "https://www.nature.com/articles/s41590-023-01685-w",
+        "Summary": "Wu and colleagues identify gene networks and transcription factors that control the differentiation of stem-like CD8+ CAR T cells into effector or exhausted CD8+ CAR T cells.",
+        "Authors": [
+            "Ziang Zhu",
+            "Guohua Lou",
+            "Tuoqi Wu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "27 Nov 2023",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 25, P: 117-128"
+    }
+]

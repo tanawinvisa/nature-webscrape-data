@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "A bacterial gene-drive system efficiently edits and inactivates a high copy number antibiotic resistance locus",
+        "Link": "https://www.nature.com/articles/s41467-019-13649-6",
+        "Summary": "Genedrives bias the inheritance of alleles in diploid organisms. Here, the authors develop a gene-drive analogous system for bacteria, selectively editing and clearing plasmids.",
+        "Authors": [
+            "J. Andr\u00e9s Valderrama",
+            "Surashree S. Kulkarni",
+            "Ethan Bier"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-8"
+    },
+    {
+        "Title": "Root microbiota assembly and adaptive differentiation among European Arabidopsis populations",
+        "Link": "https://www.nature.com/articles/s41559-019-1063-3",
+        "Summary": "Across large spatial scales, climate is more important than soil conditions for plant adaptation and variation in root-associated filamentous eukaryotic communities.",
+        "Authors": [
+            "Thorsten Thiergart",
+            "Paloma Dur\u00e1n",
+            "St\u00e9phane Hacquard"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Ecology & Evolution",
+        "Volume and Pages": "Volume: 4, P: 122-131"
+    },
+    {
+        "Title": "Diet-derived galacturonic acid regulates virulence and intestinal colonization in enterohaemorrhagic Escherichia coli and Citrobacter rodentium",
+        "Link": "https://www.nature.com/articles/s41564-019-0641-0",
+        "Summary": "Galacturonic acid produced by Bacteroides thetaiotamicron is shown to be sensed by enterohaemorrhagic Escherichia coli and Citrobacter rodentium to initiate an infection program that includes its use as a carbon source and regulation of the type III secretion system, leading to colitis and inflammation.",
+        "Authors": [
+            "Angel G. Jimenez",
+            "Melissa Ellermann",
+            "Vanessa Sperandio"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 5, P: 368-378"
+    },
+    {
+        "Title": "Tracking microbial evolution in the human gut using Hi-C reveals extensive horizontal gene transfer, persistence and adaptation",
+        "Link": "https://www.nature.com/articles/s41564-019-0625-0",
+        "Summary": "High-throughput chromosomal conformation capture identified changes in the gut microbiome over 10 years, including substantial exchange of accessory elements and adaptive evolution in core genomes.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 5, P: 343-353"
+    },
+    {
+        "Title": "YtfK activates the stringent response by triggering the alarmone synthetase SpoT in Escherichia coli",
+        "Link": "https://www.nature.com/articles/s41467-019-13764-4",
+        "Summary": "The enzyme SpoT is important for accumulation of the alarmone (p)ppGpp, which triggers the stringent response in E. coli. Here, Germain et al. show that the protein YtfK promotes SpoT-dependent accumulation of (p)ppGpp and is required for activation of the stringent response during phosphate and fatty acid starvation.",
+        "Authors": [
+            "Elsa Germain",
+            "Paul Guiraud",
+            "Etienne Maisonneuve"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-12"
+    },
+    {
+        "Title": "Identification of the periplasmic DNA receptor for natural transformation of Helicobacter pylori",
+        "Link": "https://www.nature.com/articles/s41467-019-13352-6",
+        "Summary": "Some bacteria can take up DNA molecules from the environment. Here, Damke et al. identify a DNA-binding protein in Helicobacter pylori that is required for DNA import into the periplasm and that interacts with an inner-membrane channel that translocates the DNA into the cytoplasm.",
+        "Authors": [
+            "Prashant P. Damke",
+            "Anne Marie Di Guilmi",
+            "J. Pablo Radicella"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "25 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-11"
+    },
+    {
+        "Title": "Natural fumigation as a mechanism for volatile transport between flower organs",
+        "Link": "https://www.nature.com/articles/s41589-019-0287-5",
+        "Summary": "Bioactive sesquiterpenes accumulating in petunia stigmas are synthesized in the floral tube and then transported to the pistil via natural fumigation within the internal airspace of the developing flower.",
+        "Authors": [
+            "Beno\u00eet Boachon",
+            "Joseph H. Lynch",
+            "Natalia Dudareva"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "17 May 2019",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 15, P: 583-588"
+    },
+    {
+        "Title": "Phagocytosis-like cell engulfment by a planctomycete bacterium",
+        "Link": "https://www.nature.com/articles/s41467-019-13499-2",
+        "Summary": "Phagocytosis is a typically eukaryotic feature that could be behind the origin of eukaryotic cells. Here, the authors describe a bacterium that can engulf other bacteria and small eukaryotic cells through a phagocytosis-like mechanism.",
+        "Authors": [
+            "Takashi Shiratori",
+            "Shigekatsu Suzuki",
+            "Ken-ichiro Ishida"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-11"
+    },
+    {
+        "Title": "Rapid MinION profiling of preterm microbiota and antimicrobial-resistant pathogens",
+        "Link": "https://www.nature.com/articles/s41564-019-0626-z",
+        "Summary": "Shotgun metagenomic sequencing (using the MinION platform) of mock microbial communities and faecal samples from healthy and ill preterm infants can be used to identify pathogens and their antimicrobial resistance gene profiles in real time, indicating the potential for translation into clinical settings.",
+        "Authors": [
+            "Richard M. Leggett",
+            "Cristina Alcon-Giner",
+            "Matthew D. Clark"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2019",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 5, P: 430-442"
+    },
+    {
+        "Title": "Non-canonical signalling mediates changes in fungal cell wall PAMPs that drive immune evasion",
+        "Link": "https://www.nature.com/articles/s41467-019-13298-9",
+        "Summary": "The authors show that the fungal pathogen Candida albicans exploits diverse host-associated signals, including specific nutrients and stresses, to promote immune evasion by masking cell wall \u03b2-glucan, a major pathogen-associated molecular pattern.",
+        "Authors": [
+            "Arnab Pradhan",
+            "Gabriela M. Avelar",
+            "Alistair J. P. Brown"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-14"
+    }
+]

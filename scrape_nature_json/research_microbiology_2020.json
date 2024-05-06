@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Native mass spectrometry reveals the initial binding events of HIV-1 rev to RRE stem II RNA",
+        "Link": "https://www.nature.com/articles/s41467-020-19144-7",
+        "Summary": "The HIV-1 RNA-binding protein rev facilitates nuclear export of viral RNA. Here, the authors use native mass spectrometry to study the interactions between rev-derived peptides and rev response elements of HIV-1 RNA, providing mechanistic insights into rev recognition and recruitment.",
+        "Authors": [
+            "Eva-Maria Schneeberger",
+            "Matthias Halper",
+            "Kathrin Breuker"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-10"
+    },
+    {
+        "Title": "Genomic epidemiology reveals transmission patterns and dynamics of SARS-CoV-2 in Aotearoa New Zealand",
+        "Link": "https://www.nature.com/articles/s41467-020-20235-8",
+        "Summary": "New Zealand implemented stringent COVID-19 control measures early after identification of its first case. Here, the authors perform whole genome sequencing of samples taken until 22 May 2020 and find high viral diversity indicative of multiple separate introductions and limited community transmission.",
+        "Authors": [
+            "Jemma L. Geoghegan",
+            "Xiaoyun Ren",
+            "Joep de Ligt"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-7"
+    },
+    {
+        "Title": "The iron-dependent repressor YtgR is a tryptophan-dependent attenuator of the trpRBA operon in Chlamydia trachomatis",
+        "Link": "https://www.nature.com/articles/s41467-020-20181-5",
+        "Summary": "Chlamydia trachomatis does not possess TrpL-mediated transcription attenuation of its trp operon. Here, the authors show that an iron-dependent regulator, YtgR, acts as a tryptophan-dependent attenuator of the trp operon in this organism, due to translational regulation of YtgR levels via a triple tryptophan motif.",
+        "Authors": [
+            "Nick D. Pokorzynski",
+            "Nathan D. Hatch",
+            "Rey A. Carabeo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-15"
+    },
+    {
+        "Title": "Evidence of exposure to SARS-CoV-2 in cats and dogs from households in Italy",
+        "Link": "https://www.nature.com/articles/s41467-020-20097-0",
+        "Summary": "SARS-CoV-2 can infect cats and dogs, but the extent to which pets are infected in households remains unclear. Here, Patterson et al. test 919 companion animals in northern Italy and find that some dogs and cats from COVID-19 positive households can test positive for COVID-19 neutralizing antibodies, with dogs significantly more likely to do so if they came from COVID-19 positive households.",
+        "Authors": [
+            "E. I. Patterson",
+            "G. Elia",
+            "N. Decaro"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "04 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-5"
+    },
+    {
+        "Title": "Beta human papillomaviruses and skin cancer",
+        "Link": "https://www.nature.com/articles/s41586-020-3023-0",
+        "Summary": "",
+        "Authors": [
+            "Paul F. Lambert",
+            "Karl M\u00fcnger",
+            "Massimo Tommasino"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "16 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 588, P: E20-E21"
+    },
+    {
+        "Title": "Rapid and complete inactivation of SARS-CoV-2 by ultraviolet-C irradiation",
+        "Link": "https://www.nature.com/articles/s41598-020-79600-8",
+        "Summary": "",
+        "Authors": [
+            "Nadia Storm",
+            "Lindsay G. A. McKay",
+            "Anthony Griffiths"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Dec 2020",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 10, P: 1-5"
+    },
+    {
+        "Title": "Pandemic Vibrio cholerae shuts down site-specific recombination to retain an interbacterial defence mechanism",
+        "Link": "https://www.nature.com/articles/s41467-020-20012-7",
+        "Summary": "Vibrio cholerae uses a type VI secretion system (T6SS) to kill neighbouring competitors. Here, Santoriello et al. show that a T6SS gene cluster (Aux3) exists as a mobile, prophage-like element in some environmental strains, and as a stable truncated form in pandemic isolates. They propose that Aux3 acquisition increased competitive fitness of pre-pandemic V. cholerae.",
+        "Authors": [
+            "Francis J. Santoriello",
+            "Lina Michel",
+            "Stefan Pukatzki"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    },
+    {
+        "Title": "An oxindole efflux inhibitor potentiates azoles and impairs virulence in the fungal pathogen Candida auris",
+        "Link": "https://www.nature.com/articles/s41467-020-20183-3",
+        "Summary": "The fungal pathogen Candida auris is resistant to multiple drugs including the common antifungal fluconazole. Here, Iyer et al. identify a compound that potentiates fluconazole activity against C. auris in vitro and in vivo by inhibiting a major efflux pump and thus increasing intracellular fluconazole accumulation.",
+        "Authors": [
+            "Kali R. Iyer",
+            "Kaddy Camara",
+            "Leah E. Cowen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-17"
+    },
+    {
+        "Title": "Low SARS-CoV-2 seroprevalence in blood donors in the early COVID-19 epidemic in the Netherlands",
+        "Link": "https://www.nature.com/articles/s41467-020-19481-7",
+        "Summary": "The Netherlands is a country highly affected by the COVID-19 pandemic. In this study, Slot, Hogema and colleagues report a low SARS-CoV-2 seroprevalence one month into the outbreak and provide insights into virus exposure by region and age group when widespread non-pharmaceutical interventions are in place.",
+        "Authors": [
+            "Ed Slot",
+            "Boris M. Hogema",
+            "Hans L. Zaaijer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-7"
+    },
+    {
+        "Title": "A conserved regulator controls asexual sporulation in the fungal pathogen Candida albicans",
+        "Link": "https://www.nature.com/articles/s41467-020-20010-9",
+        "Summary": "Transcription factor Rme1 regulates meiosis and pseudohyphal growth in baker\u2019s yeast, but its role in the meiosis-defective pathogen Candida albicans is unclear. Here, Hern\u00e1ndez-Cervantes et al. show that Rme1 activates the expression of genes required for formation of asexual spores in Candida species.",
+        "Authors": [
+            "Arturo Hern\u00e1ndez-Cervantes",
+            "Sadri Znaidi",
+            "Christophe d\u2019Enfert"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "04 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-16"
+    }
+]

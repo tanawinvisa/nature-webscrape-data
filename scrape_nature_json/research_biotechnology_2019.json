@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Multi-functional genome-wide CRISPR system for high throughput genotype\u2013phenotype mapping",
+        "Link": "https://www.nature.com/articles/s41467-019-13621-4",
+        "Summary": "Genome-scale engineering is generally limited to single methods of alteration such as overexpression, repression or deletion. Here the authors present a tri-functional CRISPR system that can engineer complex synergistic interactions in a genome-wide manner.",
+        "Authors": [
+            "Jiazhang Lian",
+            "Carl Schultz",
+            "Huimin Zhao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-10"
+    },
+    {
+        "Title": "High-efficiency and integrable DNA arithmetic and logic system based on strand displacement synthesis",
+        "Link": "https://www.nature.com/articles/s41467-019-13310-2",
+        "Summary": "Current DNA computational systems are constrained by integration efficiency, device structures and limited functions. Here the authors design a DNA arithmetic logic unit that uses polymerase-mediated strand displacement.",
+        "Authors": [
+            "Haomiao Su",
+            "Jinglei Xu",
+            "Xiang Zhou"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-8"
+    },
+    {
+        "Title": "A large size-selective DNA nanopore with sensing applications",
+        "Link": "https://www.nature.com/articles/s41467-019-13284-1",
+        "Summary": "Artificial nanopores can perform selective gating of molecules analogous to transmembrane proteins. Here, the authors design a DNA origami pore with a controllable lid for size-selective gating and translocation of macromolecules and evaluate its biosensing properties by single particle assay.",
+        "Authors": [
+            "Rasmus P. Thomsen",
+            "Mette Galsgaard Malle",
+            "J\u00f8rgen Kjems"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-10"
+    },
+    {
+        "Title": "Natural variation of OsGluA2 is involved in grain protein content regulation in rice",
+        "Link": "https://www.nature.com/articles/s41467-019-09919-y",
+        "Summary": "Grain protein content determines rice nutrition quality. Here, the authors show that a single nucleotide polymorphism in the promoter region of OsGluA2, encoding a glutelin type-A2 precursor, is responsible for glutelin content difference between the indica and japonica rice subspecies.",
+        "Authors": [
+            "Yihao Yang",
+            "Min Guo",
+            "Changjie Yan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Apr 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-12"
+    },
+    {
+        "Title": "Biointerfacial self-assembly generates lipid membrane coated bacteria for enhanced oral delivery and treatment",
+        "Link": "https://www.nature.com/articles/s41467-019-13727-9",
+        "Summary": "Oral microbiota delivery is an approach to treat and prevent disease but suffers from low retention and bioavailability. Here the authors report on a lipid coating to protect against environmental assault maintaining viability and bioactivity of the bacteria and demonstrate effective application in a colitis model.",
+        "Authors": [
+            "Zhenping Cao",
+            "Xinyue Wang",
+            "Jinyao Liu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-11"
+    },
+    {
+        "Title": "Dynamic and tunable metabolite control for robust minimal-equipment assessment of serum zinc",
+        "Link": "https://www.nature.com/articles/s41467-019-13454-1",
+        "Summary": "Tightly controlling cell output is challenging, which has limited development and applications of bacterial sensors. Here the authors develop tunable, fast-responding sensors to control production of metabolic pigments and use them to assess zinc deficiency in a low-cost, minimal equipment fashion.",
+        "Authors": [
+            "Monica P. McNerney",
+            "Cirstyn L. Michel",
+            "Mark P. Styczynski"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "04 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-13"
+    },
+    {
+        "Title": "Cytoplasmic glycoengineering enables biosynthesis of nanoscale glycoprotein assemblies",
+        "Link": "https://www.nature.com/articles/s41467-019-13283-2",
+        "Summary": "Established bacterial glycoengineering platforms limit access to protein and glycan substrates. Here the authors design a cytoplasmic protein glycosylation system, Glycoli, to generate a variety of multivalent glycostructures.",
+        "Authors": [
+            "Hanne L. P. Tytgat",
+            "Chia-wei Lin",
+            "Timothy G. Keys"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-10"
+    },
+    {
+        "Title": "A reversible RNA on-switch that controls gene expression of AAV-delivered therapeutics in vivo",
+        "Link": "https://www.nature.com/articles/s41587-019-0357-y",
+        "Summary": "In vivo control of expression levels of AAV-delivered genes is enabled by an engineered RNA switch.",
+        "Authors": [
+            "Guocai Zhong",
+            "Haimin Wang",
+            "Michael Farzan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Biotechnology",
+        "Volume and Pages": "Volume: 38, P: 169-175"
+    },
+    {
+        "Title": "Engineered E. coli Nissle 1917 for the delivery of matrix-tethered therapeutic domains to the gut",
+        "Link": "https://www.nature.com/articles/s41467-019-13336-6",
+        "Summary": "Anti-inflammatory treatments for gastrointestinal diseases can often have detrimental side effects. Here the authors engineer E. coli Nissle 1917 to create a fibrous matrix that has a protective effect in DSS-induced colitis mice.",
+        "Authors": [
+            "Pichet Praveschotinunt",
+            "Anna M. Duraj-Thatte",
+            "Neel S. Joshi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-14"
+    },
+    {
+        "Title": "Nanopore native RNA sequencing of a human poly(A) transcriptome",
+        "Link": "https://www.nature.com/articles/s41592-019-0617-2",
+        "Summary": "Directly sequencing RNA strands through a nanopore retains the full length of the transcript and allows for analysis of polyA tail length, transcript haplotypes and base modifications.",
+        "Authors": [
+            "Rachael E. Workman",
+            "Alison D. Tang",
+            "Winston Timp"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "18 Nov 2019",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 16, P: 1297-1305"
+    }
+]

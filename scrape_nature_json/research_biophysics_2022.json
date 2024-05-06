@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Force-tuned avidity of spike variant-ACE2 interactions viewed on the single-molecule level",
+        "Link": "https://www.nature.com/articles/s41467-022-35641-3",
+        "Summary": "Combining high-speed AFM, single molecule recognition force spectroscopy, and molecular dynamics simulations Zhu, Canena, Sikora et al. characterize the interaction dynamics of the trimeric spike protein of SARS-CoV-2 wt, and delta and omicron variants with its entry receptor ACE2. While delta variant increases avidity by multivalent binding to ACE2, omicron variant shows an extended binding lifetime.",
+        "Authors": [
+            "Rong Zhu",
+            "Daniel Canena",
+            "Peter Hinterdorfer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "24 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-17"
+    },
+    {
+        "Title": "Biomolecular condensate phase diagrams with a combinatorial microdroplet platform",
+        "Link": "https://www.nature.com/articles/s41467-022-35265-7",
+        "Summary": "A central concept for characterising phase-separating systems is the phase diagram but generation of such diagrams for biomolecular systems\u00a0is typically slow and low-throughput. Here the authors describe PhaseScan, a combinatorial droplet microfluidic platform for high-resolution acquisition of multidimensional biomolecular phase diagrams.",
+        "Authors": [
+            "William E. Arter",
+            "Runzhang Qi",
+            "Tuomas P. J. Knowles"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-10"
+    },
+    {
+        "Title": "Backbone amides are determinants of Cl\u2212 selectivity in CLC ion channels",
+        "Link": "https://www.nature.com/articles/s41467-022-35279-1",
+        "Summary": "CLC-type channels selectively transport Cl\u2212 across biological membranes, but it is unclear how discrimination between anions is maintained. Here, authors use a combination of non-natural amino acid substitutions, electrophysiology, and molecular dynamics simulations to determine Cl\u2212 specificity within this family of ion channels.",
+        "Authors": [
+            "Lilia Leisle",
+            "Kin Lam",
+            "Alessio Accardi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-11"
+    },
+    {
+        "Title": "Tissue fluidification promotes a cGAS\u2013STING cytosolic DNA response in invasive breast cancer",
+        "Link": "https://www.nature.com/articles/s41563-022-01431-x",
+        "Summary": "Tissue fluidification in invasive breast carcinoma is accompanied by mechanical stresses that compromise nuclear integrity and liberate DNA, resulting in the activation of a pro-inflammatory response that shape tumour evolution and progression.",
+        "Authors": [
+            "Emanuela Frittoli",
+            "Andrea Palamidessi",
+            "Giorgio Scita"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Materials",
+        "Volume and Pages": "Volume: 22, P: 644-655"
+    },
+    {
+        "Title": "Planar aggregation of the influenza viral fusion peptide alters membrane structure and hydration, promoting poration",
+        "Link": "https://www.nature.com/articles/s41467-022-34576-z",
+        "Summary": "Target membrane poration is a longstanding enigma in virology. Here, authors show that fusion peptides of the influenza virus\u2019 spike protein aggregate, rotate, and tilt in membranes, facilitating peptide-induced poration during viral fusion.",
+        "Authors": [
+            "Amy Rice",
+            "Sourav Haldar",
+            "Joshua Zimmerberg"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-15"
+    },
+    {
+        "Title": "Polarity and chirality control of an active fluid by passive nematic defects",
+        "Link": "https://www.nature.com/articles/s41563-022-01432-w",
+        "Summary": "Defects of a passive nematic liquid crystal made from actin filaments pattern the collective behaviour of active microtubules, creating macroscopic polar patterns and chiral loops.",
+        "Authors": [
+            "Alfredo Sciortino",
+            "Lukas J. Neumann",
+            "Andreas R. Bausch"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Dec 2022",
+        "Journal Title": "Nature Materials",
+        "Volume and Pages": "Volume: 22, P: 260-268"
+    },
+    {
+        "Title": "Binding affinity estimation from restrained umbrella sampling simulations",
+        "Link": "https://www.nature.com/articles/s43588-022-00389-9",
+        "Summary": "This work provides a physics-based theoretical framework for accurate protein\u2013ligand binding affinity estimation based on molecular dynamics simulations, enhanced sampling, non-parametric reweighting and the orientation quaternion formalism.",
+        "Authors": [
+            "Vivek Govind Kumar",
+            "Adithya Polasa",
+            "Mahmoud Moradi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Computational Science",
+        "Volume and Pages": "Volume: 3, P: 59-70"
+    },
+    {
+        "Title": "Assessment of 3D MINFLUX data for quantitative structural biology in cells",
+        "Link": "https://www.nature.com/articles/s41592-022-01694-x",
+        "Summary": "",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "15 Dec 2022",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 20, P: 48-51"
+    },
+    {
+        "Title": "Mechanics of the cellular microenvironment as probed by cells in vivo during zebrafish presomitic mesoderm differentiation",
+        "Link": "https://www.nature.com/articles/s41563-022-01433-9",
+        "Summary": "During mesodermal differentiation of living zebrafish embryos, individual cells probe the stiffness associated with the foam-like architecture of the tissue as a part of their mechanosensing responses.",
+        "Authors": [
+            "Alessandro Mongera",
+            "Marie Pochitaloff",
+            "Otger Camp\u00e0s"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Dec 2022",
+        "Journal Title": "Nature Materials",
+        "Volume and Pages": "Volume: 22, P: 135-143"
+    },
+    {
+        "Title": "Gating intermediates reveal inhibitory role of the voltage sensor in a cyclic nucleotide-modulated ion channel",
+        "Link": "https://www.nature.com/articles/s41467-022-34673-z",
+        "Summary": "Visualizing conformational changes during ion channel gating is crucial to understand their regulation. Here, Gao et al. capture multiple gating intermediates in a CNG channel as well as subtle, lateral voltage sensor movements necessary for channel opening.",
+        "Authors": [
+            "Xiaolong Gao",
+            "Philipp A. M. Schmidpeter",
+            "Crina M. Nimigean"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Nov 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    }
+]

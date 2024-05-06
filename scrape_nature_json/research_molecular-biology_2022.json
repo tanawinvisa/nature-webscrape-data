@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Multiscale reorganization of the genome following DNA damage facilitates chromosome translocations via nuclear actin polymerization",
+        "Link": "https://www.nature.com/articles/s41594-022-00893-6",
+        "Summary": "Here the authors report a genomic view of 3D chromatin reorganization following DNA damage. Movement of damaged DNA into nuclear domains, which is brought about by nuclear actin, favors error-free damage repair at the expense of rare chromosome rearrangements with oncogenic potential.",
+        "Authors": [
+            "Jennifer Zagelbaum",
+            "Allana Schooley",
+            "Jean Gautier"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Dec 2022",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 30, P: 99-106"
+    },
+    {
+        "Title": "Functional crosstalk between the cohesin loader and chromatin remodelers",
+        "Link": "https://www.nature.com/articles/s41467-022-35444-6",
+        "Summary": "Chromatin remodelers direct the cohesin loader to nucleosome depleted regions where cohesin accesses chromosomes. Mu\u00f1oz et al. now show that the cohesin loader in turn is a biochemical activator of a chromatin remodeler, helping to clear nucleosomes",
+        "Authors": [
+            "Sof\u00eda Mu\u00f1oz",
+            "Andrew Jones",
+            "Frank Uhlmann"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "Exon junction complex shapes the m6A epitranscriptome",
+        "Link": "https://www.nature.com/articles/s41467-022-35643-1",
+        "Summary": "Here the authors show the exon junction complex (EJC) component, EIF4A3, locally restricts METTL3- mediated mRNA methylation at exon junctions to explain the observed widespread enrichment of m6A modification in 3\u2019 untranslated regions.",
+        "Authors": [
+            "Xin Yang",
+            "Robinson Triboulet",
+            "Richard I. Gregory"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "Pol\u03bb promotes microhomology-mediated end-joining",
+        "Link": "https://www.nature.com/articles/s41594-022-00895-4",
+        "Summary": "Chandramouly et al. discover that human Pol\u03bb exhibits robust microhomology-mediated end-joining (MMEJ) activity like Pol\u03a6. Pol\u03bb promotes MMEJ in mammalian cells independently of essential nonhomologous end-joining factors LIG4/XRCC4 and Polq, which indicates a distinct Pol\u03bb-dependent MMEJ mechanism.",
+        "Authors": [
+            "Gurushankar Chandramouly",
+            "Joonas Jamsen",
+            "Richard T. Pomerantz"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 30, P: 107-114"
+    },
+    {
+        "Title": "R-loop-derived cytoplasmic RNA\u2013DNA hybrids activate an immune response",
+        "Link": "https://www.nature.com/articles/s41586-022-05545-9",
+        "Summary": "RNA\u2013DNA hybrids are immunogenic species that can\u00a0aberrantly accumulate in the cytoplasm after R-loop processing, linking R-loop accumulation to cell death through the innate immune response.",
+        "Authors": [
+            "Magdalena P. Crossley",
+            "Chenlin Song",
+            "Karlene A. Cimprich"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "21 Dec 2022",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 613, P: 187-194"
+    },
+    {
+        "Title": "Nano3P-seq: transcriptome-wide analysis of gene expression and tail dynamics using end-capture nanopore cDNA sequencing",
+        "Link": "https://www.nature.com/articles/s41592-022-01714-w",
+        "Summary": "Nano3P-seq presents a nanopore-based sequencing tool to profile polyA-tailed and non-polyA-tailed transcripts, as well as capture polyA tail length and composition.",
+        "Authors": [
+            "Oguzhan Begik",
+            "Gregor Diensthuber",
+            "Eva Maria Novoa"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 20, P: 75-85"
+    },
+    {
+        "Title": "ER-associated RNA silencing promotes ER quality control",
+        "Link": "https://www.nature.com/articles/s41556-022-01025-4",
+        "Summary": "Efstathiou et al. describe an Argonaute-dependent endoplasmic reticulum (ER)-associated RNA silencing pathway that acts together with ER-associated protein degradation to preserve ER homeostasis and function.",
+        "Authors": [
+            "Sotirios Efstathiou",
+            "Franziska Ottens",
+            "Thorsten Hoppe"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2022",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 24, P: 1714-1725"
+    },
+    {
+        "Title": "Global landscape of replicative DNA polymerase usage in the human genome",
+        "Link": "https://www.nature.com/articles/s41467-022-34929-8",
+        "Summary": "Profiling of human DNA polymerase Pol\u03b5 and Pol\u03b1 demonstrates their roles in leading and lagging strand DNA synthesis, and their independent measures allowed accurate predictions of replication dynamics and effects of transcription.",
+        "Authors": [
+            "Eri Koyanagi",
+            "Yoko Kakimoto",
+            "Yasukazu Daigaku"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "24 Nov 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-18"
+    },
+    {
+        "Title": "Age-dependent Lamin changes induce cardiac dysfunction via dysregulation of cardiac transcriptional programs",
+        "Link": "https://www.nature.com/articles/s43587-022-00323-8",
+        "Summary": "Kirkland et al. identify conserved age-dependent nuclear remodeling in Drosophila cardiomyocytes, dependent on declining Lamin C. They show that Lamin C loss induces reversible heart dysfunction by repressing myogenic transcription factors.",
+        "Authors": [
+            "Natalie J. Kirkland",
+            "Scott H. Skalak",
+            "Adam J. Engler"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Aging",
+        "Volume and Pages": "Volume: 3, P: 17-33"
+    },
+    {
+        "Title": "Deciphering the mechanical code of the genome and epigenome",
+        "Link": "https://www.nature.com/articles/s41594-022-00877-6",
+        "Summary": "Basu and colleagues comprehensively characterize how sequence and epigenetic modifications impact the local mechanical properties of DNA. The results suggest that DNA mechanics may have evolved to aid diverse DNA-deforming biological processes.",
+        "Authors": [
+            "Aakash Basu",
+            "Dmitriy G. Bobrovnikov",
+            "Taekjip Ha"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "05 Dec 2022",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 29, P: 1178-1187"
+    }
+]

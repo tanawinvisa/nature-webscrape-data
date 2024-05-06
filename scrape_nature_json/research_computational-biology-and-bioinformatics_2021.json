@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Nationwide rollout reveals efficacy of epidemic control through digital contact tracing",
+        "Link": "https://www.nature.com/articles/s41467-021-26144-8",
+        "Summary": "The effectiveness of digital contact tracing for COVID-19 control remains uncertain. Here, the authors use data from the Smittestopp app, used in Norway in spring 2020, and estimate that 80% of nearby devices were detected by the app, and at least 11% of close contacts were not visible to manual contact tracing.",
+        "Authors": [
+            "Ahmed Elmokashfi",
+            "Joakim Sundnes",
+            "Olav Lysne"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Oct 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-8"
+    },
+    {
+        "Title": "A multi-scale map of cell structure fusing protein images and interactions",
+        "Link": "https://www.nature.com/articles/s41586-021-04115-9",
+        "Summary": "Protein immunofluorescence imaging and affinity purification\u2013mass spectrometry are combined to create a unified map of human cell architecture across scales, which the authors call the multi-scale\u00a0integrated cell (MuSIC).",
+        "Authors": [
+            "Yue Qin",
+            "Edward L. Huttlin",
+            "Trey Ideker"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "24 Nov 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 600, P: 536-542"
+    },
+    {
+        "Title": "A computational pipeline for functional gene discovery",
+        "Link": "https://www.nature.com/articles/s41598-021-03041-0",
+        "Summary": "",
+        "Authors": [
+            "Aolani Colon",
+            "Rishabh Hirday",
+            "Li Cai"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Dec 2021",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 11, P: 1-6"
+    },
+    {
+        "Title": "DeepRank: a deep learning framework for data mining 3D protein-protein interfaces",
+        "Link": "https://www.nature.com/articles/s41467-021-27396-0",
+        "Summary": "The authors present DeepRank, a deep learning framework for the data mining of large sets of 3D protein-protein interfaces (PPI). They use DeepRank to address two challenges in structural biology: distinguishing biological versus crystallographic PPIs in crystal structures, and secondly the ranking of docking models.",
+        "Authors": [
+            "Nicolas Renaud",
+            "Cunliang Geng",
+            "Li C. Xue"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "03 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-8"
+    },
+    {
+        "Title": "Fast and accurate metagenotyping of the human gut microbiome with GT-Pro",
+        "Link": "https://www.nature.com/articles/s41587-021-01102-3",
+        "Summary": "Alignment-free SNP calling from metagenomes reduces computational time by two orders of magnitude.",
+        "Authors": [
+            "Zhou Jason Shi",
+            "Boris Dimitrov",
+            "Katherine S. Pollard"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature Biotechnology",
+        "Volume and Pages": "Volume: 40, P: 507-516"
+    },
+    {
+        "Title": "Face detection in untrained deep neural networks",
+        "Link": "https://www.nature.com/articles/s41467-021-27606-9",
+        "Summary": "Face-selective neurons are observed in the primate visual pathway and are considered as the basis of face detection in the brain. Here, using a hierarchical deep neural network model of the ventral visual stream, the authors suggest that face selectivity arises in the complete absence of training.",
+        "Authors": [
+            "Seungdae Baek",
+            "Min Song",
+            "Se-Bum Paik"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-15"
+    },
+    {
+        "Title": "How connectivity rules and synaptic properties shape the efficacy of pattern separation in the entorhinal cortex\u2013dentate gyrus\u2013CA3 network",
+        "Link": "https://www.nature.com/articles/s43588-021-00157-1",
+        "Summary": "The authors present a full-scale model of the entorhinal cortex\u2013dentate gyrus\u2013CA3 network based on experimental data to show that fast lateral inhibition plays a key role in pattern separation.",
+        "Authors": [
+            "S. Jose Guzman",
+            "Alois Schl\u00f6gl",
+            "Peter Jonas"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "16 Dec 2021",
+        "Journal Title": "Nature Computational Science",
+        "Volume and Pages": "Volume: 1, P: 830-842"
+    },
+    {
+        "Title": "Emulator-based Bayesian optimization for efficient multi-objective calibration of an individual-based model of malaria",
+        "Link": "https://www.nature.com/articles/s41467-021-27486-z",
+        "Summary": "Individual-based models have become important tools in the global battle against infectious diseases, yet model complexity can make calibration challenging. Here, the authors propose a Bayesian optimization framework to calibrate a complex malaria transmission simulator.",
+        "Authors": [
+            "Theresa Reiker",
+            "Monica Golumbeanu",
+            "Melissa A. Penny"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-11"
+    },
+    {
+        "Title": "Simultaneous estimation of bi-directional causal effects and heritable confounding from GWAS summary statistics",
+        "Link": "https://www.nature.com/articles/s41467-021-26970-w",
+        "Summary": "Mendelian Randomization approaches are being increasingly refined, but certain statistical limitations hinder their application to GWAS. Here, the authors propose a new Mendelian Randomization method to estimate bi- directional causal effects and explicitly account for heritable confounding.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-15"
+    },
+    {
+        "Title": "Biological heterogeneity in idiopathic pulmonary arterial hypertension identified through unsupervised transcriptomic profiling of whole blood",
+        "Link": "https://www.nature.com/articles/s41467-021-27326-0",
+        "Summary": "Idiopathic pulmonary arterial hypertension is a rare and fatal disease with a heterogeneous treatment response. Here the authors show that unsupervised machine learning of whole blood transcriptomes from 359 patients with idiopathic pulmonary arterial hypertension identifies 3 subgroups (endophenotypes) that improve risk stratification and provide new molecular insights.",
+        "Authors": [
+            "Sokratis Kariotis",
+            "Emmanuel Jammeh",
+            "Richard C. Trembath"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-14"
+    }
+]

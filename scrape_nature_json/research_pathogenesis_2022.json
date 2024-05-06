@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Association of placental histology and neonatal hematologic outcomes",
+        "Link": "https://www.nature.com/articles/s41372-022-01595-z",
+        "Summary": "",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2022",
+        "Journal Title": "Journal of Perinatology",
+        "Volume and Pages": "Volume: 43, P: 155-161"
+    },
+    {
+        "Title": "Aberrant filling of the retinal vein on fluorescein angiography in branch and hemi-central retinal artery occlusion",
+        "Link": "https://www.nature.com/articles/s41433-022-02379-7",
+        "Summary": "",
+        "Authors": [
+            "Ramesh Venkatesh",
+            "Shama Sharief",
+            "Jay Chhablani"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "28 Dec 2022",
+        "Journal Title": "Eye",
+        "Volume and Pages": "Volume: 37, P: 2659-2663"
+    },
+    {
+        "Title": "SARS-CoV-2 infection and persistence in the human body and brain at autopsy",
+        "Link": "https://www.nature.com/articles/s41586-022-05542-y",
+        "Summary": "A study reports the distribution, replication and persistence of SARS-CoV-2 throughout the human body including in the brain at autopsy from acute infection to more than seven months following symptom onset.",
+        "Authors": [
+            "Sydney R. Stein",
+            "Sabrina C. Ramelli",
+            "Daniel S. Chertow"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "14 Dec 2022",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 612, P: 758-763"
+    },
+    {
+        "Title": "Microbiome-mediated fructose depletion restricts murine gut colonization by vancomycin-resistant Enterococcus",
+        "Link": "https://www.nature.com/articles/s41467-022-35380-5",
+        "Summary": "Vancomycin-resistant Enterococcus (VRE) represents a major threat for patients\u2019 health. Here, using a mouse model, the authors show that specific commensals restrict VRE gut colonization through depletion of fructose, a nutrient source that boosts VRE growth in vivo.",
+        "Authors": [
+            "Sandrine Isaac",
+            "Alejandra Flor-Duro",
+            "Carles Ubeda"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-19"
+    },
+    {
+        "Title": "Aging-associated HELIOS deficiency in naive CD4+ T cells alters chromatin remodeling and promotes effector cell responses",
+        "Link": "https://www.nature.com/articles/s41590-022-01369-x",
+        "Summary": "Goronzy and colleagues examine differences in naive CD4+ T cells from young and older adults to TCR stimulation. They find reduced HELIOS expression in the elderly, resulting in increased CD25 expression and activation of pSTAT5 in FOXP3\u2212 T cells. This scenario favors generation of short-lived effector T cells over memory cell populations.",
+        "Authors": [
+            "Huimin Zhang",
+            "Rohit R. Jadhav",
+            "J\u00f6rg J. Goronzy"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "12 Dec 2022",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 24, P: 96-109"
+    },
+    {
+        "Title": "Automated high-throughput genome editing platform with an AI learning in situ prediction model",
+        "Link": "https://www.nature.com/articles/s41467-022-35056-0",
+        "Summary": "A large number of cell disease models with pathogenic SNVs are needed. Here the authors report an automated high-throughput platform to perform the genome editing process from gRNA design to the analysis of the editing results; they characterise in situ base editing outcomes.",
+        "Authors": [
+            "Siwei Li",
+            "Jingjing An",
+            "Meng Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Nov 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-11"
+    },
+    {
+        "Title": "mTORC1 links pathology in experimental models of Still\u2019s disease and macrophage activation syndrome",
+        "Link": "https://www.nature.com/articles/s41467-022-34480-6",
+        "Summary": "Still\u2019s disease is an inflammatory syndrome linked to the development of further immune dysregulation and hypercytokinaemia termed macrophage activation syndrome. Here the authors implicate the mechanistic target of rapamycin complex 1 in murine models of Still\u2019s disease and macrophage activation syndrome, and provide associations with clinical cases in patients",
+        "Authors": [
+            "Zhengping Huang",
+            "Xiaomeng You",
+            "Pui Y. Lee"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Nov 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-15"
+    },
+    {
+        "Title": "CXCL13 is a predictive biomarker in idiopathic multicentric Castleman disease",
+        "Link": "https://www.nature.com/articles/s41467-022-34873-7",
+        "Summary": "Idiopathic multicentric Castleman disease (iMCD) is a life-threatening inflammatory disease requiring immediate intervention, for which the recommended first-line therapy is the Interleukin-6 pathway inhibitor siltuximab. Authors here show that the change in levels of the chemokine CXCL13 shortly following the start of siltuximab treatment is predictive of response.",
+        "Authors": [
+            "Sheila K. Pierson",
+            "Laura Katz",
+            "David C. Fajgenbaum"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "24 Nov 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-13"
+    },
+    {
+        "Title": "Gut to lung translocation and antibiotic mediated selection shape the dynamics of Pseudomonas aeruginosa in an ICU patient",
+        "Link": "https://www.nature.com/articles/s41467-022-34101-2",
+        "Summary": "In this paper the authors show that the pathogenic bacterium Pseudomonas aeruginosa migrates between the gut and lungs of an ICU patient, and that differential evolutionary responses to antibiotic treatment occur in these organs.",
+        "Authors": [
+            "Rachel M. Wheatley",
+            "Julio Diaz Caballero",
+            "R. Craig MacLean"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Nov 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-11"
+    },
+    {
+        "Title": "Morphometric study of percutaneous A1 pulley of thumb release",
+        "Link": "https://www.nature.com/articles/s41598-022-24759-5",
+        "Summary": "",
+        "Authors": [
+            "Wei-xing Zhong",
+            "Zu-jiang Chen",
+            "Yi-kai Li"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2022",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 12, P: 1-6"
+    }
+]

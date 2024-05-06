@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Reply to: Beta human papillomaviruses and skin cancer",
+        "Link": "https://www.nature.com/articles/s41586-020-3024-z",
+        "Summary": "",
+        "Authors": [
+            "John D. Strickley",
+            "Jonathan L. Messerschmidt",
+            "Shadmehr Demehri"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "16 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 588, P: E22-E23"
+    },
+    {
+        "Title": "An IL-2-grafted antibody immunotherapy with potent efficacy against metastatic cancer",
+        "Link": "https://www.nature.com/articles/s41467-020-20220-1",
+        "Summary": "IL-2/anti-IL-2 complexes have been proposed to curtail the severe adverse effects associated with IL-2 immunotherapy. Here, the authors, by integrating unmutated human IL-2 in the antigen binding groove of an anti-IL-2 monoclonal antibody, generate a CD122-biased fusion protein that prevents binding of IL-2 to CD25 and promotes anti-tumor immune response in several preclinical metastatic cancer models.",
+        "Authors": [
+            "Dilara Sahin",
+            "Natalia Arenas-Ramirez",
+            "Onur Boyman"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    },
+    {
+        "Title": "The molecular landscape of Asian breast cancers reveals clinically relevant population-specific differences",
+        "Link": "https://www.nature.com/articles/s41467-020-20173-5",
+        "Summary": "Molecular profiling of breast cancer in non-Caucasian populations remains underexplored. Here the authors report a high prevalence of HER2-subtypes and enriched immune score with improved survival and higher rates of TP53 somatic mutations with poorer survival in ER+ tumours in a Malaysian cohort.",
+        "Authors": [
+            "Jia-Wern Pan",
+            "Muhammad Mamduh Ahmad Zabidi",
+            "Soo-Hwang Teo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    },
+    {
+        "Title": "Chromothripsis drives the evolution of gene amplification in cancer",
+        "Link": "https://www.nature.com/articles/s41586-020-03064-z",
+        "Summary": "Chromothripsis\u2014a process during which chromosomes are \u2018shattered\u2019\u2014drives the evolution of gene amplification and subsequent drug resistance in cancer cells.",
+        "Authors": [
+            "Ofer Shoshani",
+            "Simon F. Brunner",
+            "Don W. Cleveland"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 591, P: 137-141"
+    },
+    {
+        "Title": "Single-cell RNA landscape of intratumoral heterogeneity and immunosuppressive microenvironment in advanced osteosarcoma",
+        "Link": "https://www.nature.com/articles/s41467-020-20059-6",
+        "Summary": "Osteosarcomas are difficult to treat and have a limited response to immunotherapy. Here, the authors analyse osteosarcomas at the single-cell level, and identify both the transdifferentiation of malignant cells and an array of immune cells that could have implications for metastasis and immunotherapy.",
+        "Authors": [
+            "Yan Zhou",
+            "Dong Yang",
+            "Haiyan Hu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-17"
+    },
+    {
+        "Title": "A metastasis map of human cancer cell lines",
+        "Link": "https://www.nature.com/articles/s41586-020-2969-2",
+        "Summary": "A method in which pooled barcoded human cancer cell lines are injected into a mouse xenograft model enables simultaneous mapping of the metastatic potential of multiple cell lines, and shows that breast cancer cells that metastasize to the brain have altered lipid metabolism.",
+        "Authors": [
+            "Xin Jin",
+            "Zelalem Demere",
+            "Todd R. Golub"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 588, P: 331-336"
+    },
+    {
+        "Title": "HIF1A signaling selectively supports proliferation of breast cancer in the brain",
+        "Link": "https://www.nature.com/articles/s41467-020-20144-w",
+        "Summary": "The mechanisms underlying the growth of breast cancer metastasis in the brain are unclear. Here, the authors use an intracranial injection mouse model and single-cell analysis of patient circulating tumour cells to demonstrate that increased hypoxic and HIF1A signalling promotes tumour growth in the brain.",
+        "Authors": [
+            "Richard Y. Ebright",
+            "Marcus A. Zachariah",
+            "Shyamala Maheswaran"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-13"
+    },
+    {
+        "Title": "Deep learning-based cross-classifications reveal conserved spatial behaviors within tumor histological images",
+        "Link": "https://www.nature.com/articles/s41467-020-20030-5",
+        "Summary": "Histopathological images are a rich but incompletely explored data type for studying cancer. Here the authors show that convolutional neural networks can be systematically applied across cancer types, enabling comparisons to reveal shared spatial behaviors.",
+        "Authors": [
+            "Javad Noorbakhsh",
+            "Saman Farahmand",
+            "Jeffrey H. Chuang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-14"
+    },
+    {
+        "Title": "Tipping the immunostimulatory and inhibitory DAMP balance to harness immunogenic cell death",
+        "Link": "https://www.nature.com/articles/s41467-020-19970-9",
+        "Summary": "Most chemotherapeutic agents, including gemcitabine, do not elicit immunogenic cell death, a phenomenon associated with the release of damage-associated molecule patterns (DAMPs). Here, the authors show that gemcitabine-treated dying cancer cells express hallmark DAMPs but their immunogenic properties are hindered by the concomitant release of the inhibitory DAMP PGE2.",
+        "Authors": [
+            "K. Hayashi",
+            "F. Nikolos",
+            "K. S. Chan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-13"
+    },
+    {
+        "Title": "Immune suppressive landscape in the human esophageal squamous cell carcinoma microenvironment",
+        "Link": "https://www.nature.com/articles/s41467-020-20019-0",
+        "Summary": "Understanding the tumour microenvironment is essential for the efficacy of immunotherapies. Here the authors describe the immune landscape in esophageal squamous cell carcinoma and suggest several immunosuppressive mechanisms, which upon targeting may restore anti-tumour immune response.",
+        "Authors": [
+            "Yingxia Zheng",
+            "Zheyi Chen",
+            "Lisong Shen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-17"
+    }
+]

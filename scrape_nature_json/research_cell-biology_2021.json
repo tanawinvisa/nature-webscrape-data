@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Physics-based machine learning for subcellular segmentation in living cells",
+        "Link": "https://www.nature.com/articles/s42256-021-00420-0",
+        "Summary": "To train deep learning methods to segment very small subcellular structures, the training data have to be labelled by experts as the optical effects at such a small scale and the narrow depth of focus make it difficult to identify individual structures. Sekh et al. use a physics-based simulation approach to train neural networks to automatically segment subcellular structures despite the optical artefacts.",
+        "Authors": [
+            "Arif Ahmed Sekh",
+            "Ida S. Opstad",
+            "Dilip K. Prasad"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2021",
+        "Journal Title": "Nature Machine Intelligence",
+        "Volume and Pages": "Volume: 3, P: 1071-1080"
+    },
+    {
+        "Title": "Spatial control of avidity regulates initiation and progression of selective autophagy",
+        "Link": "https://www.nature.com/articles/s41467-021-27420-3",
+        "Summary": "The molecular principles governing the initiation of autophagosome formation are not clearly understood. Here we show that the vacuolar protein Vac8 coordinates this process by promoting an avidity-driven assembly of several autophagy factors.",
+        "Authors": [
+            "David M. Hollenstein",
+            "Mariya Licheva",
+            "Claudine Kraft"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-18"
+    },
+    {
+        "Title": "NuMA regulates mitotic spindle assembly, structural dynamics and function via phase separation",
+        "Link": "https://www.nature.com/articles/s41467-021-27528-6",
+        "Summary": "Mitotic spindle assembly is required for proper cell division, but many underlying mechanisms remain unclear. Here, the authors show that NuMa undergoes liquid-liquid phase separation, condensing on spindle poles during mitotic entry and enriching critical components to promote spindle assembly.",
+        "Authors": [
+            "Mengjie Sun",
+            "Mingkang Jia",
+            "Chuanmao Zhang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-16"
+    },
+    {
+        "Title": "ER proteins decipher the tubulin code to regulate organelle distribution",
+        "Link": "https://www.nature.com/articles/s41586-021-04204-9",
+        "Summary": "The endoplasmic reticulum proteins CLIMP63, kinectin and p180 bind preferentially to subsets of microtubules with different post-translational modifications, thereby linking the \u2018tubulin code\u2019 to the intracellular distribution of membrane organelles.",
+        "Authors": [
+            "Pengli Zheng",
+            "Christopher J. Obara",
+            "Craig Blackstone"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 601, P: 132-138"
+    },
+    {
+        "Title": "Acute RyR1 Ca2+ leak enhances NADH-linked mitochondrial respiratory capacity",
+        "Link": "https://www.nature.com/articles/s41467-021-27422-1",
+        "Summary": "Ryanodine receptor type 1 (RyR1) are involved in skeletal muscle contraction. Here, the authors show that a transient calcium leak in response to exercise-induced post translational modifications of RyR1 causes mitochondrial remodeling to improve respiration.",
+        "Authors": [
+            "Nad\u00e8ge Zanou",
+            "Haikel Dridi",
+            "Nicolas Place"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-19"
+    },
+    {
+        "Title": "Counteraction between Astrin-PP1 and Cyclin-B-CDK1 pathways protects chromosome-microtubule attachments independent of biorientation",
+        "Link": "https://www.nature.com/articles/s41467-021-27131-9",
+        "Summary": "Chromosome instability frequently occurs due to issues with chromosome-microtubule attachments. Here the authors show that the Astrin-PP1 and Cyclin-B-CDK1 pathways counteract each other to protect chromosome-microtubule attachments independent of biorientation.",
+        "Authors": [
+            "Xinhong Song",
+            "Duccio Conti",
+            "Viji M. Draviam"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "01 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-16"
+    },
+    {
+        "Title": "WFS1 functions in ER export of vesicular cargo proteins in pancreatic \u03b2-cells",
+        "Link": "https://www.nature.com/articles/s41467-021-27344-y",
+        "Summary": "The role of cargo receptors in proinsulin export from the ER is unclear. Here, the authors identify the WFS1 protein, which is mutated in Wolfram syndrome and associated with diabetes, as an ER to Golgi cargo receptor required for normal insulin processing and secretion.",
+        "Authors": [
+            "Linlin Wang",
+            "Hongyang Liu",
+            "Zonghong Li"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Nov 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-13"
+    },
+    {
+        "Title": "The NUCKS1-SKP2-p21/p27 axis controls S phase entry",
+        "Link": "https://www.nature.com/articles/s41467-021-27124-8",
+        "Summary": "Entry into S phase of the cell cycle is regulated positively by mitogens and negatively by DNA damage; however, how balance of these signals is achieved is not well known. Here the authors show that the NUCKS1-SKP2- p21/p27 axis integrates this information, where the NUCKS1 transcription factor affects levels of p21/p27 to readout the mitogen:DNA damage balance and regulate S phase entry decision.",
+        "Authors": [
+            "Samuel Hume",
+            "Claudia P. Grou",
+            "Grigory L. Dianov"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Nov 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-14"
+    },
+    {
+        "Title": "MIROs and DRP1 drive mitochondrial-derived vesicle biogenesis and promote quality control",
+        "Link": "https://www.nature.com/articles/s41556-021-00798-4",
+        "Summary": "By characterizing the composition of mitochondrial-derived vesicles (MDVs), K\u00f6nig et al. define a MIRO1/2- and DRP1-dependent MDV biogenesis pathway and propose that MDVs maintain the mitochondrial proteome by shuttling assembled protein complexes to lysosomes.",
+        "Authors": [
+            "Tim K\u00f6nig",
+            "Hendrik Nolte",
+            "Heidi M. McBride"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "06 Dec 2021",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 23, P: 1271-1286"
+    },
+    {
+        "Title": "A genetically-encoded crosslinker screen identifies SERBP1 as a PKC\u03b5 substrate influencing translation and cell division",
+        "Link": "https://www.nature.com/articles/s41467-021-27189-5",
+        "Summary": "PKC\u03b5 is known to exert a role in genome protection by directly phosphorylating and switching the specificity of Aurora B. Here the authors identify SERBP1 as a parallel mitotic PKC\u03b5 substrate controlling translation and ensuring the integrity of chromosome segregation and successful cell division.",
+        "Authors": [
+            "Silvia Martini",
+            "Khalil Davis",
+            "Peter J. Parker"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Nov 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-16"
+    }
+]

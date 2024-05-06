@@ -1,0 +1,146 @@
+[
+    {
+        "Title": "Natural scene sampling reveals reliable coarse-scale orientation tuning in human V1",
+        "Link": "https://www.nature.com/articles/s41467-022-34134-7",
+        "Summary": "Whether orientation-selectivity is discernable via fMRI remains unclear. Here, by analyzing a public dataset of responses to natural scenes using neurally-inspired image-computable models, the authors isolate and characterize a coarse-scale orientation map and demonstrate that orientation-selective BOLD responses reflect multiple distinct computations at a range of spatial scales.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Oct 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-13"
+    },
+    {
+        "Title": "Natural switches in behaviour rapidly modulate hippocampal coding",
+        "Link": "https://www.nature.com/articles/s41586-022-05112-2",
+        "Summary": "During rapid behavioural switches in flying bats, hippocampal neurons can rapidly switch their core computation to represent the relevant behavioural variables, supporting behavioural flexibility.",
+        "Authors": [
+            "Ayelet Sarel",
+            "Shaked Palgi",
+            "Nachum Ulanovsky"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "24 Aug 2022",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 609, P: 119-127"
+    },
+    {
+        "Title": "Contextual and pure time coding for self and other in the hippocampus",
+        "Link": "https://www.nature.com/articles/s41593-022-01226-y",
+        "Summary": "In bat CA1, the authors found contextual time cells encoding spatial context and time, another population purely encoding elapsed time and social time cells encoding sequences aligned to another bat\u2019s landing in a social imitation task.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2022",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 26, P: 285-294"
+    },
+    {
+        "Title": "Neocortical synaptic engrams for remote contextual memories",
+        "Link": "https://www.nature.com/articles/s41593-022-01223-1",
+        "Summary": "Lee et al. show that the long-term storage of remote contextual memories involves progressive and synapse-specific strengthening of excitatory connections between memory engram neurons in the prefrontal cortex.",
+        "Authors": [
+            "Ji-Hye Lee",
+            "Woong Bin Kim",
+            "Jun-Hyeong Cho"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Dec 2022",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 26, P: 259-273"
+    },
+    {
+        "Title": "Arithmetic value representation for hierarchical behavior composition",
+        "Link": "https://www.nature.com/articles/s41593-022-01211-5",
+        "Summary": "Using mice and artificial deep reinforcement learning agents trained in the same task, it is discovered that composition of a novel behavior entails a simple arithmetic operation on action values of constituent subtasks and their stochastic policies.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 26, P: 140-149"
+    },
+    {
+        "Title": "Microglia ferroptosis is regulated by SEC24B and contributes to neurodegeneration",
+        "Link": "https://www.nature.com/articles/s41593-022-01221-3",
+        "Summary": "Iron-laden microglia assume a disease-relevant, ferroptosis-associated signature and cause neurotoxicity. CRISPR screen uncovered regulators of ferroptosis in microglia. This ferroptosis\u2013microglia\u2013neurodegeneration axis could be targeted therapeutically.",
+        "Authors": [
+            "Sean K. Ryan",
+            "Matija Zelic",
+            "Timothy R. Hammond"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 26, P: 12-26"
+    },
+    {
+        "Title": "The role of the lateral orbitofrontal cortex in creating cognitive maps",
+        "Link": "https://www.nature.com/articles/s41593-022-01216-0",
+        "Summary": "Animals form cognitive maps of the world to guide behavior. This study shows that the lateral orbitofrontal cortex is essential for creating precise, outcome-specific cognitive maps during initial learning, but not for general map creation in itself.",
+        "Authors": [
+            "Kau\u00ea Machado Costa",
+            "Robert Scholz",
+            "Geoffrey Schoenbaum"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 26, P: 107-115"
+    },
+    {
+        "Title": "Memory for nonadjacent dependencies in the first year of life and its relation to sleep",
+        "Link": "https://www.nature.com/articles/s41467-022-35558-x",
+        "Summary": "Grammar learning requires memory for temporally organised, rule-based patterns in speech. Here, the authors use event-related potentials to show that 6 to 8 month-old infants can form memory of dependencies between nonadjacent elements in sentences of an unknown language, regardless of whether they nap or stay awake after encoding.",
+        "Authors": [
+            "Manuela Friedrich",
+            "Matthias M\u00f6lle",
+            "Angela D. Friederici"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-10"
+    },
+    {
+        "Title": "Efficient neural codes naturally emerge through gradient descent learning",
+        "Link": "https://www.nature.com/articles/s41467-022-35659-7",
+        "Summary": "In animals, sensory systems appear optimized for the statistics of the external world. Here the authors take an artificial psychophysics approach, analysing sensory responses in artificial neural networks, and show why\u00a0these demonstrate the same phenomenon as natural sensory systems.",
+        "Authors": [
+            "Ari S. Benjamin",
+            "Ling-Qi Zhang",
+            "Konrad P. Kording"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "Continuous cholinergic-dopaminergic updating in the nucleus accumbens underlies approaches to reward-predicting cues",
+        "Link": "https://www.nature.com/articles/s41467-022-35601-x",
+        "Summary": "Nucleus accumbens cholinergic interneurons release acetylcholine and glutamate. Here, authors show that acetylcholine, rather than glutamate, is predominantly involved in updating dopamine dynamics mediating Pavlovian approach behaviours.",
+        "Authors": [
+            "Miguel Skirzewski",
+            "Oren Princz-Lebel",
+            "Timothy J. Bussey"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "24 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-21"
+    }
+]

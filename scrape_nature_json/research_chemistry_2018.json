@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Electricity-driven asymmetric Lewis acid catalysis",
+        "Link": "https://www.nature.com/articles/s41929-018-0198-y",
+        "Summary": "The use of electrochemistry in asymmetric catalysis can prove challenging, not least due to the difficulty of achieving chemo- and stereoselectivity in combination with very reactive electrochemically generated intermediates. Here, catalytic asymmetric electrosynthesis is reported for the synthesis of 1,4-dicarbonyl compounds with high enantiomeric excess, including compounds with all-carbon quaternary stereocentres. The chiral-at-metal catalyst activates the substrate towards anodic oxidation in addition to controlling the enantioselectivity of the process.",
+        "Authors": [
+            "Xiaoqiang Huang",
+            "Qi Zhang",
+            "Eric Meggers"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "17 Dec 2018",
+        "Journal Title": "Nature Catalysis",
+        "Volume and Pages": "Volume: 2, P: 34-40"
+    },
+    {
+        "Title": "General synthesis of primary amines via reductive amination employing a reusable nickel catalyst",
+        "Link": "https://www.nature.com/articles/s41929-018-0202-6",
+        "Summary": "Reusable catalysts based on earth-abundant metals could offer inexpensive and sustainable routes in organic synthesis. Here a nickel catalyst\u2014formed by pyrolysis of a nickel complex on a \u03b3-Al2O3 support\u2014is shown to be highly active for synthesis of primary amines via reductive amination. The catalyst operates with aqueous ammonia and either aldehydes or ketones, tolerating a wide range of functional groups.",
+        "Authors": [
+            "G. Hahn",
+            "P. Kunnas",
+            "R. Kempe"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "17 Dec 2018",
+        "Journal Title": "Nature Catalysis",
+        "Volume and Pages": "Volume: 2, P: 71-77"
+    },
+    {
+        "Title": "Rapid virtual screening of enantioselective catalysts using CatVS",
+        "Link": "https://www.nature.com/articles/s41929-018-0193-3",
+        "Summary": "Predicting highly enantioselective ligands for a given asymmetric catalytic reaction is very challenging, but could greatly reduce the need for high-throughput, trial-and-error experimentation. Here, the authors report a freely available, automated tool to identify appropriate chiral ligands for given substrates in asymmetric catalysis.",
+        "Authors": [
+            "Anthony R. Rosales",
+            "Jessica Wahlers",
+            "Per-Ola Norrby"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "10 Dec 2018",
+        "Journal Title": "Nature Catalysis",
+        "Volume and Pages": "Volume: 2, P: 41-45"
+    },
+    {
+        "Title": "Click chemistry enables quantitative chiroptical sensing of chiral compounds in protic media and complex mixtures",
+        "Link": "https://www.nature.com/articles/s41467-018-07695-9",
+        "Summary": "Chiroptical sensing in complex mixtures remains a challenging task. Here, the authors report an efficient coumarin probe for chiroptical click chirality sensing of absolute configuration, concentration and enantiomeric excess of several compound classes. The method can be directly applied to crude asymmetric reaction mixtures.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-8"
+    },
+    {
+        "Title": "Irradiation-induced palladium-catalyzed decarboxylative desaturation enabled by a dual ligand system",
+        "Link": "https://www.nature.com/articles/s41467-018-07694-w",
+        "Summary": "Production of alkenes through decarboxyolefination of carboxylates is a synthetically useful process. Here, the authors report a palladium/dual ligand-enabled decarboxylative desaturation reaction under mild irradiation conditions and apply it to the synthesis of Chondriamide A and C.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-9"
+    },
+    {
+        "Title": "The highly surprising behaviour of diphosphine ligands in iron-catalysed Negishi cross-coupling",
+        "Link": "https://www.nature.com/articles/s41929-018-0197-z",
+        "Summary": "Despite the many recent developments in iron-catalysed cross-couplings, the mechanistic understanding of these reactions is lacking compared to the more studied palladium and nickel variants. Here, the authors find that during iron-catalysed Negishi reactions the diphosphine ligand predominately binds to the zinc\u2014rather than the iron\u2014centre.",
+        "Authors": [
+            "Antonis M. Messinis",
+            "Stephen L. J. Luckham",
+            "Robin B. Bedford"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "31 Dec 2018",
+        "Journal Title": "Nature Catalysis",
+        "Volume and Pages": "Volume: 2, P: 123-133"
+    },
+    {
+        "Title": "Pd(OAc)2-catalyzed asymmetric hydrogenation of sterically hindered N-tosylimines",
+        "Link": "https://www.nature.com/articles/s41467-018-07462-w",
+        "Summary": "Sterically hindered unsaturated compounds are challenging substrates for asymmetric hydrogenation. Here, the authors report a palladium/chiral (bis)phosphine catalytic system that hydrogenates a number of hindered N-tosylimines with excellent enantioselectivitites.",
+        "Authors": [
+            "Jianzhong Chen",
+            "Zhenfeng Zhang",
+            "Wanbin Zhang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Nov 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-10"
+    },
+    {
+        "Title": "Intersystem crossing in the exit channel",
+        "Link": "https://www.nature.com/articles/s41557-018-0186-5",
+        "Summary": "Intersystem crossing (ISC) is a radiationless process that is important in many photophysical systems. It has now been observed to take place in the exit channel for the reaction of ground-state atomic oxygen with alkylamines.",
+        "Authors": [
+            "Hongwei Li",
+            "Alexander Kamasah",
+            "Arthur G. Suits"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "10 Dec 2018",
+        "Journal Title": "Nature Chemistry",
+        "Volume and Pages": "Volume: 11, P: 123-128"
+    },
+    {
+        "Title": "Versatile and robust C\u2013C activation by chelation-assisted manganese catalysis",
+        "Link": "https://www.nature.com/articles/s41929-018-0187-1",
+        "Summary": "Unlike the more common C\u2013H functionalization, methods for the functionalization of C\u2013C bonds are scarce. Here, Ackermann and co-workers show that an inexpensive manganese catalyst is capable of selectively activating C\u2013C bonds for alkylations, alkenylations, and allylations in water.",
+        "Authors": [
+            "Hui Wang",
+            "Isaac Choi",
+            "Lutz Ackermann"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "10 Dec 2018",
+        "Journal Title": "Nature Catalysis",
+        "Volume and Pages": "Volume: 1, P: 993-1001"
+    },
+    {
+        "Title": "Identification of single-atom active sites in carbon-based cobalt catalysts during electrocatalytic hydrogen evolution",
+        "Link": "https://www.nature.com/articles/s41929-018-0203-5",
+        "Summary": "Carbon-based single-atom catalysts usually rely on nitrogen co-doping to stabilize the single metal atoms as metal\u2013N4 moieties. Now, Wei, Yao and colleagues make use of operando techniques to show that under alkaline hydrogen evolution reaction conditions the Co\u2013N4 active site undergoes structural distortion to a HO\u2013Co\u2013N2 configuration.",
+        "Authors": [
+            "Linlin Cao",
+            "Qiquan Luo",
+            "Shiqiang Wei"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "31 Dec 2018",
+        "Journal Title": "Nature Catalysis",
+        "Volume and Pages": "Volume: 2, P: 134-141"
+    }
+]

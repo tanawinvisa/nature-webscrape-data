@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Interleukin 2 modulates thymic-derived regulatory T cell epigenetic landscape",
+        "Link": "https://www.nature.com/articles/s41467-018-07806-6",
+        "Summary": "Regulatory T (Treg) cells are developed in the thymus, and are essential for suppressing detrimental autoimmunity. Here the authors show, using mice with dampened interleukin 2 (IL-2) signaling, that IL-2 helps position the pioneer factor SATB1\u00a0to control genome-wide chromatin accessibility to facilitate Treg cell\u00a0lineage commitment in the thymus.",
+        "Authors": [
+            "Laurent Chorro",
+            "Masako Suzuki",
+            "Gr\u00e9goire Lauvau"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-17"
+    },
+    {
+        "Title": "A multicomponent toxin from Bacillus cereus incites inflammation and shapes host outcome via the NLRP3 inflammasome",
+        "Link": "https://www.nature.com/articles/s41564-018-0318-0",
+        "Summary": "The Bacillus cereus enterotoxin haemolysin BL induces pore formation and activation of the NLRP3 inflammasome, leading to enhanced lethality during infection.",
+        "Authors": [
+            "Anukriti Mathur",
+            "Shouya Feng",
+            "Si Ming Man"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "10 Dec 2018",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 4, P: 362-374"
+    },
+    {
+        "Title": "The transcription factor c-Maf is essential for the commitment of IL-17-producing \u03b3\u03b4 T cells",
+        "Link": "https://www.nature.com/articles/s41590-018-0274-0",
+        "Summary": "Ciofani and colleagues identify the transcription factor c-Maf as a universal regulator of the differentiation of IL-17-producing \u03b3\u03b4 T cells.",
+        "Authors": [
+            "Matthew K. Zuberbuehler",
+            "Morgan E. Parker",
+            "Maria Ciofani"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "10 Dec 2018",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 20, P: 73-85"
+    },
+    {
+        "Title": "Regulation of mycobacterial infection by macrophage Gch1 and tetrahydrobiopterin",
+        "Link": "https://www.nature.com/articles/s41467-018-07714-9",
+        "Summary": "Inducible nitric oxide (NO) synthase (iNOS) is essential in the response to mycobacterial infection, yet NOS signalling can occur through NO-dependent or NO-independent pathways. Here the authors show macrophage Gch1 and tetrahydrobiopterin mediate NO-independent control of Mycobacterial infection.",
+        "Authors": [
+            "Eileen McNeill",
+            "Elena Stylianou",
+            "Keith M. Channon"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-16"
+    },
+    {
+        "Title": "PDL2+ CD11b+ dermal dendritic cells capture topical antigen through hair follicles to prime LAP+ Tregs",
+        "Link": "https://www.nature.com/articles/s41467-018-07716-7",
+        "Summary": "Antigen present and presented in the structures of the skin can result in immune responses that elicit tolerance, protective immunity or allergy, depending on the immunological context. Here the authors describe a key role for the hair follicle and CD11b+ dendritic cells in the priming of local antigenic tolerance.",
+        "Authors": [
+            "Leticia Tordesillas",
+            "Daniel Lozano-Ojalvo",
+            "M. Cecilia Berin"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-12"
+    },
+    {
+        "Title": "Control of Treg cell homeostasis and immune equilibrium by Lkb1 in dendritic cells",
+        "Link": "https://www.nature.com/articles/s41467-018-07545-8",
+        "Summary": "Regulatory T (Treg) cells are important for maintaining immune homeostasis by suppressing immune cell activation, but how the Treg cell pool is maintained is still unclear. Here the authors show that a kinase, Lkb1, operates in dendritic cells (DC) to inhibit Treg cell expansion and immunosuppression via mechanisms involving NF-kB/OX40L signalling.",
+        "Authors": [
+            "Song Chen",
+            "Lijun Fang",
+            "Xiaoming Feng"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-16"
+    },
+    {
+        "Title": "JunB regulates homeostasis and suppressive functions of effector regulatory T cells",
+        "Link": "https://www.nature.com/articles/s41467-018-07735-4",
+        "Summary": "Regulatory T (Treg) cells need to be differentiated into effector Treg (eTreg), with the transcription factor IRF4 implicated during this process. Here the authors show that an AP-1 family transcription factor, JunB, is expressed in eTreg to promote the IRF4 transcription program, and regulate eTreg homeostasis and function.",
+        "Authors": [
+            "Shin-ichi Koizumi",
+            "Daiki Sasaki",
+            "Hiroki Ishikawa"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-14"
+    },
+    {
+        "Title": "Deep learning using tumor HLA peptide mass spectrometry datasets improves neoantigen identification",
+        "Link": "https://www.nature.com/articles/nbt.4313",
+        "Summary": "Neoantigen prediction from clinical samples is improved using a neural network model trained on a large HLA peptide and genomic tumor dataset.",
+        "Authors": [
+            "Brendan Bulik-Sullivan",
+            "Jennifer Busby",
+            "Roman Yelensky"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "17 Dec 2018",
+        "Journal Title": "Nature Biotechnology",
+        "Volume and Pages": "Volume: 37, P: 55-63"
+    },
+    {
+        "Title": "CSF1R regulates the dendritic cell pool size in adult mice via embryo-derived tissue-resident macrophages",
+        "Link": "https://www.nature.com/articles/s41467-018-07685-x",
+        "Summary": "Dendritic cells (DC) are important regulators of both innate and adaptive immunity, but how the DC pool is homeostatically maintained in vivo is unclear. Here the authors show that combined deficiency of FLT3 and CSF1R impedes the differentiation of spleen macrophages of embryonic origin that are required for DC homeostasis.",
+        "Authors": [
+            "Gulce Itir Percin",
+            "Jiri Eitler",
+            "Claudia Waskow"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-12"
+    },
+    {
+        "Title": "The establishment of resident memory B cells in the lung requires local antigen encounter",
+        "Link": "https://www.nature.com/articles/s41590-018-0260-6",
+        "Summary": "Tissue-resident memory cells are functionally distinct from lymph node memory cells. Randall and colleagues show that lung infection establishes B cell memory in situ and confers superior responses following challenge infection, which will inform vaccine design for respiratory viruses.",
+        "Authors": [
+            "S. Rameeza Allie",
+            "John E. Bradley",
+            "Troy D. Randall"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "03 Dec 2018",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 20, P: 97-108"
+    }
+]

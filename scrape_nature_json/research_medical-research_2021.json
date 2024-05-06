@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Nationwide rollout reveals efficacy of epidemic control through digital contact tracing",
+        "Link": "https://www.nature.com/articles/s41467-021-26144-8",
+        "Summary": "The effectiveness of digital contact tracing for COVID-19 control remains uncertain. Here, the authors use data from the Smittestopp app, used in Norway in spring 2020, and estimate that 80% of nearby devices were detected by the app, and at least 11% of close contacts were not visible to manual contact tracing.",
+        "Authors": [
+            "Ahmed Elmokashfi",
+            "Joakim Sundnes",
+            "Olav Lysne"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Oct 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-8"
+    },
+    {
+        "Title": "A randomized study to evaluate safety and immunogenicity of the BNT162b2 COVID-19 vaccine in healthy Japanese adults",
+        "Link": "https://www.nature.com/articles/s41467-021-27316-2",
+        "Summary": "Here the authors provide the interim analysis of an ongoing phase 1/2 study of the BNT162b2 vaccine in healthy Japanese adults. They report mainly mild to moderate local reactions and no serious adverse events as well as good antibody induction one month after the second dose.",
+        "Authors": [
+            "Miwa Haranaka",
+            "James Baber",
+            "Stephen Lockhart"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-7"
+    },
+    {
+        "Title": "Three-year outcomes of the randomized phase III SEIPLUS trial of extensive intraoperative peritoneal lavage for locally advanced gastric cancer",
+        "Link": "https://www.nature.com/articles/s41467-021-26778-8",
+        "Summary": "Extensive intraoperative peritoneal lavage (EIPL) has been proposed as an approach to reduce peritoneal metastasis in patients with locally advanced gastric cancer undergoing gastrectomy. Here the authors report the results of the multicentric phase III SEIPLUS trial, showing that EIPL does not improve 3-year survival rate in patients with advanced gastric cancer.",
+        "Authors": [
+            "Jing Guo",
+            "Aman Xu",
+            "Dazhi Xu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Nov 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-7"
+    },
+    {
+        "Title": "Neoadjuvant immunotherapy with nivolumab and ipilimumab induces major pathological responses in patients with head and neck squamous cell carcinoma",
+        "Link": "https://www.nature.com/articles/s41467-021-26472-9",
+        "Summary": "Immune checkpoint blockade has become standard care for patients with recurrent metastatic head and neck squamous cell carcinoma (HNSCC). Here the authors present the results of a non-randomized phase Ib/IIa trial, reporting safety and efficacy of neoadjuvant nivolumab monotherapy and nivolumab plus ipilimumab prior to standard-of-care surgery in patients with HNSCC. .",
+        "Authors": [
+            "Joris L. Vos",
+            "Joris B. W. Elbers",
+            "Charlotte L. Zuur"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-13"
+    },
+    {
+        "Title": "Correlation of SARS-CoV-2-breakthrough infections to time-from-vaccine",
+        "Link": "https://www.nature.com/articles/s41467-021-26672-3",
+        "Summary": "The duration of effectiveness of SARS-CoV-2 vaccination is not yet known. Here, the authors present preliminary evidence of BNT162b2 vaccine waning across all age groups above 16, with a higher incidence of infection in people who received their second dose early in 2021 compared to later in the year.",
+        "Authors": [
+            "Barak Mizrahi",
+            "Roni Lotan",
+            "Tal Patalon"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "04 Nov 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-5"
+    },
+    {
+        "Title": "Meta-analyses identify DNA methylation associated with kidney function and damage",
+        "Link": "https://www.nature.com/articles/s41467-021-27234-3",
+        "Summary": "Many genetic loci have been identified to be associated with kidney disease, but the molecular mechanisms are not well understood. Here, the authors perform epigenome-wide association studies on kidney function measures to identify epigenetic marks and pathways involved in kidney function.",
+        "Authors": [
+            "Pascal Schlosser",
+            "Adrienne Tin",
+            "Alexander Teumer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-16"
+    },
+    {
+        "Title": "Epigenome-wide association study of serum urate reveals insights into urate co-regulation and the SLC2A9 locus",
+        "Link": "https://www.nature.com/articles/s41467-021-27198-4",
+        "Summary": "Serum urate concentration can be studied in large datasets to find genetic and epigenetic loci that may be related to cardiometabolic traits. Here the authors identify and replicate 100 urate-associated CpGs, which provide insights into urate GWAS loci and shared CpGs of urate and cardiometabolic traits.",
+        "Authors": [
+            "Adrienne Tin",
+            "Pascal Schlosser",
+            "Anna K\u00f6ttgen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-18"
+    },
+    {
+        "Title": "Quantifying previous SARS-CoV-2 infection through mixture modelling of antibody levels",
+        "Link": "https://www.nature.com/articles/s41467-021-26452-z",
+        "Summary": "The proportion of a population that has previously been infected by a pathogen is typically estimated using antibody thresholds adjusted for sensitivity and specificity. Here, the authors present a model-based alternative to threshold methods which accounts for antibody waning and other sources of spectrum bias.",
+        "Authors": [
+            "C. Bottomley",
+            "M. Otiende",
+            "J. A. G. Scott"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Oct 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-7"
+    },
+    {
+        "Title": "Improving local prevalence estimates of SARS-CoV-2 infections using a causal debiasing framework",
+        "Link": "https://www.nature.com/articles/s41564-021-01029-0",
+        "Summary": "A causal debiasing framework provides accurate estimates of local prevalence and effective reproduction number for surveillance of SARS-CoV-2 cases using data from randomized testing schemes to model ascertainment bias in targeted subpopulation data.",
+        "Authors": [
+            "George Nicholson",
+            "Brieuc Lehmann",
+            "Chris Holmes"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "31 Dec 2021",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 7, P: 97-107"
+    },
+    {
+        "Title": "Finding genetically-supported drug targets for Parkinson\u2019s disease using Mendelian randomization of the druggable genome",
+        "Link": "https://www.nature.com/articles/s41467-021-26280-1",
+        "Summary": "There is currently no disease-modifying treatment for Parkinson\u2019s disease, a common neurodegenerative disorder. Here, the authors use genetic variation associated with gene and protein expression to find putative drug targets for Parkinson\u2019s disease using Mendelian randomization of the druggable genome.",
+        "Authors": [
+            "Catherine S. Storm",
+            "Demis A. Kia",
+            "Nicholas W. Wood"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-14"
+    }
+]

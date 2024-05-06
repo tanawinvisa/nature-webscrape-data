@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "National genomic surveillance integrating standardized quantitative susceptibility testing clarifies antimicrobial resistance in Enterobacterales",
+        "Link": "https://www.nature.com/articles/s41467-023-43516-4",
+        "Summary": "Kayama et al. present a blueprint for a national genomic surveillance study that conducts genome sequencing of thousands of strains, integrates standardized quantitative antimicrobial susceptibility testing, and characterizes antimicrobial resistance determinants.",
+        "Authors": [
+            "Shizuo Kayama",
+            "Koji Yahara",
+            "Motoyuki Sugai"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-13"
+    },
+    {
+        "Title": "NAT10-dependent N4\u2010acetylcytidine modification mediates PAN RNA stability, KSHV reactivation, and IFI16-related inflammasome activation",
+        "Link": "https://www.nature.com/articles/s41467-023-42135-3",
+        "Summary": "N-acetyltransferase 10 (NAT10) is an N4\u2010acetylcytidine (ac4C) writer, which catalyzes RNA acetylation at cytidine N4 position on RNAs. Here, the authors show that NAT10 catalyzes ac4C addition to a long non-coding RNA encoded by the oncogenic DNA virus Kaposi\u2019s sarcoma-associated herpesvirus (KSHV), triggering viral lytic reactivation from latency, which promotes NAT10 recruitment of IFI16 mRNA, resulting in inflammasome activation.",
+        "Authors": [
+            "Qin Yan",
+            "Jing Zhou",
+            "Chun Lu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Oct 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "National surveillance data analysis of COVID-19 vaccine uptake in England by women of reproductive age",
+        "Link": "https://www.nature.com/articles/s41467-023-36125-8",
+        "Summary": "Women of reproductive age may have specific concerns relating to perceived impacts on fertility and menstrual cycles that make them hesitant to receive COVID-19 vaccination. In this study, the authors explore COVID-19 vaccine uptake rates in women of reproductive age using linked data for ~13 million women in England.",
+        "Authors": [
+            "Laura A. Magee",
+            "Erika Molteni",
+            "Sara White"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Feb 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-8"
+    },
+    {
+        "Title": "Microbial interactions shape cheese flavour formation",
+        "Link": "https://www.nature.com/articles/s41467-023-41059-2",
+        "Summary": "Cheese fermentation and flavour formation are the result of complex biochemical reactions driven by the activity of multiple microorganisms. Here, the authors identify microbial interactions\u00a0as a mechanism underlying flavour formation in Cheddar cheese.",
+        "Authors": [
+            "Chrats Melkonian",
+            "Francisco Zorrilla",
+            "Ahmad A. Zeidan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-14"
+    },
+    {
+        "Title": "The Helicobacter pylori Genome Project: insights into H. pylori population structure from analysis of a worldwide collection of complete genomes",
+        "Link": "https://www.nature.com/articles/s41467-023-43562-y",
+        "Summary": "The bacterium Helicobacter pylori, often found in the human stomach, can be classified into distinct subpopulations associated with the geographic origin of the host. Here, the authors provide insights into H. pylori population structure by collecting over 1,000 clinical strains from 50 countries and generating\u00a0and analyzing high-quality bacterial genome sequences.",
+        "Authors": [
+            "Kaisa Thorell",
+            "Zilia Y. Mu\u00f1oz-Ram\u00edrez",
+            "Charles S. Rabkin"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-16"
+    },
+    {
+        "Title": "The oxygen-tolerant reductive glycine pathway assimilates methanol, formate and CO2 in the yeast Komagataella phaffii",
+        "Link": "https://www.nature.com/articles/s41467-023-43610-7",
+        "Summary": "One carbon compounds such as CO2, methanol and formate are cost-effective and environmentally friendly microbial feedstocks for biomanufacturing. Here, the authors report the oxygen tolerant reductive glycine pathway in Komagataella phaffii can co-assimilate CO2, methanol and formate.",
+        "Authors": [
+            "Bernd M. Mitic",
+            "Christina Troyer",
+            "Diethard Mattanovich"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Nov 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-13"
+    },
+    {
+        "Title": "NDP52 mediates an antiviral response to hepatitis B virus infection through Rab9-dependent lysosomal degradation pathway",
+        "Link": "https://www.nature.com/articles/s41467-023-44201-2",
+        "Summary": "The nuclear dot protein 52 (NDP52) is an autophagy receptor known to trigger autophagy following bacterial infection. Here, Cui et al. show that NDP52 also triggers an anti-viral response following hepatitis B virus (HBV) infection. NDP52 forms a tripartite complex with Rab9 and envelope proteins of HBV and targets the virus to Rab9-dependent lysosomal degradation pathway.",
+        "Authors": [
+            "Shuzhi Cui",
+            "Tian Xia",
+            "Yu Wei"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-16"
+    },
+    {
+        "Title": "Plasmid-encoded toxin defence mediates mutualistic microbial interactions",
+        "Link": "https://www.nature.com/articles/s41564-023-01521-9",
+        "Summary": "Enterococcus strains harbour a plasmid-encoded defence against reuterin, a toxin produced by Limosilactobacillus reuteri, mediating a mutualistic metabolic interaction between these two gut microbiota members.",
+        "Authors": [
+            "Sarah Mora\u00efs",
+            "Michael Mazor",
+            "Itzhak Mizrahi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2023",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 9, P: 108-119"
+    },
+    {
+        "Title": "Natural history of long-COVID in a nationwide, population cohort study",
+        "Link": "https://www.nature.com/articles/s41467-023-39193-y",
+        "Summary": "The long-term natural history of long-COVID is not well understood. In this population-based cohort study from Scotland, the authors describe symptom prevalence and health-related quality of life up to 18 months after a positive SARS-CoV-2 test and compare with matched test-negative controls.",
+        "Authors": [
+            "Claire E. Hastie",
+            "David J. Lowe",
+            "Jill P. Pell"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Jun 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-10"
+    },
+    {
+        "Title": "Machine learning-based motion tracking reveals an inverse correlation between adhesivity and surface motility of the leptospirosis spirochete",
+        "Link": "https://www.nature.com/articles/s41467-023-43366-0",
+        "Summary": "A common approach to study bacterial motility is fluorescent labelling, but this can be hampered by protein expression instability and/or interference with bacterial physiology. Here, Abe et al. describe a machine learning-based method for motion tracking of spirochetes on cultured animal cells, which does not require labelling and might be applied to study motility of other bacterial species.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-10"
+    }
+]

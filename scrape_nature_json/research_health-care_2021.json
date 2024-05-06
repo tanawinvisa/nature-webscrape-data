@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "A machine and human reader study on AI diagnosis model safety under attacks of adversarial images",
+        "Link": "https://www.nature.com/articles/s41467-021-27577-x",
+        "Summary": "While active efforts are advancing medical AI model development and clinical translation, safety issues of medical AI models have emerged. Here, the authors investigate the effects on an AI model and on human experts of potential fake/adversarial images for breast cancer diagnosis.",
+        "Authors": [
+            "Qianwei Zhou",
+            "Margarita Zuley",
+            "Shandong Wu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-11"
+    },
+    {
+        "Title": "The power of genetic diversity in genome-wide association studies of lipids",
+        "Link": "https://www.nature.com/articles/s41586-021-04064-3",
+        "Summary": "A genome-wide association meta-analysis study of blood lipid levels in roughly\u00a01.6\u2009million individuals demonstrates the gain of power attained when diverse ancestries are included to improve fine-mapping and polygenic score generation, with gains in locus discovery related to sample size.",
+        "Authors": [
+            "Sarah E. Graham",
+            "Shoa L. Clarke",
+            "Cristen J. Willer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 600, P: 675-679"
+    },
+    {
+        "Title": "Serological responses and vaccine effectiveness for extended COVID-19 vaccine schedules in England",
+        "Link": "https://www.nature.com/articles/s41467-021-27410-5",
+        "Summary": "The UK extended the interval until the second COVID-19 vaccine dose up to 12 weeks. Here, the authors show in a cohort of 750 participants aged 50\u201389 years that the extended schedule results in higher antibody titers and estimate a higher vaccine effectiveness for the extended schedule.",
+        "Authors": [
+            "Gayatri Amirthalingam",
+            "Jamie Lopez Bernal",
+            "Mary E. Ramsay"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-9"
+    },
+    {
+        "Title": "Influence of mothers\u2019 nighttime responses on the sleep\u2013wake rhythm of 1-month-old infants",
+        "Link": "https://www.nature.com/articles/s41598-021-03717-7",
+        "Summary": "",
+        "Authors": [
+            "Momoka Kuroda",
+            "Yoshiko Suetsugu",
+            "Seiichi Morokuma"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2021",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 11, P: 1-7"
+    },
+    {
+        "Title": "The enlargement of the maxillary ostium after balloon sinuplasty evaluated by a novel measuring technique from 3D CBCT images",
+        "Link": "https://www.nature.com/articles/s41598-021-03048-7",
+        "Summary": "",
+        "Authors": [
+            "Eerika Kalliom\u00e4ki",
+            "Argyro J. Bizaki-Vallaskangas",
+            "Markus Rautiainen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2021",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 11, P: 1-6"
+    },
+    {
+        "Title": "Hypoxia driven opioid targeted automated device for overdose rescue",
+        "Link": "https://www.nature.com/articles/s41598-021-04094-x",
+        "Summary": "",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "31 Dec 2021",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 11, P: 1-8"
+    },
+    {
+        "Title": "The C-shaped root canal systems in mandibular second molars in an Emirati population",
+        "Link": "https://www.nature.com/articles/s41598-021-03329-1",
+        "Summary": "",
+        "Authors": [
+            "Summayah Khawaja",
+            "Nouf Alharbi",
+            "Mohamed Jamal"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2021",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 11, P: 1-9"
+    },
+    {
+        "Title": "Satisfied quantitative value can be acquired by short-time bone SPECT/CT using a whole-body cadmium\u2013zinc\u2013telluride gamma camera",
+        "Link": "https://www.nature.com/articles/s41598-021-03853-0",
+        "Summary": "",
+        "Authors": [
+            "Tomohiko Yamane",
+            "Masafumi Takahashi",
+            "Ichiro Matsunari"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2021",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 11, P: 1-7"
+    },
+    {
+        "Title": "Diet and lifestyle behaviour disruption related to the pandemic was varied and bidirectional among US and UK adults participating in the ZOE COVID Study",
+        "Link": "https://www.nature.com/articles/s43016-021-00398-3",
+        "Summary": "Big data collected through apps can facilitate large-scale study of diet and lifestyles. Information from the ZOE COVID Study indicates the variety and extent of impacts that the COVID-19 pandemic has had on the diets and lifestyles of adults in the United States and the United Kingdom.",
+        "Authors": [
+            "Mohsen Mazidi",
+            "Emily R. Leeming",
+            "Sarah E. Berry"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2021",
+        "Journal Title": "Nature Food",
+        "Volume and Pages": "Volume: 2, P: 957-969"
+    },
+    {
+        "Title": "Underdiagnosis bias of artificial intelligence algorithms applied to chest radiographs in under-served patient populations",
+        "Link": "https://www.nature.com/articles/s41591-021-01595-0",
+        "Summary": "Artificial intelligence algorithms trained using chest X-rays consistently underdiagnose pulmonary abnormalities or diseases in historically under-served patient populations, raising ethical concerns about the clinical use of such algorithms.",
+        "Authors": [
+            "Laleh Seyyed-Kalantari",
+            "Haoran Zhang",
+            "Marzyeh Ghassemi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Medicine",
+        "Volume and Pages": "Volume: 27, P: 2176-2182"
+    }
+]

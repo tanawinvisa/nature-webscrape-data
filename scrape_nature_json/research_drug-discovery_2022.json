@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Synthesis and target annotation of the alkaloid GB18",
+        "Link": "https://www.nature.com/articles/s41586-022-04840-9",
+        "Summary": "A synthetic route to GB18, an alkaloid from the bark of hallucinogenic Galbulimima sp., is developed, enabling its identification as an antagonist of \u03ba- and \u03bc-opioid receptors.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "12 May 2022",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 606, P: 917-921"
+    },
+    {
+        "Title": "Targeting anti-apoptotic pathways eliminates senescent melanocytes and leads to nevi regression",
+        "Link": "https://www.nature.com/articles/s41467-022-35657-9",
+        "Summary": "Cutaneous hyperpigmented lesions, including nevi, are populated by senescent melanocytes. Here the authors provide evidence for a novel strategy based on combining inhibition of the BCL-2 and MCL1 anti-apoptotic pathways that selectively eliminates senescent melanocytes in culture and in vivo.",
+        "Authors": [
+            "Jaskaren Kohli",
+            "Chen Ge",
+            "Marco Demaria"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "DeepPROTACs is a deep learning-based targeted degradation predictor for PROTACs",
+        "Link": "https://www.nature.com/articles/s41467-022-34807-3",
+        "Summary": "The rational design of PROTACs is difficult due to their obscure structure-activity relationship. Here the authors present a deep neural network model - DeepPROTACs - for predicting the degradation capacity of a proposed PROTAC molecule.",
+        "Authors": [
+            "Fenglei Li",
+            "Qiaoyu Hu",
+            "Fang Bai"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Nov 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-14"
+    },
+    {
+        "Title": "Genome-wide association study of the response of patients with diabetic macular edema to intravitreal Anti-VEGF injection",
+        "Link": "https://www.nature.com/articles/s41598-022-26048-7",
+        "Summary": "",
+        "Authors": [
+            "Eun Hee Hong",
+            "Hoseok Yeom",
+            "Heeyoon Cho"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 12, P: 1-9"
+    },
+    {
+        "Title": "Practical synthesis of the therapeutic leads tigilanol tiglate and its analogues",
+        "Link": "https://www.nature.com/articles/s41557-022-01048-2",
+        "Summary": "Tigilanol tiglate is a therapeutic lead for the treatment of a broad range of cancers. Now, it has been shown that tigilanol tiglate can be synthesized in a time and step economical fashion from phorbol\u2014its naturally abundant biosynthetic precursor. This synthesis provides rapid access to analogues with unprecedented protein kinase C binding activity.",
+        "Authors": [
+            "Paul A. Wender",
+            "Zachary O. Gentry",
+            "Edward Njoo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "03 Oct 2022",
+        "Journal Title": "Nature Chemistry",
+        "Volume and Pages": "Volume: 14, P: 1421-1426"
+    },
+    {
+        "Title": "Pharmacological inhibition of Lin28 promotes ketogenesis and restores lipid homeostasis in models of non-alcoholic fatty liver disease",
+        "Link": "https://www.nature.com/articles/s41467-022-35481-1",
+        "Summary": "The Lin28/let-7 axis regulates metabolic pathways in normal and pathological contexts. Here the authors show that pharmacological inhibition of Lin28 protects against lipid accumulation in multiple preclinical models of nonalcoholic fatty liver disease.",
+        "Authors": [
+            "Evangelia Lekka",
+            "Aleksandra Kokanovic",
+            "Jonathan Hall"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-17"
+    },
+    {
+        "Title": "Targeting the transcription factor HES1 by L-menthol restores protein phosphatase 6 in keratinocytes in models of psoriasis",
+        "Link": "https://www.nature.com/articles/s41467-022-35565-y",
+        "Summary": "Psoriasis is an inflammatory disease which has proven difficult to cure. Prof. Honglin Wang\u2019s team describes L-menthol for treating models of psoriasis and uncovers the dysfunctional HES1- IGBP1-PP6 axis in psoriasis pathology by using L-menthol as a probe.",
+        "Authors": [
+            "Zhikai Wang",
+            "Yang Sun",
+            "Honglin Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-15"
+    },
+    {
+        "Title": "New meroterpenoids from a soil-derived fungus Penicillium sp. SSW03M2 GY and their anti-virulence activity",
+        "Link": "https://www.nature.com/articles/s41429-022-00587-7",
+        "Summary": "",
+        "Authors": [
+            "Hyeri Ku",
+            "Yeonhee Lee",
+            "Sang Hee Shim"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "16 Dec 2022",
+        "Journal Title": "The Journal of Antibiotics",
+        "Volume and Pages": "Volume: 76, P: 57-64"
+    },
+    {
+        "Title": "Insulin-like growth factor-binding protein-7 (IGFBP7) links senescence to heart failure",
+        "Link": "https://www.nature.com/articles/s44161-022-00181-y",
+        "Summary": "Zhang et al. show increased blood concentration of IGFBP7 in patients and a mouse model with heart failure (HF). IGFBP7 promotes cardiac senescence by stimulating IGF-1R/IRS/AKT-dependent suppression of FOXO3a, and Igfbp7 deficiency or inhibition attenuates cardiac dysfunction in a pressure overload mouse HF model, suggesting that therapeutic targeting of IGFBP7 might be promising for the treatment of HF.",
+        "Authors": [
+            "Liyong Zhang",
+            "David Smyth",
+            "Peter P. Liu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Cardiovascular Research",
+        "Volume and Pages": "Volume: 1, P: 1195-1214"
+    },
+    {
+        "Title": "Treatment of peanut allergy and colitis in mice via the intestinal release of butyrate from polymeric micelles",
+        "Link": "https://www.nature.com/articles/s41551-022-00972-5",
+        "Summary": "Intragastrically delivered polymeric micelles releasing butyrate along the intestinal tract restore barrier-protective responses in mouse models of peanut allergy and colitis.",
+        "Authors": [
+            "Ruyi Wang",
+            "Shijie Cao",
+            "Cathryn R. Nagler"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Biomedical Engineering",
+        "Volume and Pages": "Volume: 7, P: 38-55"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Genomic and epigenomic integrative subtypes of renal cell carcinoma in a Japanese cohort",
+        "Link": "https://www.nature.com/articles/s41467-023-44159-1",
+        "Summary": "Renal cell carcinoma (RCC) subtypes are associated with different molecular alterations and clinical outcomes, but they need to be characterised in diverse cohorts. Here, the authors perform genomic, transcriptomic, and epigenomic profiling in a large cohort of Japanese RCC cases, and identify epi-subtypes associated with a particular immune environment.",
+        "Authors": [
+            "Akihiko Fukagawa",
+            "Natsuko Hama",
+            "Tatsuhiro Shibata"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-15"
+    },
+    {
+        "Title": "Neoadjuvant durvalumab plus radiation versus durvalumab alone in stages I\u2013III non-small cell lung cancer: survival outcomes and molecular correlates of a randomized phase II trial",
+        "Link": "https://www.nature.com/articles/s41467-023-44195-x",
+        "Summary": "The authors previously reported the primary outcomes of a randomized phase II trial comparing neoadjuvant durvalumab (anti-PD-L1) alone or in combination with stereotactic radiotherapy in patients with early-stage NSCLC. Here, the authors report the secondary outcomes of the trial and post hoc analysis.",
+        "Authors": [
+            "Nasser K. Altorki",
+            "Zachary H. Walsh",
+            "Timothy E. McGraw"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-14"
+    },
+    {
+        "Title": "Tislelizumab plus zanubrutinib for Richter transformation: the phase 2 RT1 trial",
+        "Link": "https://www.nature.com/articles/s41591-023-02722-9",
+        "Summary": "In a large single-arm phase 2 trial, the anti-PD-1 inhibitor tislelizumab combined with the next-generation BTK inhibitor zanubrutinib had an overall response rate of 58.3% and was well tolerated in patients with Richter\u2019s transformation.",
+        "Authors": [
+            "Othman Al-Sawaf",
+            "Rudy Ligtvoet",
+            "Barbara Eichhorst"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2023",
+        "Journal Title": "Nature Medicine",
+        "Volume and Pages": "Volume: 30, P: 240-248"
+    },
+    {
+        "Title": "Benefits and harms of cervical screening, triage and treatment strategies in women living with HIV",
+        "Link": "https://www.nature.com/articles/s41591-023-02601-3",
+        "Summary": "A model evaluating cervical screening, triage and treatment strategies to prevent cervical cancer in women living with HIV in Tanzania provides evidence to support the World Health Organization\u2019s recommendation of primary HPV testing starting at age 25\u2009years with 3\u20135-year regular screening intervals.",
+        "Authors": [
+            "Michaela T. Hall",
+            "Kate T. Simms",
+            "Karen Canfell"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Dec 2023",
+        "Journal Title": "Nature Medicine",
+        "Volume and Pages": "Volume: 29, P: 3059-3066"
+    },
+    {
+        "Title": "Pyrotinib plus docetaxel as first-line treatment for HER2-positive metastatic breast cancer: the PANDORA phase II trial",
+        "Link": "https://www.nature.com/articles/s41467-023-44140-y",
+        "Summary": "HER2 targeted therapy combined with chemotherapy represents a standard approach for treating HER2-positive metastatic breast cancer (MBC). Here the authors report the results of a phase II trial of the small molecule tyrosine kinase inhibitor pyrotinib plus docetaxel as a first-line treatment for HER2-positive MBC.",
+        "Authors": [
+            "Yabing Zheng",
+            "Wen-Ming Cao",
+            "Xiaojia Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-9"
+    },
+    {
+        "Title": "Whole-genome sequencing reveals the molecular implications of the stepwise progression of lung adenocarcinoma",
+        "Link": "https://www.nature.com/articles/s41467-023-43732-y",
+        "Summary": "Current sequencing technologies can shed light on the stepwise progression of lung adenocarcinoma. Here, the authors characterize tumor progression in lung adenocarcinomas from an early stage using short and long read whole-genome sequencing, bulk and spatial transcriptomics, and epigenomics.",
+        "Authors": [
+            "Yasuhiko Haga",
+            "Yoshitaka Sakamoto",
+            "Ayako Suzuki"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-19"
+    },
+    {
+        "Title": "Single-cell multi-omics analysis of human testicular germ cell tumor reveals its molecular features and microenvironment",
+        "Link": "https://www.nature.com/articles/s41467-023-44305-9",
+        "Summary": "The molecular features and tumour microenvironment (TME) in seminoma remain to be characterised. Here, the authors perform single cell multi-omics and spatial transcriptomics and identify key gene expression programmes, immune cell subtypes and potential therapeutic targets.",
+        "Authors": [
+            "Xiaojian Lu",
+            "Yanwei Luo",
+            "Jingtao Guo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-17"
+    },
+    {
+        "Title": "Small-molecule inhibition of kinesin KIF18A reveals a mitotic vulnerability enriched in chromosomally unstable cancers",
+        "Link": "https://www.nature.com/articles/s43018-023-00699-5",
+        "Summary": "Payton et al. develop small-molecule inhibitors of kinesin KIF18A able to selectively kill cancer cells with high chromosomal instability and demonstrate that the inhibitors are therapeutically beneficial in cancer patient-derived in vivo models.",
+        "Authors": [
+            "Marc Payton",
+            "Brian Belmontes",
+            "Paul E. Hughes"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2023",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 5, P: 66-84"
+    },
+    {
+        "Title": "Genetic and epigenetic features of bilateral Wilms tumor predisposition in patients from the Children\u2019s Oncology Group AREN18B5-Q",
+        "Link": "https://www.nature.com/articles/s41467-023-43730-0",
+        "Summary": "The genetic and epigenetic predisposition of bilateral Wilms tumour remains to be investigated. Here, the authors perform multiomics analysis and identify the predominant genetic and epigenetic events associated with bilateral Wilms tumour predisposition.",
+        "Authors": [
+            "Andrew J. Murphy",
+            "Changde Cheng",
+            "Xiang Chen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-15"
+    },
+    {
+        "Title": "Delineating the early dissemination mechanisms of acral melanoma by integrating single-cell and spatial transcriptomic analyses",
+        "Link": "https://www.nature.com/articles/s41467-023-43980-y",
+        "Summary": "Acral melanoma (AM) is a rare melanoma subtype with unique features, where lymph node metastasis is closely associated with clinical outcomes. Here, the authors use single-cell and spatial transcriptomics to analyse early dissemination, tumour microenvironment, and heterogeneity in AM, and infer metabolic shifts with therapeutic implications.",
+        "Authors": [
+            "Chuanyuan Wei",
+            "Wei Sun",
+            "Jianying Gu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-20"
+    }
+]

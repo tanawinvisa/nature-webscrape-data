@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "fMRIPrep: a robust preprocessing pipeline for functional MRI",
+        "Link": "https://www.nature.com/articles/s41592-018-0235-4",
+        "Summary": "fMRIPrep is a robust and easy-to-use pipeline for preprocessing of diverse fMRI data. The transparent workflow dispenses of manual intervention, thereby ensuring the reproducibility of the results.",
+        "Authors": [
+            "Oscar Esteban",
+            "Christopher J. Markiewicz",
+            "Krzysztof J. Gorgolewski"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "10 Dec 2018",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 16, P: 111-116"
+    },
+    {
+        "Title": "Multiple episodes of interbreeding between Neanderthal and modern humans",
+        "Link": "https://www.nature.com/articles/s41559-018-0735-8",
+        "Summary": "Studying the asymmetry in the pattern of Neanderthal introgression in modern human genomes between individuals of East Asian and European ancestry, the authors show recurrent gene flow from Neanderthals into modern humans.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "26 Nov 2018",
+        "Journal Title": "Nature Ecology & Evolution",
+        "Volume and Pages": "Volume: 3, P: 39-44"
+    },
+    {
+        "Title": "Deep generative modeling for single-cell transcriptomics",
+        "Link": "https://www.nature.com/articles/s41592-018-0229-2",
+        "Summary": "scVI is a ready-to-use generative deep learning tool for large-scale single-cell RNA-seq data that enables raw data processing and a wide range of rapid and accurate downstream analyses.",
+        "Authors": [
+            "Romain Lopez",
+            "Jeffrey Regier",
+            "Nir Yosef"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Nov 2018",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 15, P: 1053-1058"
+    },
+    {
+        "Title": "Interpretation of an individual functional genomics experiment guided by massive public data",
+        "Link": "https://www.nature.com/articles/s41592-018-0218-5",
+        "Summary": "YETI puts individual -omics experiments in the context of public genomics data by creating an integrated dataset-specific functional network, thus allowing more thorough interpretation of the data.",
+        "Authors": [
+            "Young-suk Lee",
+            "Aaron K. Wong",
+            "Olga G. Troyanskaya"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "26 Nov 2018",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 15, P: 1049-1052"
+    },
+    {
+        "Title": "Deep learning using tumor HLA peptide mass spectrometry datasets improves neoantigen identification",
+        "Link": "https://www.nature.com/articles/nbt.4313",
+        "Summary": "Neoantigen prediction from clinical samples is improved using a neural network model trained on a large HLA peptide and genomic tumor dataset.",
+        "Authors": [
+            "Brendan Bulik-Sullivan",
+            "Jennifer Busby",
+            "Roman Yelensky"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "17 Dec 2018",
+        "Journal Title": "Nature Biotechnology",
+        "Volume and Pages": "Volume: 37, P: 55-63"
+    },
+    {
+        "Title": "Creative exploration as a scale-invariant search on a meaning landscape",
+        "Link": "https://www.nature.com/articles/s41467-018-07715-8",
+        "Summary": "Molecular circuits implementing fold-change detection (FCD) allow cells to respond to fold-change in signals regardless of absolute levels. Here, the authors find that meaning, attention and saturation similarly form an FCD circuit and produce the observed dynamics of human behavior in creative search.",
+        "Authors": [
+            "Yuval Hart",
+            "Hagar Goldberg",
+            "Uri Alon"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-11"
+    },
+    {
+        "Title": "Content-aware image restoration: pushing the limits of fluorescence microscopy",
+        "Link": "https://www.nature.com/articles/s41592-018-0216-7",
+        "Summary": "Content-aware image restoration (CARE) uses deep learning to improve microscopy images. CARE bypasses the trade-offs between imaging speed, resolution, and maximal light exposure that limit fluorescence imaging to enable discovery.",
+        "Authors": [
+            "Martin Weigert",
+            "Uwe Schmidt",
+            "Eugene W. Myers"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "26 Nov 2018",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 15, P: 1090-1097"
+    },
+    {
+        "Title": "Found In Translation: a machine learning model for mouse-to-human inference",
+        "Link": "https://www.nature.com/articles/s41592-018-0214-9",
+        "Summary": "The machine learning approach FIT leverages public mouse and human expression data to improve the translation of mouse model results to analogous human disease.",
+        "Authors": [
+            "Rachelly Normand",
+            "Wenfei Du",
+            "Shai S. Shen-Orr"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "26 Nov 2018",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 15, P: 1067-1073"
+    },
+    {
+        "Title": "Qiita: rapid, web-enabled microbiome meta-analysis",
+        "Link": "https://www.nature.com/articles/s41592-018-0141-9",
+        "Summary": "The Qiita web platform provides access to large amounts of public microbial multi-omic data and enables easy analysis and meta-analysis of standardized private and public data.",
+        "Authors": [
+            "Antonio Gonzalez",
+            "Jose A. Navas-Molina",
+            "Rob Knight"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "01 Oct 2018",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 15, P: 796-798"
+    },
+    {
+        "Title": "U-Net: deep learning for cell counting, detection, and morphometry",
+        "Link": "https://www.nature.com/articles/s41592-018-0261-2",
+        "Summary": "A user-friendly ImageJ plugin enables the application and training of U-Nets for deep-learning-based image segmentation, detection and classification tasks with minimal labeling requirements.",
+        "Authors": [
+            "Thorsten Falk",
+            "Dominic Mai",
+            "Olaf Ronneberger"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "17 Dec 2018",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 16, P: 67-70"
+    }
+]

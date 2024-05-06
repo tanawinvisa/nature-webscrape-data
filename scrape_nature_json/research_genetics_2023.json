@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Inferring compound heterozygosity from large-scale exome sequencing data",
+        "Link": "https://www.nature.com/articles/s41588-023-01608-3",
+        "Summary": "A strategy for inferring phase for rare variant pairs is applied to exome sequencing data for 125,748 individuals from the Genome Aggregation Database (gnomAD). This resource will aid interpretation of rare co-occurring variants in the context of recessive disease.",
+        "Authors": [
+            "Michael H. Guo",
+            "Laurent C. Francioli",
+            "Kaitlin E. Samocha"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "06 Dec 2023",
+        "Journal Title": "Nature Genetics",
+        "Volume and Pages": "Volume: 56, P: 152-161"
+    },
+    {
+        "Title": "TWAS revealed significant causal loci for milk production and its composition in Murrah buffaloes",
+        "Link": "https://www.nature.com/articles/s41598-023-49767-x",
+        "Summary": "",
+        "Authors": [
+            "Supriya Chhotaray",
+            "Vikas Vohra",
+            "Gopal Gowane"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2023",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 13, P: 1-18"
+    },
+    {
+        "Title": "Outward-oriented sites within clustered CTCF boundaries are key for intra-TAD chromatin interactions and gene regulation",
+        "Link": "https://www.nature.com/articles/s41467-023-43849-0",
+        "Summary": "The TAD boundaries comprise clustered arrays of CTCF sites with complex orientations. Here the authors show that the outward-oriented CTCF sites within clustered TAD boundaries are central for intra-TAD chromatin spatial contacts and gene regulation.",
+        "Authors": [
+            "Xiao Ge",
+            "Haiyan Huang",
+            "Qiang Wu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-13"
+    },
+    {
+        "Title": "The landscape of genomic structural variation in Indigenous Australians",
+        "Link": "https://www.nature.com/articles/s41586-023-06842-7",
+        "Summary": "Population-scale whole-genome sequencing across four remote Indigenous Australian communities reveals a large fraction of structural variants that are unique to these populations, emphasizing the genetic distinctiveness of and diversity among Indigenous Australians.",
+        "Authors": [
+            "Andre L. M. Reis",
+            "Melissa Rapadas",
+            "Ira W. Deveson"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2023",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 624, P: 602-610"
+    },
+    {
+        "Title": "Prediction and stratification of longitudinal risk for chronic obstructive pulmonary disease across smoking behaviors",
+        "Link": "https://www.nature.com/articles/s41467-023-44047-8",
+        "Summary": "Many people who never smoke develop COPD. Here, the authors derive and validate the Socioeconomic and Environmental Risk Score (SERS) which captures cumulative exposure risks beyond tobacco smoking to predict and stratify risk of COPD.",
+        "Authors": [
+            "Yixuan He",
+            "David C. Qian",
+            "Chirag J. Patel"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-9"
+    },
+    {
+        "Title": "Multiple independent losses of the biosynthetic pathway for two tropane alkaloids in the Solanaceae family",
+        "Link": "https://www.nature.com/articles/s41467-023-44246-3",
+        "Summary": "Hyoscyamine and scopolamine (HS) are two tropane alkaloids with medicinal significance produced by distantly related lineages in the Solanaceae family. Here, the authors assemble the genome of three HS-producing and one non-HS-producing species within Solanaceae, and reveal the evolution of the biosynthetic pathway.",
+        "Authors": [
+            "Jiao Yang",
+            "Ying Wu",
+            "Jianquan Liu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-18"
+    },
+    {
+        "Title": "A histone demethylase links the loss of plasticity to nongenetic inheritance and morphological change",
+        "Link": "https://www.nature.com/articles/s41467-023-44306-8",
+        "Summary": "A challenge for understanding plasticity is connecting macroevolutionary patterns to molecular mechanisms. Using a nematode model, this study identifies a mediator of nongenetic inheritance which is linked to multigenerational shifts in plasticity and morphology.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-13"
+    },
+    {
+        "Title": "Structural variants involved in high-altitude adaptation detected using single-molecule long-read sequencing",
+        "Link": "https://www.nature.com/articles/s41467-023-44034-z",
+        "Summary": "Here, the authors use single-molecule long-read sequencing to decipher the role of structural variations in high-altitude adaptation, finding evidence that an intergenic deletion down-regulates EPAS1 by disrupting a super-enhancer.",
+        "Authors": [
+            "Jinlong Shi",
+            "Zhilong Jia",
+            "Kunlun He"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-15"
+    },
+    {
+        "Title": "A genomic mutational constraint map using variation in 76,156 human genomes",
+        "Link": "https://www.nature.com/articles/s41586-023-06045-0",
+        "Summary": "A genomic constraint map for the human genome constructed using data from 76,156 human genomes from the Genome Aggregation Database shows that non-coding constrained regions are enriched for regulatory elements and variants associated with complex diseases and traits.",
+        "Authors": [
+            "Siwei Chen",
+            "Laurent C. Francioli",
+            "Konrad J. Karczewski"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "06 Dec 2023",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 625, P: 92-100"
+    },
+    {
+        "Title": "iMUT-seq: high-resolution DSB-induced mutation profiling reveals prevalent homologous-recombination dependent mutagenesis",
+        "Link": "https://www.nature.com/articles/s41467-023-44167-1",
+        "Summary": "DNA double-strand breaks (DSBs) are highly mutagenic making them central to many pathologies. Here, the authors developed a highly sensitive sequencing approach to study DSB mutagenesis, yielding insights into mutagenic outcomes and characterising their underlying mechanisms.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-16"
+    }
+]

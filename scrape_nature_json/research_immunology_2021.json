@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Naturally enhanced neutralizing breadth against SARS-CoV-2 one year after infection",
+        "Link": "https://www.nature.com/articles/s41586-021-03696-9",
+        "Summary": "Antibodies against SARS-CoV-2 continue to evolve 6 to 12 months after infection in patients who have recovered from COVID-19, increasing in potency and breadth with time.",
+        "Authors": [
+            "Zijun Wang",
+            "Frauke Muecksch",
+            "Michel C. Nussenzweig"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Jun 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 595, P: 426-431"
+    },
+    {
+        "Title": "Naturally acquired blocking human monoclonal antibodies to Plasmodium vivax reticulocyte binding protein 2b",
+        "Link": "https://www.nature.com/articles/s41467-021-21811-2",
+        "Summary": "Plasmodium vivax reticulocyte binding protein 2b (PvRBP2b) is important for invasion of reticulocytes and PvRBP2b antibodies correlate with protection. Here, Chan et al. isolate and characterize anti-PvRBP2b human monoclonal antibodies and describe mechanisms by which these antibodies inhibit invasion.",
+        "Authors": [
+            "Li-Jin Chan",
+            "Anugraha Gandhirajan",
+            "Wai-Hong Tham"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Mar 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-14"
+    },
+    {
+        "Title": "Congenital iRHOM2 deficiency causes ADAM17 dysfunction and environmentally directed immunodysregulatory disease",
+        "Link": "https://www.nature.com/articles/s41590-021-01093-y",
+        "Summary": "Kubo et al. report two kindreds that exhibit a deficiency of iRHOM2, which interacts with ADAM17, leading to defective release of TNF and CD62L and resulting in altered immune responses to opportunistic infections.",
+        "Authors": [
+            "Satoshi Kubo",
+            "Jill M. Fritz",
+            "Michael J. Lenardo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 23, P: 75-85"
+    },
+    {
+        "Title": "Considerable escape of SARS-CoV-2 Omicron to antibody neutralization",
+        "Link": "https://www.nature.com/articles/s41586-021-04389-z",
+        "Summary": "An isolate of the Omicron variant of SARS-COV-2 was completely or partially resistant to neutralization by all nine clinically approved monoclonal antibodies tested.",
+        "Authors": [
+            "Delphine Planas",
+            "Nell Saunders",
+            "Olivier Schwartz"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 602, P: 671-675"
+    },
+    {
+        "Title": "Investigating immune and non-immune cell interactions in head and neck tumors by single-cell RNA sequencing",
+        "Link": "https://www.nature.com/articles/s41467-021-27619-4",
+        "Summary": "The tumor microenvironment (TME) has an important role in Head and Neck Squamous Cell Carcinoma (HNSCC) progression. Here, using single-cell RNA sequencing and multiplexed imaging, the authors report the cellular complexity of the TME in patients with HNSCC, exploring inflammatory status, stromal heterogeneity and immune checkpoint receptor-ligand interactions.",
+        "Authors": [
+            "Cornelius H. L. K\u00fcrten",
+            "Aditi Kulkarni",
+            "Robert L. Ferris"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-16"
+    },
+    {
+        "Title": "BNT162b2 mRNA vaccine elicited antibody response in blood and milk of breastfeeding women",
+        "Link": "https://www.nature.com/articles/s41467-021-26507-1",
+        "Summary": "Maternal antibodies can reduce risk of infection of infants. Here, the authors show induction of IgG and IgA antibodies in breastmilk and serum of ten lactating women after immunization with the Pfizer-BioNTech BNT162b2 COVID-19 mRNA vaccine.",
+        "Authors": [
+            "Michal Rosenberg-Friedman",
+            "Aya Kigel",
+            "Yariv Wine"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Oct 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-7"
+    },
+    {
+        "Title": "Rapid, efficient and activation-neutral gene editing of polyclonal primary human resting CD4+ T cells allows complex functional analyses",
+        "Link": "https://www.nature.com/articles/s41592-021-01328-8",
+        "Summary": "A nucleofection-based method to enable efficient gene editing of primary human resting CD4+ T cells.",
+        "Authors": [
+            "Manuel Albanese",
+            "Adrian Ruhle",
+            "Oliver T. Keppler"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 19, P: 81-89"
+    },
+    {
+        "Title": "The kinase complex mTORC2 promotes the longevity of virus-specific memory CD4+ T cells by preventing ferroptosis",
+        "Link": "https://www.nature.com/articles/s41590-021-01090-1",
+        "Summary": "Wang et al. show that the Rictor-dependent mTORC2\u2013Akt pathway is needed to maintain CD4+ memory cells. This axis acts, in part, by suppressing mitoROS generation and subsequent oxidation of membrane phospholipids, which then triggers cell death by ferroptosis.",
+        "Authors": [
+            "Yifei Wang",
+            "Qin Tian",
+            "Lilin Ye"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 23, P: 303-317"
+    },
+    {
+        "Title": "Children develop robust and sustained cross-reactive spike-specific immune responses to SARS-CoV-2 infection",
+        "Link": "https://www.nature.com/articles/s41590-021-01089-8",
+        "Summary": "SARS-CoV-2 infection is milder in children, but direct comparison with adults is rare. Here the authors show that immune responses are higher in children, retained for 12 months or longer and can neutralize Alpha, Beta and Delta variants.",
+        "Authors": [
+            "Alexander C. Dowell",
+            "Megan S. Butler",
+            "Shamez Ladhani"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 23, P: 40-49"
+    },
+    {
+        "Title": "DNA/RNA heteroduplex oligonucleotide technology for regulating lymphocytes in vivo",
+        "Link": "https://www.nature.com/articles/s41467-021-26902-8",
+        "Summary": "Using gene silencing to regulate lymphocyte function is a promising therapeutic approach for autommunity, inflammation and cancer. Here the authors use a heteroduplex oligonucleotide for improved potency, efficacy and longer retention times.",
+        "Authors": [
+            "Masaki Ohyagi",
+            "Tetsuya Nagata",
+            "Takanori Yokota"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    }
+]

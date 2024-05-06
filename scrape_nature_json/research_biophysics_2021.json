@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Deciphering how naturally occurring sequence features impact the phase behaviours of disordered prion-like domains",
+        "Link": "https://www.nature.com/articles/s41557-021-00840-w",
+        "Summary": "The complex link between protein sequence and phase behaviour for a family of prion-like low-complexity domains (PLCDs) has now been revealed. The results have uncovered a set of rules\u2014which are interpreted using a stickers-and-spacers model\u2014that govern the sequence-encoded phase behaviour of such PLCDs and enable physicochemical rationalizations that are connected to the underlying sequence composition.",
+        "Authors": [
+            "Anne Bremer",
+            "Mina Farag",
+            "Tanja Mittag"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "20 Dec 2021",
+        "Journal Title": "Nature Chemistry",
+        "Volume and Pages": "Volume: 14, P: 196-207"
+    },
+    {
+        "Title": "Single molecule kinetics of bacteriorhodopsin by HS-AFM",
+        "Link": "https://www.nature.com/articles/s41467-021-27580-2",
+        "Summary": "Here, the authors use high-speed atomic force microscopy (HS-AFM) methods to characterize the single molecule kinetics of wild-type bacteriorhodopsin (bR) with millisecond temporal resolution, providing new insights into the bR conformational cycle.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-10"
+    },
+    {
+        "Title": "Two-colour single-molecule photoinduced electron transfer fluorescence imaging microscopy of chaperone dynamics",
+        "Link": "https://www.nature.com/articles/s41467-021-27286-5",
+        "Summary": "Revealing mechanisms of complex protein machines requires simultaneous exploration of multiple structural coordinates. Here the authors report two-colour fluorescence microscopy combined with photoinduced electron transfer probes to simultaneously detect two structural coordinates in single protein molecules.",
+        "Authors": [
+            "Jonathan Schubert",
+            "Andrea Schulze",
+            "Hannes Neuweiler"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Nov 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    },
+    {
+        "Title": "Molecular insights into receptor binding energetics and neutralization of SARS-CoV-2 variants",
+        "Link": "https://www.nature.com/articles/s41467-021-27325-1",
+        "Summary": "Here, the authors combine single-molecule atomic force spectroscopy measurements and molecular dynamics simulations to investigate the binding of spike proteins from four SARS-CoV-2 variants of concern (VoC) to the human ACE2 receptor. They observe an increase in the RBD-ACE2 complex stability for several of the VoCs and derive how the mutations affect the kinetic, thermodynamic and structural properties of complex formation.",
+        "Authors": [
+            "Melanie Koehler",
+            "Ankita Ray",
+            "David Alsteens"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Nov 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-13"
+    },
+    {
+        "Title": "Mechanical actions of dendritic-spine enlargement on presynaptic exocytosis",
+        "Link": "https://www.nature.com/articles/s41586-021-04125-7",
+        "Summary": "A mechanism of mechanosensation and transduction in the presynaptic boutons is identified, in which sensing of fine pressure leads to enhanced\u00a0neurotransmitter release.",
+        "Authors": [
+            "Hasan Ucar",
+            "Satoshi Watanabe",
+            "Haruo Kasai"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "24 Nov 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 600, P: 686-689"
+    },
+    {
+        "Title": "Kinetic and structural mechanism for DNA unwinding by a non-hexameric helicase",
+        "Link": "https://www.nature.com/articles/s41467-021-27304-6",
+        "Summary": "UvrD is a model helicase from the non-hexameric Superfamily 1. Here, the authors use optical tweezers to measure directly the stepwise translocation of UvrD along a DNA hairpin, and propose a mechanism in which UvrD moves one base pair at a time, but sequesters the nascent single strands, releasing them after a variable number of ATP hydrolysis cycles.",
+        "Authors": [
+            "Sean P. Carney",
+            "Wen Ma",
+            "Yann R. Chemla"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "01 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-14"
+    },
+    {
+        "Title": "Free energies of membrane stalk formation from a lipidomics perspective",
+        "Link": "https://www.nature.com/articles/s41467-021-26924-2",
+        "Summary": "Fusion of cellular membranes begins with the formation of a stalk. Here, the authors develop a computationally efficient method for coarse-grained simulations of stalk formation and apply this approach to comprehensively analyse how stalk formation is influenced by the membrane lipid composition.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Nov 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-10"
+    },
+    {
+        "Title": "Time-resolved structural analysis of an RNA-cleaving DNA catalyst",
+        "Link": "https://www.nature.com/articles/s41586-021-04225-4",
+        "Summary": "Using high-resolution NMR characterization, the kinetics and dynamics of the catalytic function of a\u00a0DNAzyme are shown.",
+        "Authors": [
+            "Jan Borggr\u00e4fe",
+            "Julian Victor",
+            "Manuel Etzkorn"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 601, P: 144-149"
+    },
+    {
+        "Title": "HELQ is a dual-function DSB repair enzyme modulated by RPA and RAD51",
+        "Link": "https://www.nature.com/articles/s41586-021-04261-0",
+        "Summary": "HELQ is differentially regulated by RAD51, which stimulates helicase activity, and RPA, which inhibits helicase activity and stimulates annealing.",
+        "Authors": [
+            "Roopesh Anand",
+            "Erika Buechelmaier",
+            "Simon J. Boulton"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 601, P: 268-273"
+    },
+    {
+        "Title": "Morphogen gradient scaling by recycling of intracellular Dpp",
+        "Link": "https://www.nature.com/articles/s41586-021-04346-w",
+        "Summary": "A mechanism involving intracellular recycling of the morphogen Decapentaplegic (Dpp) underlies the scaling of the Dpp gradient in the Drosophila wing disc, and this is modulated by the extracellular factors Pentagone\u00a0and Dally.",
+        "Authors": [
+            "Maria Romanova-Michaelides",
+            "Zena Hadjivasiliou",
+            "Marcos Gonzalez-Gaitan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 602, P: 287-293"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "The autophagy receptor p62/SQST-1 promotes proteostasis and longevity in C. elegans by inducing autophagy",
+        "Link": "https://www.nature.com/articles/s41467-019-13540-4",
+        "Summary": "While the cellular recycling process autophagy has been linked to aging, the impact of selective autophagy on lifespan remains unclear. Here Kumsta et al. show that the autophagy receptor p62/SQSTM1 is required for hormetic benefits and p62/SQSTM1 overexpression is sufficient to extend C. elegans lifespan and improve proteostasis.",
+        "Authors": [
+            "Caroline Kumsta",
+            "Jessica T. Chang",
+            "Malene Hansen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-12"
+    },
+    {
+        "Title": "Herpesviruses induce aggregation and selective autophagy of host signalling proteins NEMO and RIPK1 as an immune-evasion mechanism",
+        "Link": "https://www.nature.com/articles/s41564-019-0624-1",
+        "Summary": "Herpesviruses are shown to specifically block innate antiviral responses by inducing the aggregation of key signalling molecules nuclear factor \u03ba-light-chain-enhancer of activated B cells (NF-\u03baB) essential modulator (NEMO) and receptor-interacting protein kinase 1 (RIPK1) and their degradation by selective autophagy, thereby blocking the activation of NF-\u03baB and the induction of necroptosis, respectively.",
+        "Authors": [
+            "Elena Muscolino",
+            "Rebekka Schmitz",
+            "Wolfram Brune"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "16 Dec 2019",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 5, P: 331-342"
+    },
+    {
+        "Title": "Mutations that prevent caspase cleavage of RIPK1 cause autoinflammatory disease",
+        "Link": "https://www.nature.com/articles/s41586-019-1828-5",
+        "Summary": "Heterozygous mutateons in the caspase-8 cleavage site of RIPK1 cause a range of autoinflammatory symptoms in humans, and caspase-8 cleavage of RIPK1 in a mouse model limits TNF-induced cell death and inflammation.",
+        "Authors": [
+            "Najoua Lalaoui",
+            "Steven E. Boyden",
+            "John Silke"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "11 Dec 2019",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 577, P: 103-108"
+    },
+    {
+        "Title": "TRPML1 links lysosomal calcium to autophagosome biogenesis through the activation of the CaMKK\u03b2/VPS34 pathway",
+        "Link": "https://www.nature.com/articles/s41467-019-13572-w",
+        "Summary": "It was known that prolonged TRMPL1 activation induces TFEB translocation and upregulates autophagic gene regulation. Here, the authors show that acute TRMPL1 activation also induces autophagy through VPS34 and by lysosomal calcium release independent of TFEB.",
+        "Authors": [
+            "A. Scotto Rosato",
+            "S. Montefusco",
+            "D. L. Medina"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-16"
+    },
+    {
+        "Title": "Insights into the assembly and activation of the microtubule nucleator \u03b3-TuRC",
+        "Link": "https://www.nature.com/articles/s41586-019-1896-6",
+        "Summary": "The cryo-EM structure of the \u03b3-tubulin ring complex (\u03b3-TuRC) from Xenopus laevis provides insights into the molecular organization of the complex, and shows that actin is a structural component that is functionally relevant to microtubule nucleation.",
+        "Authors": [
+            "Peng Liu",
+            "Erik Zupa",
+            "Elmar Schiebel"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2019",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 578, P: 467-471"
+    },
+    {
+        "Title": "Evidence that cyanobacterial Sll1217 functions analogously to PGRL1 in enhancing PGR5-dependent cyclic electron flow",
+        "Link": "https://www.nature.com/articles/s41467-019-13223-0",
+        "Summary": "In Arabidopsis, PGR5 and PGRL1 heterodimers enable cyclic electron flow to safeguard photosystem I during high light intensity. Here, the authors provide evidence that cyanobacteria, while lacking an obvious PGRL1 homologue, use an analogous PGRL1-like protein to facilitate cyclic electron flow.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-7"
+    },
+    {
+        "Title": "Endfoot regeneration restricts radial glial state and prevents translocation into the outer subventricular zone in early mammalian brain development",
+        "Link": "https://www.nature.com/articles/s41556-019-0436-9",
+        "Summary": "Fujita et al. show that endfoot regeneration of radial glia cells after division retains them in the ventricular zone in early development, independently of spindle orientation, but is lost during late neurogenesis.",
+        "Authors": [
+            "Ikumi Fujita",
+            "Atsunori Shitamukai",
+            "Fumio Matsuzaki"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 22, P: 26-37"
+    },
+    {
+        "Title": "Cytosolic Gram-negative bacteria prevent apoptosis by inhibition of effector caspases through lipopolysaccharide",
+        "Link": "https://www.nature.com/articles/s41564-019-0620-5",
+        "Summary": "The lipopolysaccharide of the intracellular pathogen Shigella, in particular its O antigen, interacts with caspases and blocks their activation to prevent apoptosis.",
+        "Authors": [
+            "Saskia D. G\u00fcnther",
+            "Melanie Fritsch",
+            "Hamid Kashkar"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 5, P: 354-367"
+    },
+    {
+        "Title": "Plasma membrane V-ATPase controls oncogenic RAS-induced macropinocytosis",
+        "Link": "https://www.nature.com/articles/s41586-019-1831-x",
+        "Summary": "A whole-genome short interfering RNA screen identified vacuolar ATPase as a regulator of macropinocytosis induced by oncogenic RAS, a key determinant of tumour cell growth under nutrient-limiting conditions.",
+        "Authors": [
+            "Craig Ramirez",
+            "Andrew D. Hauser",
+            "Dafna Bar-Sagi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "11 Dec 2019",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 576, P: 477-481"
+    },
+    {
+        "Title": "Effect of low-dose Levamlodipine Besylate in the treatment of vascular dementia",
+        "Link": "https://www.nature.com/articles/s41598-019-47868-0",
+        "Summary": "",
+        "Authors": [
+            "Kai-Xin Yao",
+            "Hang Lyu",
+            "Ping Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "03 Dec 2019",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 9, P: 1-7"
+    }
+]

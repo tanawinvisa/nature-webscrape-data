@@ -1,0 +1,144 @@
+[
+    {
+        "Title": "A balanced measure shows superior performance of pseudobulk methods in single-cell RNA-sequencing analysis",
+        "Link": "https://www.nature.com/articles/s41467-022-35519-4",
+        "Summary": "",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-4"
+    },
+    {
+        "Title": "Reply to: A balanced measure shows superior performance of pseudobulk methods in single-cell RNA-sequencing analysis",
+        "Link": "https://www.nature.com/articles/s41467-022-35520-x",
+        "Summary": "",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-2"
+    },
+    {
+        "Title": "Nonnegative spatial factorization applied to spatial genomics",
+        "Link": "https://www.nature.com/articles/s41592-022-01687-w",
+        "Summary": "This paper presents nonnegative spatial factorization, a general framework for spatially aware and interpretable dimension reduction for high-dimensional spatial data, and its application to spatial transcriptomics analysis.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "31 Dec 2022",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 20, P: 229-238"
+    },
+    {
+        "Title": "Local shape descriptors for neuron segmentation",
+        "Link": "https://www.nature.com/articles/s41592-022-01711-z",
+        "Summary": "During segmentation of neurons in electron microscopy datasets, auxiliary learning via the prediction of local shape descriptors increases efficiency, which is important for the processing of datasets of ever-increasing size.",
+        "Authors": [
+            "Arlo Sheridan",
+            "Tri M. Nguyen",
+            "Jan Funke"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Dec 2022",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 20, P: 295-303"
+    },
+    {
+        "Title": "A flexible cross-platform single-cell data processing pipeline",
+        "Link": "https://www.nature.com/articles/s41467-022-34681-z",
+        "Summary": "As the throughput of single-cell RNA-seq studies increases, there is a need for tools that can make the data analysis steps more streamlined and convenient. Here, the authors develop UniverSC, a tool that unifies single-cell RNA-seq analysis workflows and also facilitates their use for non-experts.",
+        "Authors": [
+            "Kai Battenberg",
+            "S. Thomas Kelly",
+            "Aki Minoda"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Nov 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-7"
+    },
+    {
+        "Title": "Prediction of designer-recombinases for DNA editing with generative deep learning",
+        "Link": "https://www.nature.com/articles/s41467-022-35614-6",
+        "Summary": "Design of recombinases with new target sites is usually achieved through cycles of directed molecular evolution. Here the authors report Recombinase Generator, RecGen, an algorithm for generation of designer-recombinases; they perform experimental validation to show that this can predict recombinase sequences.",
+        "Authors": [
+            "Lukas Theo Schmitt",
+            "Maciej Paszkowski-Rogacz",
+            "Frank Buchholz"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "Benchmarking tools for detecting longitudinal differential expression in proteomics data allows establishing a robust reproducibility optimization regression approach",
+        "Link": "https://www.nature.com/articles/s41467-022-35564-z",
+        "Summary": "Longitudinal proteomics holds great promise for biomarker discovery, but the data interpretation has remained a challenge. Here, the authors evaluate several tools to detect longitudinal differential expression in proteomics data and introduce RolDE, a robust reproducibility optimization approach.",
+        "Authors": [
+            "Tommi V\u00e4likangas",
+            "Tomi Suomi",
+            "Laura L. Elo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-18"
+    },
+    {
+        "Title": "Unconstrained generation of synthetic antibody\u2013antigen structures to guide machine learning methodology for antibody specificity prediction",
+        "Link": "https://www.nature.com/articles/s43588-022-00372-4",
+        "Summary": "The Absolut! framework can generate synthetic three-dimensional antibody\u2013antigen structures to assist machine learning and dataset construction for antibody design. Most importantly, the relative machine learning performance learnt on Absolut! datasets is shown to transfer to experimental datasets.",
+        "Authors": [
+            "Philippe A. Robert",
+            "Rahmad Akbar",
+            "Victor Greiff"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Computational Science",
+        "Volume and Pages": "Volume: 2, P: 845-865"
+    },
+    {
+        "Title": "Thousands of human non-AUG extended proteoforms lack evidence of evolutionary selection among mammals",
+        "Link": "https://www.nature.com/articles/s41467-022-35595-6",
+        "Summary": "Analysis of a large number of Ribo-seq datasets and genomic alignments led to detection of novel non-AUG proteoforms. Unexpectedly the number of non-AUG proteoforms identified with Ribo-seq greatly exceeds those with strong phylogenetic support.",
+        "Authors": [
+            "Alla D. Fedorova",
+            "Stephen J. Kiniry",
+            "Pavel V. Baranov"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-13"
+    },
+    {
+        "Title": "Single-sequence protein structure prediction using supervised transformer protein language models",
+        "Link": "https://www.nature.com/articles/s43588-022-00373-3",
+        "Summary": "In this study, a supervised protein language model is proposed to predict protein structure from a single sequence. It achieves state-of-the-art accuracy on orphan proteins and is competitive with other methods on human-designed proteins.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Computational Science",
+        "Volume and Pages": "Volume: 2, P: 804-814"
+    }
+]

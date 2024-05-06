@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "National surveillance data analysis of COVID-19 vaccine uptake in England by women of reproductive age",
+        "Link": "https://www.nature.com/articles/s41467-023-36125-8",
+        "Summary": "Women of reproductive age may have specific concerns relating to perceived impacts on fertility and menstrual cycles that make them hesitant to receive COVID-19 vaccination. In this study, the authors explore COVID-19 vaccine uptake rates in women of reproductive age using linked data for ~13 million women in England.",
+        "Authors": [
+            "Laura A. Magee",
+            "Erika Molteni",
+            "Sara White"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Feb 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-8"
+    },
+    {
+        "Title": "Trajectory modeling of cannabis use over 30 years identifies five unique longitudinal patterns",
+        "Link": "https://www.nature.com/articles/s41598-023-50376-x",
+        "Summary": "",
+        "Authors": [
+            "Amy R. Mahar",
+            "Michael P. Bancks",
+            "Gregory L. Kinney"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2023",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 13, P: 1-5"
+    },
+    {
+        "Title": "Natural history of long-COVID in a nationwide, population cohort study",
+        "Link": "https://www.nature.com/articles/s41467-023-39193-y",
+        "Summary": "The long-term natural history of long-COVID is not well understood. In this population-based cohort study from Scotland, the authors describe symptom prevalence and health-related quality of life up to 18 months after a positive SARS-CoV-2 test and compare with matched test-negative controls.",
+        "Authors": [
+            "Claire E. Hastie",
+            "David J. Lowe",
+            "Jill P. Pell"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Jun 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-10"
+    },
+    {
+        "Title": "True prevalence of long-COVID in a nationwide, population cohort study",
+        "Link": "https://www.nature.com/articles/s41467-023-43661-w",
+        "Summary": "Determining the prevalence of Long COVID is challenging because many symptoms attributed to the syndrome could have other causes. Here, the authors estimate the prevalence of Long COVID in Scotland by comparing rates of symptoms reported by people with and without history of SARS-CoV-2 infection.",
+        "Authors": [
+            "Claire E. Hastie",
+            "David J. Lowe",
+            "Jill P. Pell"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Nov 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-6"
+    },
+    {
+        "Title": "Nationwide health, socio-economic and genetic predictors of COVID-19 vaccination status in Finland",
+        "Link": "https://www.nature.com/articles/s41562-023-01591-z",
+        "Summary": "The authors use data on the entire Finnish population to develop a machine learning model for predicting COVID-19 vaccination uptake. Important predictors are proxies of socio-economic status, and those at high risk for COVID-19 consequences are less likely to get vaccinated.",
+        "Authors": [
+            "Tuomo Hartonen",
+            "Bradley Jermy",
+            "Andrea Ganna"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Apr 2023",
+        "Journal Title": "Nature Human Behaviour",
+        "Volume and Pages": "Volume: 7, P: 1069-1083"
+    },
+    {
+        "Title": "Effects of accelerometer-based sedentary time and physical activity on DEXA-measured fat mass in 6059 children",
+        "Link": "https://www.nature.com/articles/s41467-023-43316-w",
+        "Summary": "Childhood obesity remains a global epidemic. Here, using objective measurements, the authors show that sedentary time increased from 6\u2009h/day in childhood to 9\u2009h/day in young adulthood, and was cumulatively associated with increased total and trunk fat mass. Both light or moderate-to-vigorous physical activity similarly partly reversed risk.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-17"
+    },
+    {
+        "Title": "A deep unrolled neural network for real-time MRI-guided brain intervention",
+        "Link": "https://www.nature.com/articles/s41467-023-43966-w",
+        "Summary": "Real-time MRI provides accurate navigation and targeting for neurological interventions. Here, the authors propose a deep unrolled neural network for MRI reconstruction that enables real-time monitoring of remote-controlled brain interventions and can be integrated into diagnostic scanners.",
+        "Authors": [
+            "Zhao He",
+            "Ya-Nan Zhu",
+            "Yuan Feng"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "Quantitatively assessing early detection strategies for mitigating COVID-19 and future pandemics",
+        "Link": "https://www.nature.com/articles/s41467-023-44199-7",
+        "Summary": "Monitoring samples from hospital patients, wastewater, or air travel may enable early detection of pathogens. Here, the authors assess how these surveillance systems could have impacted detection of COVID-19 and their potential benefits for detection of other emerging pathogens.",
+        "Authors": [
+            "Andrew Bo Liu",
+            "Daniel Lee",
+            "Michael Springer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-10"
+    },
+    {
+        "Title": "Dietary circadian rhythms and cardiovascular disease risk in the prospective NutriNet-Sant\u00e9 cohort",
+        "Link": "https://www.nature.com/articles/s41467-023-43444-3",
+        "Summary": "The relation between daily meal and fasting timing with cardiovascular disease incidence remains unclear. Here, authors show that a later daily meal timing is associated with increased cardiovascular disease risk, especially in women. This study suggests that adopting earlier daily eating patterns may be beneficial for cardiovascular prevention.",
+        "Authors": [
+            "Anna Palomar-Cros",
+            "Valentina A. Andreeva",
+            "Bernard Srour"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "Benefits, harms and cost-effectiveness of cervical screening, triage and treatment strategies for women in the general population",
+        "Link": "https://www.nature.com/articles/s41591-023-02600-4",
+        "Summary": "A modelled evaluation of screening and treatment strategies for prevention of cervical cancer in 78 low- and lower-middle-income countries provides evidence to support the World Health Organization\u2019s recommendation of primary HPV testing for women in the general population.",
+        "Authors": [
+            "Kate T. Simms",
+            "Adam Keane",
+            "Karen Canfell"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Dec 2023",
+        "Journal Title": "Nature Medicine",
+        "Volume and Pages": "Volume: 29, P: 3050-3058"
+    }
+]

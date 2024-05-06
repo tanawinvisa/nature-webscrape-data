@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Native mass spectrometry-based metabolomics identifies metal-binding compounds",
+        "Link": "https://www.nature.com/articles/s41557-021-00803-1",
+        "Summary": "The systemic discovery of metal\u2013small-molecule complexes from biological samples is a difficult challenge. Now, a method based on liquid chromatography and native electrospray ionization mass spectrometry has been developed. The approach uses post-column pH adjustment and metal infusion combined with ion identity molecular networking, and a rule-based informatics workflow, to interrogate small-molecule\u2013metal binding.",
+        "Authors": [
+            "Allegra T. Aron",
+            "Daniel Petras",
+            "Pieter C. Dorrestein"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "18 Nov 2021",
+        "Journal Title": "Nature Chemistry",
+        "Volume and Pages": "Volume: 14, P: 100-109"
+    },
+    {
+        "Title": "Structure of Hsp90\u2013p23\u2013GR reveals the Hsp90 client-remodelling mechanism",
+        "Link": "https://www.nature.com/articles/s41586-021-04236-1",
+        "Summary": "Studies based on cryo-electron microscopy structures of Hsp90 chaperone complexes reveal the molecular mechanism of the chaperone-mediated maturation of the human glucocorticoid receptor.",
+        "Authors": [
+            "Chari M. Noddings",
+            "Ray Yu-Ruei Wang",
+            "David A. Agard"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 601, P: 465-469"
+    },
+    {
+        "Title": "Structure of Hsp90\u2013Hsp70\u2013Hop\u2013GR reveals the Hsp90 client-loading mechanism",
+        "Link": "https://www.nature.com/articles/s41586-021-04252-1",
+        "Summary": "The cryo-electron microscopy structure of the glucocorticoid receptor (GR)-loading complex\u2014a complex\u00a0in which Hsp70 loads\u00a0GR onto Hsp90 and Hop\u2014is described, providing insights into how the chaperones Hsp90 and Hsp70 coordinate to\u00a0facilitate GR remodelling for\u00a0activation.",
+        "Authors": [
+            "Ray Yu-Ruei Wang",
+            "Chari M. Noddings",
+            "David A. Agard"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 601, P: 460-464"
+    },
+    {
+        "Title": "Activation mechanism of PINK1",
+        "Link": "https://www.nature.com/articles/s41586-021-04340-2",
+        "Summary": "Unphosphorylated PINK1 of Pediculus humanus corporis forms a dimerized state before undergoing trans-autophosphorylation, and phosphorylated PINK1 undergoes a conformational change in the N-lobe to produce its phosphorylated, ubiquitin-binding state.",
+        "Authors": [
+            "Zhong Yan Gan",
+            "Sylvie Callegari",
+            "David Komander"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "21 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 602, P: 328-335"
+    },
+    {
+        "Title": "Monitoring protein conformational changes using fluorescent nanoantennas",
+        "Link": "https://www.nature.com/articles/s41592-021-01355-5",
+        "Summary": "Fluorescent nanoantennas represent a versatile detection strategy for monitoring fast, large- and small-scale protein dynamics.",
+        "Authors": [
+            "Scott G. Harroun",
+            "Dominic Lauzon",
+            "Alexis Vall\u00e9e-B\u00e9lisle"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 19, P: 71-80"
+    },
+    {
+        "Title": "Efficient sampling of high-dimensional free energy landscapes using adaptive reinforced dynamics",
+        "Link": "https://www.nature.com/articles/s43588-021-00173-1",
+        "Summary": "The authors have developed an adaptive reinforced dynamics approach, which improves the efficiency when exploring the configurational space and free energy landscape of large biomolecules, such as proteins.",
+        "Authors": [
+            "Dongdong Wang",
+            "Yanze Wang",
+            "Weinan E."
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "24 Dec 2021",
+        "Journal Title": "Nature Computational Science",
+        "Volume and Pages": "Volume: 2, P: 20-29"
+    },
+    {
+        "Title": "\u03b2-NAD as a building block in natural product biosynthesis",
+        "Link": "https://www.nature.com/articles/s41586-021-04214-7",
+        "Summary": "\u03b2-Nicotinamide adenine dinucleotide is used as a building block in secondary metabolite biosynthetic pathways for a novel class of natural products.",
+        "Authors": [
+            "Lena Barra",
+            "Takayoshi Awakawa",
+            "Ikuro Abe"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "08 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 600, P: 754-758"
+    },
+    {
+        "Title": "Catalytic flexibility of rice glycosyltransferase OsUGT91C1 for the production of palatable steviol glycosides",
+        "Link": "https://www.nature.com/articles/s41467-021-27144-4",
+        "Summary": "Steviol glycosides from the plant Stevia rebaudiana are already used as lowcalorie sweeteners, but the most abundant naturally occurring compounds have a bitter aftertaste. Here, the authors characterize and engineer rice glycosyltransferase OsUGT91C1 to facilitate the large-scale production of naturally rare but palatable glycosides Reb D and Reb M",
+        "Authors": [
+            "Jinzhu Zhang",
+            "Minghai Tang",
+            "Wei Cheng"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "02 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    },
+    {
+        "Title": "Molecular basis of enzymatic nitrogen-nitrogen formation by a family of zinc-binding cupin enzymes",
+        "Link": "https://www.nature.com/articles/s41467-021-27523-x",
+        "Summary": "Enzymes involved in the synthesis of nitrogen-nitrogen bond containing molecules have been identified but the processes remain largely unknown. Here, the authors use biochemical characterisation and computer modelling to study the molecular basis of hydrazine bond formation by a family of di-domain enzymes.",
+        "Authors": [
+            "Guiyun Zhao",
+            "Wei Peng",
+            "Yi-Ling Du"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-10"
+    },
+    {
+        "Title": "Hedgehog-Interacting Protein is a multimodal antagonist of Hedgehog signalling",
+        "Link": "https://www.nature.com/articles/s41467-021-27475-2",
+        "Summary": "Hedgehog-Interacting Protein (HHIP) is the only reported secreted inhibitor of Sonic Hedgehog (SHH) signalling. Here, the authors report structures of the HHIP N- and C-terminal domains, both in complexes with glycosaminoglycans, providing insights into the molecular basis for SHH sequestration and inhibition.",
+        "Authors": [
+            "Samuel C. Griffiths",
+            "Rebekka A. Schwab",
+            "Christian Siebold"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-13"
+    }
+]

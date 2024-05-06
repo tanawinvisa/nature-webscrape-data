@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "ACIDES: on-line monitoring of forward genetic screens for protein engineering",
+        "Link": "https://www.nature.com/articles/s41467-023-43967-9",
+        "Summary": "Screening mutated proteins is a versatile strategy in protein research, producing massive datasets when combined with NGS. Here, authors present ACIDES to estimate mutated protein fitness and aid protein engineering pipelines in a range of applications, including gene therapy.",
+        "Authors": [
+            "Takahiro Nemoto",
+            "Tommaso Ocari",
+            "Ulisse Ferrari"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-11"
+    },
+    {
+        "Title": "Natural plant growth and development achieved in the IPK PhenoSphere by dynamic environment simulation",
+        "Link": "https://www.nature.com/articles/s41467-023-41332-4",
+        "Summary": "The PhenoSphere is a unique plant cultivation facility in which field-like environments can be simulated. Here, the authors find that a single season simulation is superior to an averaged season and to a climatized glasshouse cultivation to elicit field-like phenotypes evaluated in 11 maize lines.",
+        "Authors": [
+            "Marc C. Heuermann",
+            "Dominic Knoch",
+            "Thomas Altmann"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Sept 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-14"
+    },
+    {
+        "Title": "JOINTLY: interpretable joint clustering of single-cell transcriptomes",
+        "Link": "https://www.nature.com/articles/s41467-023-44279-8",
+        "Summary": "Batch integration is a critical yet challenging step in many single-cell RNA-seq analysis workflows. Here, authors present JOINTLY, a hybrid linear and non-linear NMF-based algorithm, providing interpretable and robust cell clustering against over-integration.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-15"
+    },
+    {
+        "Title": "Interpretable neural architecture search and transfer learning for understanding CRISPR\u2013Cas9 off-target enzymatic reactions",
+        "Link": "https://www.nature.com/articles/s43588-023-00569-1",
+        "Summary": "Developing predictive mechanistic models in biology is challenging. Elektrum uses neural architecture search, kinetic models and transfer learning to discover CRISPR\u2013Cas9 cleavage kinetics, achieving high performance and biophysical interpretability.",
+        "Authors": [
+            "Zijun Zhang",
+            "Adam R. Lamson",
+            "Olga Troyanskaya"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Computational Science",
+        "Volume and Pages": "Volume: 3, P: 1056-1066"
+    },
+    {
+        "Title": "Accurate integration of single-cell DNA and RNA for analyzing intratumor heterogeneity using MaCroDNA",
+        "Link": "https://www.nature.com/articles/s41467-023-44014-3",
+        "Summary": "Here, the authors develop MaCroDNA, an algorithm to integrate single-cell DNA and RNA sequencing data from the same tissue. They use MaCroDNA to show\u2014in agreement with previous studies\u2014that copy number changes can predict progression from Barrett\u2019s esophagus to esophageal adenocarcinoma.",
+        "Authors": [
+            "Mohammadamin Edrisi",
+            "Xiru Huang",
+            "Luay Nakhleh"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-15"
+    },
+    {
+        "Title": "surviveR: a flexible shiny application for patient survival analysis",
+        "Link": "https://www.nature.com/articles/s41598-023-48894-9",
+        "Summary": "",
+        "Authors": [
+            "Tamas Sessler",
+            "Gerard P. Quinn",
+            "Simon S. McDade"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2023",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 13, P: 1-6"
+    },
+    {
+        "Title": "Pathway centric analysis for single-cell RNA-seq and spatial transcriptomics data with GSDensity",
+        "Link": "https://www.nature.com/articles/s41467-023-44206-x",
+        "Summary": "Clustering-based analysis has limited power in highly dynamic single-cell data, which is a common situation in tumour samples. Here, authors introduce GSDensity, enabling pathway-centric analysis for the direct integration of data with their domain knowledge.",
+        "Authors": [
+            "Qingnan Liang",
+            "Yuefan Huang",
+            "Ken Chen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-17"
+    },
+    {
+        "Title": "DeepRTAlign: toward accurate retention time alignment for large cohort mass spectrometry data analysis",
+        "Link": "https://www.nature.com/articles/s41467-023-43909-5",
+        "Summary": "Retention time (RT) alignment is a crucial step in large cohort proteomics and metabolomics studies. Here, the authors introduce DeepRTAlign, a deep learning tool for RT alignment that shows high identification sensitivity and quantitative accuracy.",
+        "Authors": [
+            "Yi Liu",
+            "Yun Yang",
+            "Cheng Chang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "ProRefiner: an entropy-based refining strategy for inverse protein folding with global graph attention",
+        "Link": "https://www.nature.com/articles/s41467-023-43166-6",
+        "Summary": "Inverse Protein Folding is a critical component of protein design. Here, authors introduce ProRefiner, a deep-learning model for IPF that exhibits both high performance and memory efficiency, thereby contributing to advancements in protein design.",
+        "Authors": [
+            "Xinyi Zhou",
+            "Guangyong Chen",
+            "Pheng Ann Heng"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Nov 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "vcfdist: accurately benchmarking phased small variant calls in human genomes",
+        "Link": "https://www.nature.com/articles/s41467-023-43876-x",
+        "Summary": "Accurately benchmarking small variant calling accuracy is critical for the continued improvement of human genome sequencing. Here, the authors show that current approaches are biased towards certain variant representations and develop a new approach to ensure consistent and accurate benchmarking, regardless of the original variant representations.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    }
+]

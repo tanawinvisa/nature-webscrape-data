@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Native mass spectrometry reveals the initial binding events of HIV-1 rev to RRE stem II RNA",
+        "Link": "https://www.nature.com/articles/s41467-020-19144-7",
+        "Summary": "The HIV-1 RNA-binding protein rev facilitates nuclear export of viral RNA. Here, the authors use native mass spectrometry to study the interactions between rev-derived peptides and rev response elements of HIV-1 RNA, providing mechanistic insights into rev recognition and recruitment.",
+        "Authors": [
+            "Eva-Maria Schneeberger",
+            "Matthias Halper",
+            "Kathrin Breuker"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-10"
+    },
+    {
+        "Title": "Structural basis for assembly of non-canonical small subunits into type I-C Cascade",
+        "Link": "https://www.nature.com/articles/s41467-020-19785-8",
+        "Summary": "Type I-C Cascade (the CRISPR-associated complex for antiviral defense) is a minimal system, comprising only three unique Cas proteins. Cryo-EM structure of the Desulfovibrio vulgaris type I-C Cascade reveals the molecular mechanisms that underlie RNA-directed complex assembly.",
+        "Authors": [
+            "Roisin E. O\u2019Brien",
+            "In\u00eas C. Santos",
+            "David W. Taylor"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-6"
+    },
+    {
+        "Title": "Reverse C-glycosidase reaction provides C-nucleotide building blocks of xenobiotic nucleic acids",
+        "Link": "https://www.nature.com/articles/s41467-020-20035-0",
+        "Summary": "C-nucleosides are analogues of the canonical N-nucleosides and, despite their synthetic value, biocatalysis has not targeted them yet. Here, the authors report a pseudouridine monophosphate C-glycosidase enzyme for selective 5-\u03b2-C-glycosylation of uracil and its derivatives from pentose 5- phosphate substrates.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-13"
+    },
+    {
+        "Title": "A strategic Ser/Cys exchange in the catalytic triad unlocks an acyltransferase-mediated synthesis of thioesters and tertiary amides",
+        "Link": "https://www.nature.com/articles/s41929-020-00539-0",
+        "Summary": "Preparative methods for thioester and tertiary amide formation are currently missing in the biocatalysis repertoire. Now, a mutation of serine to cysteine in the catalytic triad of an acyltransferase expands its synthetic capability to generate these compounds while retaining its natural activity towards alcohols.",
+        "Authors": [
+            "Martina L. Contente",
+            "David Roura Padrosa",
+            "Francesca Paradisi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Nov 2020",
+        "Journal Title": "Nature Catalysis",
+        "Volume and Pages": "Volume: 3, P: 1020-1026"
+    },
+    {
+        "Title": "Direct binding of TFE\u03b1 opens DNA binding cleft of RNA polymerase",
+        "Link": "https://www.nature.com/articles/s41467-020-19998-x",
+        "Summary": "How clamp conformation is regulated in the transcription cycle of stalk-containing archaeal and eukaryotic RNA polymerase (RNAP) systems is still not well understood. Here, the authors combine cryo-EM, X-ray crystallography and photo-crosslinking assays to structurally characterise RNAP, the RNAP-TFE\u03b1 binary and RNAP-TFE\u03b1-promoter DNA ternary complexes from the archaea Thermococcus kodakarensis and enables them to describe the dynamic conformational changes of the general transcription factor TFE\u03b1 and RNAP during the early stage of transcription cycle.",
+        "Authors": [
+            "Sung-Hoon Jun",
+            "Jaekyung Hyun",
+            "Katsuhiko S. Murakami"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    },
+    {
+        "Title": "The \u03b4 subunit and NTPase HelD institute a two-pronged mechanism for RNA polymerase recycling",
+        "Link": "https://www.nature.com/articles/s41467-020-20159-3",
+        "Summary": "The bacterial helicase-like transcription factor HelD interacts with the RNA polymerase (RNAP) and together with the RNAP \u03b4 subunit enhances RNAP cycling. Here, the authors present the cryo-EM structures of the monomeric and dimeric Bacillus subtilis RNAP-\u03b4-HelD complexes and suggest a model for HelD/\u03b4-mediated RNAP recycling and putative hibernation.",
+        "Authors": [
+            "Hao-Hong Pei",
+            "Tarek Hilal",
+            "Markus C. Wahl"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-14"
+    },
+    {
+        "Title": "Identification of phenothiazine derivatives as UHM-binding inhibitors of early spliceosome assembly",
+        "Link": "https://www.nature.com/articles/s41467-020-19514-1",
+        "Summary": "So far only a few compounds have been reported as splicing modulators. Here, the authors combine high-throughput screening, chemical synthesis, NMR, X-ray crystallography with functional studies and develop phenothiazines as inhibitors for the U2AF Homology Motif (UHM) domains of proteins that regulate splicing and show that they inhibit early spliceosome assembly on pre-mRNA substrates in vitro.",
+        "Authors": [
+            "Pravin Kumar Ankush Jagtap",
+            "Tom\u00e1\u0161 Kubelka",
+            "Michael Sattler"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-11"
+    },
+    {
+        "Title": "Heme biosynthesis depends on previously unrecognized acquisition of iron-sulfur cofactors in human amino-levulinic acid dehydratase",
+        "Link": "https://www.nature.com/articles/s41467-020-20145-9",
+        "Summary": "Heme biosynthesis depends on iron-sulfur (Fe-S) cluster biogenesis but the molecular connection between these pathways is not fully understood. Here, the authors show that the heme biosynthesis enzyme ALAD contains an Fe-S cluster, disruption of which reduces ALAD activity and heme production in human cells.",
+        "Authors": [
+            "Gang Liu",
+            "Debangsu Sil",
+            "Tracey Ann Rouault"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-11"
+    },
+    {
+        "Title": "Architecture of a SARS-CoV-2 mini replication and transcription complex",
+        "Link": "https://www.nature.com/articles/s41467-020-19770-1",
+        "Summary": "SARS-CoV-2 virus replication and transcription is mediated by the replication and transcription complex (RTC) that is composed of 16 non-structural proteins (nsp). Here, the authors present the cryo-EM structure of a SARS-CoV-2 mini RTC consisting of the viral RNA-dependent RNA polymerase with a template-primer RNA, the RdRp cofactors nsp7 and nsp8 and two nsp13 helicase molecules, and they propose a model for helicase-polymerase coupling during SARS-CoV-2 RTC assembly.",
+        "Authors": [
+            "Liming Yan",
+            "Ying Zhang",
+            "Zhiyong Lou"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-6"
+    },
+    {
+        "Title": "Prolyl isomerization controls activation kinetics of a cyclic nucleotide-gated ion channel",
+        "Link": "https://www.nature.com/articles/s41467-020-20104-4",
+        "Summary": "SthK, a cyclic nucleotide-gated ion channel from Spirochaeta thermophila activates slowly upon cAMP increase. Here, authors investigate cAMP-induced activation in purified SthK channels using stopped-flow assays and enzymatic catalysis and reveal that the cis/trans conformation of a conserved proline in the cyclic nucleotide-binding domain determines the activation kinetics of SthK.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    }
+]

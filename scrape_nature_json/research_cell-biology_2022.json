@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Actin-microtubule cytoskeletal interplay mediated by MRTF-A/SRF signaling promotes dilated cardiomyopathy caused by LMNA mutations",
+        "Link": "https://www.nature.com/articles/s41467-022-35639-x",
+        "Summary": "Lamin A/C gene mutations cause dilated cardiomyopathy associated with cofilin-1 phosphorylation and actin destabilization. Here, the authors show that phosphorylated cofilin-1 blunts the MRTF-A/SRF axis, leading to decreased tubulin acetylation and altered cardiac structure and function.",
+        "Authors": [
+            "Caroline Le Dour",
+            "Maria Chatzifrangkeskou",
+            "Antoine Muchir"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-21"
+    },
+    {
+        "Title": "The lipid flippase SLC47A1 blocks metabolic vulnerability to ferroptosis",
+        "Link": "https://www.nature.com/articles/s41467-022-35707-2",
+        "Summary": "Ferroptosis is cell death caused by lipid peroxidation and plasma membrane rupture. Here, the authors report an additional role for the lipid flippase SLC47A1 as a regulator of lipid remodeling and survival during ferroptosis, thereby providing a metabolic target for overcoming drug resistance.",
+        "Authors": [
+            "Zhi Lin",
+            "Jiao Liu",
+            "Minghua Yang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-17"
+    },
+    {
+        "Title": "USP5-Beclin 1 axis overrides p53-dependent senescence and drives Kras-induced tumorigenicity",
+        "Link": "https://www.nature.com/articles/s41467-022-35557-y",
+        "Summary": "Oncogene-induced senescence (OIS) occurs in premalignant lung adenomas, but infrequently in malignant adenocarcinomas. Here the authors show that USP5-Beclin 1 axis overcomes OIS in Kras-driven lung cancer by enhancing MDM2-mediated p53 degradation.",
+        "Authors": [
+            "Juan Li",
+            "Yang Wang",
+            "Zhi-Xiong Jim Xiao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-15"
+    },
+    {
+        "Title": "Targeting anti-apoptotic pathways eliminates senescent melanocytes and leads to nevi regression",
+        "Link": "https://www.nature.com/articles/s41467-022-35657-9",
+        "Summary": "Cutaneous hyperpigmented lesions, including nevi, are populated by senescent melanocytes. Here the authors provide evidence for a novel strategy based on combining inhibition of the BCL-2 and MCL1 anti-apoptotic pathways that selectively eliminates senescent melanocytes in culture and in vivo.",
+        "Authors": [
+            "Jaskaren Kohli",
+            "Chen Ge",
+            "Marco Demaria"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "The UFM1 system regulates ER-phagy through the ufmylation of CYB5R3",
+        "Link": "https://www.nature.com/articles/s41467-022-35501-0",
+        "Summary": "The UFM1 system, a ubiquitin-like conjugation system is crucial for endoplasmic reticulum (ER) homeostasis. Here, authors found that CYB5R3 is covalently conjugated with UFM1, which becomes a signal for ER-phagy, a selective autophagy of ER.",
+        "Authors": [
+            "Ryosuke Ishimura",
+            "Afnan H. El-Gowily",
+            "Masaaki Komatsu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-16"
+    },
+    {
+        "Title": "Multivalency ensures persistence of a +TIP body at specialized microtubule ends",
+        "Link": "https://www.nature.com/articles/s41556-022-01035-2",
+        "Summary": "Maan et al., Meier et al. and Song et al. report that microtubule plus-end binding proteins can undergo liquid\u2013liquid phase separation to regulate microtubule dynamics.",
+        "Authors": [
+            "Sandro M. Meier",
+            "Ana-Maria Farcas",
+            "Yves Barral"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 25, P: 56-67"
+    },
+    {
+        "Title": "Phase separation of EB1 guides microtubule plus-end dynamics",
+        "Link": "https://www.nature.com/articles/s41556-022-01033-4",
+        "Summary": "Maan et al., Meier et al. and Song et al. report that microtubule plus-tip end binding proteins can undergo liquid\u2013liquid phase separation and regulate microtubule dynamics.",
+        "Authors": [
+            "Xiaoyu Song",
+            "Fengrui Yang",
+            "Xuebiao Yao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 25, P: 79-91"
+    },
+    {
+        "Title": "mTORC1 regulates a lysosome-dependent adaptive shift in intracellular lipid species",
+        "Link": "https://www.nature.com/articles/s42255-022-00706-6",
+        "Summary": "Hosios et al. demonstrate that inhibition of mechanistic target of rapamycin complex 1 in cells and in tumors in mice leads to a lysosome-dependent but autophagy-independent shift in membrane lipid metabolism, resulting in increased intracellular triglyceride pools.",
+        "Authors": [
+            "Aaron M. Hosios",
+            "Meghan E. Wilkinson",
+            "Brendan D. Manning"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Metabolism",
+        "Volume and Pages": "Volume: 4, P: 1792-1811"
+    },
+    {
+        "Title": "Programming multicellular assembly with synthetic cell adhesion molecules",
+        "Link": "https://www.nature.com/articles/s41586-022-05622-z",
+        "Summary": "Synthetic cell adhesion molecules yield customized cell\u2013cell interactions with adhesion properties that are similar to native interactions, and offer abilities for cell and tissue engineering and for systematically studying multicellular organization.",
+        "Authors": [
+            "Adam J. Stevens",
+            "Andrew R. Harris",
+            "Wendell A. Lim"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Dec 2022",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 614, P: 144-152"
+    },
+    {
+        "Title": "The phosphatidylinositol-transfer protein Nir3 promotes PI(4,5)P2 replenishment in response to TCR signaling during T cell development and survival",
+        "Link": "https://www.nature.com/articles/s41590-022-01372-2",
+        "Summary": "Weiss and colleagues identify a role for the endoplasmic reticulum-tethered PI transfer protein Nir3 in replenishing plasma membrane PIP2 levels in DN3-DP thymocytes, thereby increasing the sensitivity of developing thymocytes to weak TCR agonists.",
+        "Authors": [
+            "Wen Lu",
+            "Ynes A. Helou",
+            "Arthur Weiss"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 24, P: 136-147"
+    }
+]

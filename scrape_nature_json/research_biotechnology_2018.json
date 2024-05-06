@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "In situ sprayed bioresponsive immunotherapeutic gel for post-surgical cancer treatment",
+        "Link": "https://www.nature.com/articles/s41565-018-0319-4",
+        "Summary": "A gel with therapeutic nanoformulation that can be sprayed at the tumour resection site after surgery activates immune response in the tissue microenviroment, inhibiting tumour recurrence and potential metastasis.",
+        "Authors": [
+            "Qian Chen",
+            "Chao Wang",
+            "Zhen Gu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "10 Dec 2018",
+        "Journal Title": "Nature Nanotechnology",
+        "Volume and Pages": "Volume: 14, P: 89-97"
+    },
+    {
+        "Title": "Native mass spectrometry combined with enzymatic dissection unravels glycoform heterogeneity of biopharmaceuticals",
+        "Link": "https://www.nature.com/articles/s41467-018-04061-7",
+        "Summary": "The specific glycosylation patterns of biological drugs often impact the efficacy and safety of the therapeutic product. Here the authors describe a native mass spectrometry approach that allows the resolution of highly complex glycosylation patterns on large proteins, which they apply to the therapeutic Fc-fusion protein Etanercept.",
+        "Authors": [
+            "Therese Wohlschlager",
+            "Kai Scheffler",
+            "Christian G. Huber"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Apr 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-9"
+    },
+    {
+        "Title": "A chemoselective strategy for late-stage functionalization of complex small molecules with polypeptides and proteins",
+        "Link": "https://www.nature.com/articles/s41557-018-0154-0",
+        "Summary": "The preparation of conjugates between proteins and small molecules is often challenging and requires several synthetic steps to functionalize each component for conjugation. Now, a conjugation methodology that leverages an electrophilic Se\u2013S bond of selenocysteine to create bioconjugates between polypeptides and complex small molecules has been described.",
+        "Authors": [
+            "Daniel T. Cohen",
+            "Chi Zhang",
+            "Bradley L. Pentelute"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "05 Nov 2018",
+        "Journal Title": "Nature Chemistry",
+        "Volume and Pages": "Volume: 11, P: 78-85"
+    },
+    {
+        "Title": "High-resolution acoustophoretic 3D cell patterning to construct functional collateral cylindroids for ischemia therapy",
+        "Link": "https://www.nature.com/articles/s41467-018-07823-5",
+        "Summary": "Engineering 3D tissues faces the challenge of adequate vascularisation for nutrient delivery and gas exchange deep inside the construct. Here the authors use surface acoustic waves to create an aligned array of blood vessels in a hyaluronic acid hydrogel and use it to improve function in a mouse hindlimb ischemia model.",
+        "Authors": [
+            "Byungjun Kang",
+            "Jisoo Shin",
+            "Hyungsuk Lee"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-13"
+    },
+    {
+        "Title": "A DNA nanomachine chemically resolves lysosomes in live cells",
+        "Link": "https://www.nature.com/articles/s41565-018-0318-5",
+        "Summary": "A DNA-based nanosensor that simultaneously measures pH and chloride concentrations can chemically resolve different subpopulations of lysosomes in live cells derived from healthy individuals and patients with Niemann\u2013Pick disease.",
+        "Authors": [
+            "KaHo Leung",
+            "Kasturi Chakraborty",
+            "Yamuna Krishnan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "03 Dec 2018",
+        "Journal Title": "Nature Nanotechnology",
+        "Volume and Pages": "Volume: 14, P: 176-183"
+    },
+    {
+        "Title": "A pH-correctable, DNA-based fluorescent reporter for organellar calcium",
+        "Link": "https://www.nature.com/articles/s41592-018-0232-7",
+        "Summary": "The DNA-based, ratiometric fluorescent reporter CalipHluor enables quantitative imaging of pH and calcium in acidic organelles with single-organelle resolution. The probe was used to identify a lysosome-specific Ca2+ importer in animals.",
+        "Authors": [
+            "Nagarjun Narayanaswamy",
+            "Kasturi Chakraborty",
+            "Yamuna Krishnan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "10 Dec 2018",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 16, P: 95-102"
+    },
+    {
+        "Title": "Origin and evolution of qingke barley in Tibet",
+        "Link": "https://www.nature.com/articles/s41467-018-07920-5",
+        "Summary": "The origin of Tibetan barley (qingke) has been a controversial issue for many years. Here, the authors conduct population genomics study to support that qingke is derived from eastern domesticated barley instead of Tibetan wild barley and suggest southern Tibetan Plateau as its introduction route.",
+        "Authors": [
+            "Xingquan Zeng",
+            "Yu Guo",
+            "Nyima Tashi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-11"
+    },
+    {
+        "Title": "Bioconjugation strategy for cell surface labelling with gold nanostructures designed for highly localized pH measurement",
+        "Link": "https://www.nature.com/articles/s41467-018-07726-5",
+        "Summary": "Understanding the pH changes at cell surfaces is important for understanding the mechanisms of different physiological processes. Here, the authors report on the development of a cell membrane anchored gold nanoparticle for surface enhanced Raman spectroscopy determination of pH.",
+        "Authors": [
+            "Leonardo Puppulin",
+            "Shigekuni Hosogi",
+            "Yoshinori Marunaka"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-13"
+    },
+    {
+        "Title": "High-throughput chromatin accessibility profiling at single-cell resolution",
+        "Link": "https://www.nature.com/articles/s41467-018-05887-x",
+        "Summary": "Single-cell chromatin accessibility is a promising means to identify regulatory programs in mixtures of cells. Here the authors describe \u00b5-ATAC-seq, a low-cost method that can generate thousands of accessibility profiles per day.",
+        "Authors": [
+            "Anja Mezger",
+            "Sandy Klemm",
+            "William Greenleaf"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Sept 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-6"
+    },
+    {
+        "Title": "Highly mechanosensitive ion channels from graphene-embedded crown ethers",
+        "Link": "https://www.nature.com/articles/s41563-018-0220-4",
+        "Summary": "Tuning ionic permeation across nanoscale pores is important for areas ranging from nanofluidic computing to drug delivery. Complex formation between crown ethers and dissolved metal ions is used to demonstrate graphene-based ion channels with high mechanosensitivity.",
+        "Authors": [
+            "A. Fang",
+            "K. Kroenlein",
+            "A. Smolyanitsky"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "26 Nov 2018",
+        "Journal Title": "Nature Materials",
+        "Volume and Pages": "Volume: 18, P: 76-81"
+    }
+]

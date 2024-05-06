@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Native mass spectrometry-based metabolomics identifies metal-binding compounds",
+        "Link": "https://www.nature.com/articles/s41557-021-00803-1",
+        "Summary": "The systemic discovery of metal\u2013small-molecule complexes from biological samples is a difficult challenge. Now, a method based on liquid chromatography and native electrospray ionization mass spectrometry has been developed. The approach uses post-column pH adjustment and metal infusion combined with ion identity molecular networking, and a rule-based informatics workflow, to interrogate small-molecule\u2013metal binding.",
+        "Authors": [
+            "Allegra T. Aron",
+            "Daniel Petras",
+            "Pieter C. Dorrestein"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "18 Nov 2021",
+        "Journal Title": "Nature Chemistry",
+        "Volume and Pages": "Volume: 14, P: 100-109"
+    },
+    {
+        "Title": "Convergent evolution of bacterial ceramide synthesis",
+        "Link": "https://www.nature.com/articles/s41589-021-00948-7",
+        "Summary": "Elucidation of the bacterial ceramide biosynthetic pathway reveals that it likely evolved independently from the eukaryotic pathway, as bacteria lack homologs for many of the eukaryotic enzymes and the reactions occur in a different order.",
+        "Authors": [
+            "Gabriele Stankeviciute",
+            "Peijun Tang",
+            "Eric A. Klein"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 305-312"
+    },
+    {
+        "Title": "Naturally-occurring spinosyn A and its derivatives function as argininosuccinate synthase activator and tumor inhibitor",
+        "Link": "https://www.nature.com/articles/s41467-021-22235-8",
+        "Summary": "Arginine addiction induced by argininosuccinate synthase (ASSN1) deficiency has been exploited to treat ASS1-deficient cancers. Here, the authors show an alternative therapeutic approach where ASS1 activity is increased by the pesticide spinosyn A and is shown to inhibit breast cancer cell proliferation.",
+        "Authors": [
+            "Zizheng Zou",
+            "Xiyuan Hu",
+            "Zhiyong Luo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Apr 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-15"
+    },
+    {
+        "Title": "An isotopic labeling approach linking natural products with biosynthetic gene clusters",
+        "Link": "https://www.nature.com/articles/s41589-021-00949-6",
+        "Summary": "IsoAnalyst is a mass spectrometry-based parallel stable isotope labeling platform that associates labeling patterns with bioinformatic structure prediction in order to connect natural products to their corresponding biosynthetic gene clusters.",
+        "Authors": [
+            "Catherine S. McCaughey",
+            "Jeffrey A. van Santen",
+            "Roger G. Linington"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 295-304"
+    },
+    {
+        "Title": "GCN2 kinase activation by ATP-competitive kinase inhibitors",
+        "Link": "https://www.nature.com/articles/s41589-021-00947-8",
+        "Summary": "A genome-wide CRISPR screen revealed that loss of general control nonderepressible 2 (GCN2) kinase increases cellular resistance to the pan-ErbB inhibitor neratinib with neratinib directly binding and activating GCN2 kinase activity.",
+        "Authors": [
+            "Colin P. Tang",
+            "Owen Clark",
+            "Ingo K. Mellinghoff"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 207-215"
+    },
+    {
+        "Title": "Precise druggability of the PTH type 1 receptor",
+        "Link": "https://www.nature.com/articles/s41589-021-00929-w",
+        "Summary": "A computational pipeline linking molecular dynamics simulations and an elastic network model-based method identifies druggable sites in the parathyroid hormone class B GPCR and a nonpeptidic allosteric modulator of receptor signaling in cells.",
+        "Authors": [
+            "Ieva Sutkeviciute",
+            "Ji Young Lee",
+            "Jean-Pierre Vilardaga"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 272-280"
+    },
+    {
+        "Title": "Mandipropamid as a chemical inducer of proximity for in vivo applications",
+        "Link": "https://www.nature.com/articles/s41589-021-00922-3",
+        "Summary": "The agrochemical mandipropamid (Mandi), which induces dimerization of a variant of the abscisic acid receptor, has been developed as a new chemical inducer of proximity for cellular and organismal applications.",
+        "Authors": [
+            "Michael J. Ziegler",
+            "Klaus Yserentant",
+            "Richard Wombacher"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 64-69"
+    },
+    {
+        "Title": "Identification and mechanism of G protein-biased ligands for chemokine receptor CCR1",
+        "Link": "https://www.nature.com/articles/s41589-021-00918-z",
+        "Summary": "Cryo-EM structures of the CCR1\u2013Gi complex with N-terminal truncations of the endogenous chemokine CCL15 revealed that the conformational change of Tyr291 in CCR1 regulates \u03b2-arrestin signaling.",
+        "Authors": [
+            "Zhehua Shao",
+            "Qingya Shen",
+            "Huahao Shen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 264-271"
+    },
+    {
+        "Title": "Reaction pathway engineering converts a radical hydroxylase into a halogenase",
+        "Link": "https://www.nature.com/articles/s41589-021-00944-x",
+        "Summary": "Structural characterization and fluorogenic screening of a hydroxylase\u2013halogenase chimera library enable switching of a hydroxylase into a robust and selective halogenase.",
+        "Authors": [
+            "Monica E. Neugebauer",
+            "Elijah N. Kissman",
+            "Michelle C. Y. Chang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 171-179"
+    },
+    {
+        "Title": "Structural and functional diversity among agonist-bound states of the GLP-1 receptor",
+        "Link": "https://www.nature.com/articles/s41589-021-00945-w",
+        "Summary": "Cryo-EM and molecular dynamics simulation analysis of peptide variants of GLP-1 and exendin-4 reveal distinct receptor conformers with unique modes of peptide\u2013receptor engagement.",
+        "Authors": [
+            "Brian P. Cary",
+            "Giuseppe Deganutti",
+            "Samuel H. Gellman"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 256-263"
+    }
+]

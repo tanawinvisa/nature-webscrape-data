@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Structure of the native supercoiled flagellar hook as a universal joint",
+        "Link": "https://www.nature.com/articles/s41467-019-13252-9",
+        "Summary": "The bacterial flagellar hook is a molecular universal joint that connects the rotary motor and long helical propeller of the bacterial flagellum. Here the authors present the 3.6 \u00c5 resolution cryo-EM structure of the native supercoiled Salmonella hook that provides insights into the dynamic changes of subunit conformations and intermolecular interactions of the hook protein FlgE.",
+        "Authors": [
+            "Takayuki Kato",
+            "Fumiaki Makino",
+            "Keiichi Namba"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-8"
+    },
+    {
+        "Title": "Cooperative ordering of treadmilling filaments in cytoskeletal networks of FtsZ and its crosslinker ZapA",
+        "Link": "https://www.nature.com/articles/s41467-019-13702-4",
+        "Summary": "The Z-ring, constituted of the tubulin homolog FtsZ protein, plays an essential role for bacterial cell division. Here the authors use an in vitro reconstitution approach to determine how the regulatory protein ZapA affects FtsZ treadmilling and filament organization into large-scale patterns.",
+        "Authors": [
+            "Paulo Caldas",
+            "Mar L\u00f3pez-Pelegr\u00edn",
+            "Martin Loose"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-13"
+    },
+    {
+        "Title": "Computational modeling demonstrates that glioblastoma cells can survive spatial environmental challenges through exploratory adaptation",
+        "Link": "https://www.nature.com/articles/s41467-019-13726-w",
+        "Summary": "Glioblastoma cells are known to be able to adapt easily to different environments. The authors study the dynamic adaptation of glioblastoma cells to the heterogenous brain\u00a0tumor microenvironment, showing that tumor cells demonstrate varying plasticity of their transcriptomic profiles and an ability to survive new stimuli, in part, by propagating stochastic perturbations over their gene-regulatory network.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-10"
+    },
+    {
+        "Title": "High-resolution label-free 3D mapping of extracellular pH of single living cells",
+        "Link": "https://www.nature.com/articles/s41467-019-13535-1",
+        "Summary": "Current methods to measure extracellular pH are often limited in resolution and response times. Here the authors present a label-free nanoprobe, consisting of a zwitterionic nanomembrane at the tip of a nanopipette, which enables high spatiotemporal resolution pH measurements and topography-pH 3D mapping in live cancer cells.",
+        "Authors": [
+            "Yanjun Zhang",
+            "Yasufumi Takahashi",
+            "Yuri Korchev"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-9"
+    },
+    {
+        "Title": "Structural basis for enzymatic photocatalysis in chlorophyll biosynthesis",
+        "Link": "https://www.nature.com/articles/s41586-019-1685-2",
+        "Summary": "Crystal structures of cyanobacterial protochlorophyllide oxidoreductases reveal the basis of the photocatalytic activities of this enzyme, through the role of its active site in enabling the light-driven reduction of protochlorophyllide.",
+        "Authors": [
+            "Shaowei Zhang",
+            "Derren J. Heyes",
+            "Nigel S. Scrutton"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Oct 2019",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 574, P: 722-725"
+    },
+    {
+        "Title": "Molecular mechanism of a potassium channel gating through activation gate-selectivity filter coupling",
+        "Link": "https://www.nature.com/articles/s41467-019-13227-w",
+        "Summary": "Potassium channels such as MthK are presumed to have two allosterically coupled gates, the activation gate and the selectivity filter gate, that control gating transitions. Here authors use X-ray crystallography and molecular dynamics simulations on MthK and observe crosstalk between the gates.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-15"
+    },
+    {
+        "Title": "The C-terminal region affects the activity of photoactivated adenylyl cyclase from Oscillatoria acuminata",
+        "Link": "https://www.nature.com/articles/s41598-019-56721-3",
+        "Summary": "",
+        "Authors": [
+            "Minako Hirano",
+            "Masumi Takebe",
+            "Shigeru Matsunaga"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Dec 2019",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 9, P: 1-8"
+    },
+    {
+        "Title": "The Levantine jellyfish Rhopilema nomadica and Rhizostoma pulmo swim faster against the flow than with the flow",
+        "Link": "https://www.nature.com/articles/s41598-019-56311-3",
+        "Summary": "",
+        "Authors": [
+            "Dror Malul",
+            "Tamar Lotan",
+            "Uri Shavit"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Dec 2019",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 9, P: 1-6"
+    },
+    {
+        "Title": "A mitochondrial megachannel resides in monomeric F1FO ATP synthase",
+        "Link": "https://www.nature.com/articles/s41467-019-13766-2",
+        "Summary": "The ATP synthase has been suggested to contain the mitochondrial permeability transition pore (mPTP), which has a crucial role in cell death. Here the authors show that reconstituted ATP synthase monomers form voltage-gated and Ca2+\u2009-activated channels with the key features of mPTP.",
+        "Authors": [
+            "Nelli Mnatsakanyan",
+            "Marc C. Llaguno",
+            "Elizabeth A. Jonas"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-11"
+    },
+    {
+        "Title": "Ultrastructure of the axonal periodic scaffold reveals a braid-like organization of actin rings",
+        "Link": "https://www.nature.com/articles/s41467-019-13835-6",
+        "Summary": "The ultrastructural details of the periodic scaffold of actin rings under the plasma membrane of axons remain unknown. Here, the authors combine platinum-replica electron and optical super-resolution microscopy and resolve actin rings as braids made of two long, intertwined actin filaments connected by a dense mesh of aligned spectrins.",
+        "Authors": [
+            "St\u00e9phane Vassilopoulos",
+            "Sol\u00e8ne Gibaud",
+            "Christophe Leterrier"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-13"
+    }
+]

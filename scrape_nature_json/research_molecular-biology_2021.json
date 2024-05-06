@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "XRCC1 protects transcription from toxic PARP1 activity during DNA base excision repair",
+        "Link": "https://www.nature.com/articles/s41556-021-00792-w",
+        "Summary": "Adamowicz et al. report that toxic PARP1 activity, induced by ataxia-associated mutations in XRCC1, impairs the recovery of global transcription during DNA base excision repair by promoting aberrant recruitment and activity of the histone ubiquitin protease USP3.",
+        "Authors": [
+            "Marek Adamowicz",
+            "Richard Hailstone",
+            "Keith W. Caldecott"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Nov 2021",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 23, P: 1287-1298"
+    },
+    {
+        "Title": "R-loop proximity proteomics identifies a role of DDX41 in transcription-associated genomic instability",
+        "Link": "https://www.nature.com/articles/s41467-021-27530-y",
+        "Summary": "Transcription can pose a threat to genomic instability through the formation of R-loops, which are RNA\u2013DNA hybrids with a displaced non-template DNA strand. Here the authors mapped the R-loop proximal proteome in human cells and identified a role of the tumor suppressor DDX41 in opposing R-loop and double strand\u00a0DNA break accumulation in gene promoters.",
+        "Authors": [
+            "Thorsten Mosler",
+            "Francesca Conte",
+            "Petra Beli"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-17"
+    },
+    {
+        "Title": "How asymmetric DNA replication achieves symmetrical fidelity",
+        "Link": "https://www.nature.com/articles/s41594-021-00691-6",
+        "Summary": "Genetic and genomic analyses show that S. cerevisiae DNA polymerase \u03b4 extrinsically proofreads for errors by polymerase \u03b5 and itself, and demonstrate that the symmetry of replication fidelity is achieved via coordinated efforts of intrinsic and extrinsic proofreading and DNA mismatch repair.",
+        "Authors": [
+            "Zhi-Xiong Zhou",
+            "Scott A. Lujan",
+            "Thomas A. Kunkel"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2021",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 28, P: 1020-1028"
+    },
+    {
+        "Title": "Dynamic regulation of N6,2\u2032-O-dimethyladenosine (m6Am) in obesity",
+        "Link": "https://www.nature.com/articles/s41467-021-27421-2",
+        "Summary": "m6A and m6Am are two prevalent mRNA modifications which are target for removal by the fat mass and obesity gene FTO. Here the authors capture the differential profile of these two modifications in the liver of obese mice and identify dynamic translation regulation by the m6Am modification.",
+        "Authors": [
+            "Moshe Shay Ben-Haim",
+            "Yishay Pinto",
+            "Gideon Rechavi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    },
+    {
+        "Title": "Aldehyde-driven transcriptional stress triggers an anorexic DNA damage response",
+        "Link": "https://www.nature.com/articles/s41586-021-04133-7",
+        "Summary": "Endogenous formaldehyde accumulation reveals Cockayne syndrome in mice and stimulates production of the anorexiogenic peptide GDF15 in proximal tubule cells.",
+        "Authors": [
+            "Lee Mulderrig",
+            "Juan I. Garaycoechea",
+            "Ketan J. Patel"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "24 Nov 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 600, P: 158-163"
+    },
+    {
+        "Title": "Helicase Q promotes homology-driven DNA double-strand break repair and prevents tandem duplications",
+        "Link": "https://www.nature.com/articles/s41467-021-27408-z",
+        "Summary": "Microhomology-mediated end-joining (MMEJ) is a poorly defined mutagenic DNA break repair pathway. Here the authors show that the helicase HELQ is essential for polymerase theta-independent\u00a0MMEJ, single-strand annealing and homologous recombination through synthesis dependent strand annealing in C. elegans.",
+        "Authors": [
+            "J. A. Kamp",
+            "B. B. L. G. Lemmens",
+            "M. Tijsterman"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    },
+    {
+        "Title": "Genome surveillance by HUSH-mediated silencing of intronless mobile elements",
+        "Link": "https://www.nature.com/articles/s41586-021-04228-1",
+        "Summary": "The human silencing hub (HUSH) complex uses introns to\u00a0distinguish intronless foreign DNA from intron-containing\u00a0host DNA and modifies chromatin to silence transcription of retrotransposons and retroviruses.",
+        "Authors": [
+            "Marta Seczynska",
+            "Stuart Bloor",
+            "Paul J. Lehner"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Nov 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 601, P: 440-445"
+    },
+    {
+        "Title": "High-intensity training induces non-stoichiometric changes in the mitochondrial proteome of human skeletal muscle without reorganisation of respiratory chain content",
+        "Link": "https://www.nature.com/articles/s41467-021-27153-3",
+        "Summary": "Exercise training can be therapeutic but how mitochondria respond remains unclear. Here, the authors use multiple omics techniques to reveal a complex network of non-stoichiometric mitochondrial adaptations that are prioritized or deprioritised during different phases of exercise training.",
+        "Authors": [
+            "Cesare Granata",
+            "Nikeisha J. Caruana",
+            "David J. Bishop"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "03 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-18"
+    },
+    {
+        "Title": "Cohesin regulates homology search during recombinational DNA repair",
+        "Link": "https://www.nature.com/articles/s41556-021-00783-x",
+        "Summary": "Piazza et al. report that following double-strand break (DSB) formation in S. cerevisiae, cohesin at DSBs facilitates local homology search during repair by homologous recombination, while suppressing DSB contacts with genome-wide double-strand DNAs.",
+        "Authors": [
+            "Aur\u00e8le Piazza",
+            "H\u00e9l\u00e8ne Bordelet",
+            "Romain Koszul"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "08 Nov 2021",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 23, P: 1176-1186"
+    },
+    {
+        "Title": "Structural mechanism for the selective phosphorylation of DNA-loaded MCM double hexamers by the Dbf4-dependent kinase",
+        "Link": "https://www.nature.com/articles/s41594-021-00698-z",
+        "Summary": "A cryo-EM structure of the Dbf4-dependent kinase (DDK) in the act of phosphorylating an Mcm2-7 helicase complex reveals how DDK selectively targets DNA-loaded MCM double hexamers to trigger replication origin activation. Checkpoint kinase Rad53 blocks origin firing by impairing double hexamer engagement by DDK.",
+        "Authors": [
+            "Julia F. Greiwe",
+            "Thomas C. R. Miller",
+            "Alessandro Costa"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Dec 2021",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 29, P: 10-20"
+    }
+]

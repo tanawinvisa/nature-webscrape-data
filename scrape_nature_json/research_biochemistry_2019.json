@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Native top-down mass spectrometry provides insights into the copper centers of membrane-bound methane monooxygenase",
+        "Link": "https://www.nature.com/articles/s41467-019-10590-6",
+        "Summary": "The activity of the membrane-bound enzyme pMMO depends on copper but the location of the copper centers is still under debate. Here, the authors reconstitute pMMO in nanodiscs and use native top-down MS to localize its copper centers, providing insights into which sites are essential for activity.",
+        "Authors": [
+            "Soo Y. Ro",
+            "Luis F. Schachner",
+            "Amy C. Rosenzweig"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Jun 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-12"
+    },
+    {
+        "Title": "Structural basis for Fullerene geometry in a human endogenous retrovirus capsid",
+        "Link": "https://www.nature.com/articles/s41467-019-13786-y",
+        "Summary": "In retroviruses, the capsid protein (CA) forms a shell surrounding the viral core. Here the authors combine cryo-electron microscopy with NMR and X-ray crystallography to examine the CA structure from the human endogenous retrovirus HML2 (HERV-K) and determine the structures of four Fullerene CA closed shells that reveal the molecular basis of capsid assembly.",
+        "Authors": [
+            "Oliver Acton",
+            "Tim Grant",
+            "Peter B. Rosenthal"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-13"
+    },
+    {
+        "Title": "Conformational fitting of a flexible oligomeric substrate does not explain the enzymatic PET degradation",
+        "Link": "https://www.nature.com/articles/s41467-019-13492-9",
+        "Summary": "",
+        "Authors": [
+            "Ren Wei",
+            "Chen Song",
+            "Wolfgang Zimmermann"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-4"
+    },
+    {
+        "Title": "Definition of functionally and structurally distinct repressive states in the nuclear receptor PPAR\u03b3",
+        "Link": "https://www.nature.com/articles/s41467-019-13768-0",
+        "Summary": "The repressive states of peroxisome proliferator-activated receptor \u03b3 (PPAR\u03b3) are ill-defined, despite nuclear receptors being a major drug target. Here authors demonstrate multiple structurally distinct repressive states, providing a structural rationale for ligand bias in a nuclear receptor.",
+        "Authors": [
+            "Zahra Heidari",
+            "Ian M. Chrisman",
+            "Travis S. Hughes"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-14"
+    },
+    {
+        "Title": "Cryo-EM structure of a 40\u00a0kDa SAM-IV riboswitch RNA at 3.7\u2009\u00c5 resolution",
+        "Link": "https://www.nature.com/articles/s41467-019-13494-7",
+        "Summary": "The conformational heterogeneity of RNA molecules makes their structure determination by X-ray crystallography and NMR challenging. Here the authors show that RNA structures can be solved by cryo-EM and present the structures of a 40\u2009kDa SAM-IV riboswitch in the apo form and bound to its ligand S-adenosylmethionine.",
+        "Authors": [
+            "Kaiming Zhang",
+            "Shanshan Li",
+            "Wah Chiu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "03 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-6"
+    },
+    {
+        "Title": "Ancestral-sequence reconstruction unveils the structural basis of function in mammalian FMOs",
+        "Link": "https://www.nature.com/articles/s41594-019-0347-2",
+        "Summary": "Ancestral reconstruction leads to characterization and crystallization of three ancient mammalian flavin-containing monooxygenases, offering insights into their mechanisms of membrane binding, catalytic activity and substrate selection.",
+        "Authors": [
+            "Callum R. Nicoll",
+            "Gautier Bailleul",
+            "Andrea Mattevi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 27, P: 14-24"
+    },
+    {
+        "Title": "Structural basis of nucleosome assembly by the Abo1 AAA+\u00a0ATPase histone chaperone",
+        "Link": "https://www.nature.com/articles/s41467-019-13743-9",
+        "Summary": "ATAD2 AAA+\u2009ATPases are a family of histone chaperones that regulate nucleosome density and chromatin dynamics. Here, authors find that the fission yeast ATAD2 homolog Abo1 deposits histone H3\u2013H4 onto DNA in an ATP-hydrolysis-dependent manner, and present the cryo-EM structure of an ATAD2 family ATPase to reveal the structural basis of nucleosome assembly by Abo1.",
+        "Authors": [
+            "Carol Cho",
+            "Juwon Jang",
+            "Ji-Joon Song"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-13"
+    },
+    {
+        "Title": "Polyanions provide selective control of APC/C interactions with the activator subunit",
+        "Link": "https://www.nature.com/articles/s41467-019-13864-1",
+        "Summary": "Activation of APC/C depends on transient interactions with an activator subunit. Here, the authors show that cellular polyanions trigger APC/C-activator dissociation and that high-affinity substrates block this effect, suggesting that substrate availability controls APC/C-activator binding.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-12"
+    },
+    {
+        "Title": "PBRM1 acts as a p53 lysine-acetylation reader to suppress renal tumor growth",
+        "Link": "https://www.nature.com/articles/s41467-019-13608-1",
+        "Summary": "Acetylation of p53 is critical for its transcriptional activity and its tumour suppressive function. Here, the authors show that PBRM1 is a reader protein for p53\u2032s C-terminal domain acetylation on lysine 382 through its bromodomain 4 and that mutations in this domain leads to compromised tumour suppressive function and renal tumour growth.",
+        "Authors": [
+            "Weijia Cai",
+            "Liya Su",
+            "Haifeng Yang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-15"
+    },
+    {
+        "Title": "Relationship between gut microbiota and circulating metabolites in population-based cohorts",
+        "Link": "https://www.nature.com/articles/s41467-019-13721-1",
+        "Summary": "Here, the authors provide an in-depth study of the metabolome in two large population-based prospective cohorts and identify 32 microbial traits associated with various metabolic biomarkers and specific lipoprotein subfractions, providing insights into the role of microbiota in influencing host lipid levels.",
+        "Authors": [
+            "Dina Vojinovic",
+            "Djawad Radjabzadeh",
+            "Cornelia M. van Duijn"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-7"
+    }
+]

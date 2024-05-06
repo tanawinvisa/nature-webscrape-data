@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach",
+        "Link": "https://www.nature.com/articles/s42256-019-0119-z",
+        "Summary": "Metals can bind to proteins to fulfil important biological functions. Predicting the features of mutated binding sites can thus help us understand the connection between specific mutations and their role in diseases.",
+        "Authors": [
+            "Mohamad Koohi-Moghadam",
+            "Haibo Wang",
+            "Hongzhe Sun"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2019",
+        "Journal Title": "Nature Machine Intelligence",
+        "Volume and Pages": "Volume: 1, P: 561-567"
+    },
+    {
+        "Title": "Automated abnormality detection in lower extremity radiographs using deep learning",
+        "Link": "https://www.nature.com/articles/s42256-019-0126-0",
+        "Summary": "Identifying abnormalities in medical images across different viewing angles and body parts is a time-consuming task. Deep learning techniques hold great promise for supporting radiologists and improving patient triage decisions. A new study tests the viability of such approaches in resource-limited settings, exploring the effect of pretraining, dataset size and choice of deep learning model in the task of abnormality detection in lower-limb radiographs.",
+        "Authors": [
+            "Maya Varma",
+            "Mandy Lu",
+            "Bhavik N. Patel"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2019",
+        "Journal Title": "Nature Machine Intelligence",
+        "Volume and Pages": "Volume: 1, P: 578-583"
+    },
+    {
+        "Title": "Estimating heritability and genetic correlations from large health datasets in the absence of genetic data",
+        "Link": "https://www.nature.com/articles/s41467-019-13455-0",
+        "Summary": "Disease heritability and genetic correlations between traits depend on genetics, the environment and their interaction. Here, Jia et al. compute disease prevalence curves and disease embeddings from electronic health records and impute heritability for hundreds of diseases and genetic correlations for thousands of disease pairs.",
+        "Authors": [
+            "Gengjie Jia",
+            "Yu Li",
+            "Andrey Rzhetsky"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "03 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-11"
+    },
+    {
+        "Title": "Agreement between two large pan-cancer CRISPR-Cas9 gene dependency data sets",
+        "Link": "https://www.nature.com/articles/s41467-019-13805-y",
+        "Summary": "Integrating independent large-scale pharmacogenomic screens can enable unprecedented characterization of genetic vulnerabilities in cancers. Here, the authors show that the two largest independent CRISPR-Cas9 gene-dependency screens are concordant, paving the way for joint analysis of the data sets.",
+        "Authors": [
+            "Joshua M. Dempster",
+            "Clare Pacini",
+            "Francesco Iorio"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-14"
+    },
+    {
+        "Title": "AmoebaContact and GDFold as a pipeline for rapid de novo protein structure prediction",
+        "Link": "https://www.nature.com/articles/s42256-019-0130-4",
+        "Summary": "Predicting the structure of proteins from amino acid sequences is a hard problem. Convolutional neural networks can learn to predict a map of distances between amino acid residues that can be turned into a three-dimensional structure. With a combination of approaches, including an evolutionary technique to find the best neural network architecture and a tool to find the atom coordinates in the folded structure, a pipeline for rapid prediction of three-dimensional protein structures is demonstrated.",
+        "Authors": [
+            "Wenzhi Mao",
+            "Wenze Ding",
+            "Haipeng Gong"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Machine Intelligence",
+        "Volume and Pages": "Volume: 2, P: 25-33"
+    },
+    {
+        "Title": "PRIMEval: Optimization and screening of multiplex oligonucleotide assays",
+        "Link": "https://www.nature.com/articles/s41598-019-55883-4",
+        "Summary": "",
+        "Authors": [
+            "Rick Conzemius",
+            "Michaela Hendling",
+            "Ivan Bari\u0161i\u0107"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2019",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 9, P: 1-5"
+    },
+    {
+        "Title": "Mechano-acoustic sensing of physiological processes and body motions via a soft wireless device placed at the suprasternal notch",
+        "Link": "https://www.nature.com/articles/s41551-019-0480-6",
+        "Summary": "A wireless device designed to be conformally placed on the suprasternal notch can continuously provide real-time information of essential vital signs as well as talking time, swallow counts and sleep patterns.",
+        "Authors": [
+            "KunHyuck Lee",
+            "Xiaoyue Ni",
+            "John A. Rogers"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "25 Nov 2019",
+        "Journal Title": "Nature Biomedical Engineering",
+        "Volume and Pages": "Volume: 4, P: 148-158"
+    },
+    {
+        "Title": "Deciphering protein evolution and fitness landscapes with latent space models",
+        "Link": "https://www.nature.com/articles/s41467-019-13633-0",
+        "Summary": "Multiple sequence alignments of proteins carry information about evolution, the protein\u2019s fitness landscape and its stability in the face of mutations. Here, the authors demonstrate the utility of latent space models learned using variational autoencoders to infer these properties from sequences.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-13"
+    },
+    {
+        "Title": "Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning",
+        "Link": "https://www.nature.com/articles/s41592-019-0666-6",
+        "Summary": "MaSIF, a deep learning-based method, finds common patterns of chemical and geometric features on biomolecular surfaces for predicting protein\u2013ligand and protein\u2013protein interactions.",
+        "Authors": [
+            "P. Gainza",
+            "F. Sverrisson",
+            "B. E. Correia"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2019",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 17, P: 184-192"
+    },
+    {
+        "Title": "In silico prediction of high-resolution Hi-C interaction matrices",
+        "Link": "https://www.nature.com/articles/s41467-019-13423-8",
+        "Summary": "Existing computational approaches to predict long-range regulatory interactions do not fully exploit high-resolution Hi-C datasets. Here the authors present a Random Forests regression-based approach to predict high-resolution Hi-C counts using one-dimensional regulatory genomic signals.",
+        "Authors": [
+            "Shilu Zhang",
+            "Deborah Chasman",
+            "Sushmita Roy"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-18"
+    }
+]

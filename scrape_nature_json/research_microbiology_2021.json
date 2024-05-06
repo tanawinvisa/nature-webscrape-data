@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Nationwide rollout reveals efficacy of epidemic control through digital contact tracing",
+        "Link": "https://www.nature.com/articles/s41467-021-26144-8",
+        "Summary": "The effectiveness of digital contact tracing for COVID-19 control remains uncertain. Here, the authors use data from the Smittestopp app, used in Norway in spring 2020, and estimate that 80% of nearby devices were detected by the app, and at least 11% of close contacts were not visible to manual contact tracing.",
+        "Authors": [
+            "Ahmed Elmokashfi",
+            "Joakim Sundnes",
+            "Olav Lysne"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Oct 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-8"
+    },
+    {
+        "Title": "A randomized study to evaluate safety and immunogenicity of the BNT162b2 COVID-19 vaccine in healthy Japanese adults",
+        "Link": "https://www.nature.com/articles/s41467-021-27316-2",
+        "Summary": "Here the authors provide the interim analysis of an ongoing phase 1/2 study of the BNT162b2 vaccine in healthy Japanese adults. They report mainly mild to moderate local reactions and no serious adverse events as well as good antibody induction one month after the second dose.",
+        "Authors": [
+            "Miwa Haranaka",
+            "James Baber",
+            "Stephen Lockhart"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-7"
+    },
+    {
+        "Title": "Forward and reverse genetic dissection of morphogenesis identifies filament-competent Candida auris strains",
+        "Link": "https://www.nature.com/articles/s41467-021-27545-5",
+        "Summary": "Some isolates of the emerging fungal pathogen Candida auris can form cellular aggregates or filaments. Here, Santana and O\u2019Meara use Agrobacterium-mediated transformation and a CRISPR-Cas9 system to identify several genes that regulate C. auris morphogenesis.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-13"
+    },
+    {
+        "Title": "Nationwide genomic atlas of soil-dwelling Listeria reveals effects of selection and population ecology on pangenome evolution",
+        "Link": "https://www.nature.com/articles/s41564-021-00935-7",
+        "Summary": "A population genomic analysis of 1,854 Listeria soil isolates collected across the contiguous United States identifies geographically prevalent phylogroups with increased pangenome openness and recombination, as a result of adaptation to variable environments.",
+        "Authors": [
+            "Jingqiu Liao",
+            "Xiaodong Guo",
+            "Otto X. Cordero"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "15 Jul 2021",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 6, P: 1021-1030"
+    },
+    {
+        "Title": "Variation and transmission of the human gut microbiota across multiple familial generations",
+        "Link": "https://www.nature.com/articles/s41564-021-01021-8",
+        "Summary": "Quantitative metagenomic analyses of gut microbiomes reveals kinship, together with current cohabitation, as drivers of microbial community transmission and persistence between family members over three to five generations.",
+        "Authors": [
+            "Mireia Valles-Colomer",
+            "Rodrigo Bacigalupe",
+            "Gwen Falony"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 7, P: 87-96"
+    },
+    {
+        "Title": "Native flagellar MS ring is formed by 34 subunits with 23-fold and 11-fold subsymmetries",
+        "Link": "https://www.nature.com/articles/s41467-021-24507-9",
+        "Summary": "The bacterial flagellar MS ring is a core transmembrane complex within the flagellar basal body. Here, cryoEM analysis suggests that the MS ring is formed by 34 full-length FliF subunits, with 23- and 11-fold subsymmetries in the inner and middle M ring, respectively.",
+        "Authors": [
+            "Akihiro Kawamoto",
+            "Tomoko Miyata",
+            "Keiichi Namba"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Jul 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-10"
+    },
+    {
+        "Title": "Naturally enhanced neutralizing breadth against SARS-CoV-2 one year after infection",
+        "Link": "https://www.nature.com/articles/s41586-021-03696-9",
+        "Summary": "Antibodies against SARS-CoV-2 continue to evolve 6 to 12 months after infection in patients who have recovered from COVID-19, increasing in potency and breadth with time.",
+        "Authors": [
+            "Zijun Wang",
+            "Frauke Muecksch",
+            "Michel C. Nussenzweig"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Jun 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 595, P: 426-431"
+    },
+    {
+        "Title": "Single dose of chimeric dengue-2/Zika vaccine candidate protects mice and non-human primates against Zika virus",
+        "Link": "https://www.nature.com/articles/s41467-021-27578-w",
+        "Summary": "Here the authors generate a live-attenuated Zika vaccine based on a clinically proven dengue virus serotype-2 vaccine backbone and show that one dose protects mice and non-human primates from Zika virus infection.",
+        "Authors": [
+            "Whitney R. Baldwin",
+            "Holli A. Giebler",
+            "Claire Y.-H. Huang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-15"
+    },
+    {
+        "Title": "Gut microbiomes from Gambian infants reveal the development of a non-industrialized Prevotella-based trophic network",
+        "Link": "https://www.nature.com/articles/s41564-021-01023-6",
+        "Summary": "Analysis of gut microbiomes from Gambian infants reveals bacterial trophic networks based around Prevotella species, which are typically enriched in non-industrialized populations.",
+        "Authors": [
+            "Marcus C. de Goffau",
+            "Amadou T. Jallow",
+            "Josef Wagner"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "31 Dec 2021",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 7, P: 132-144"
+    },
+    {
+        "Title": "The long non-coding RNA landscape of Candida yeast pathogens",
+        "Link": "https://www.nature.com/articles/s41467-021-27635-4",
+        "Summary": "Long non-coding RNAs (lncRNAs) play roles in key cellular processes, but remain largely unexplored in fungal pathogens such as Candida. Here, Hovhannisyan and Gabald\u00f3n analyze thousands of sequencing datasets to infer and characterize the lncRNA repertoires of five Candida species, paving the way for their future functional characterization.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-13"
+    }
+]

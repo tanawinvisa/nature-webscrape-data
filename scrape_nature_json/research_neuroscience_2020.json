@@ -1,0 +1,146 @@
+[
+    {
+        "Title": "Natural rhythms of periodic temporal attention",
+        "Link": "https://www.nature.com/articles/s41467-020-14888-8",
+        "Summary": "That attention is a rhythmic process has received abundant evidence. Here, the authors reveal the natural sampling rate of auditory and visual periodic temporal attention. Both are antagonistically modulated by overt motor activity, a result generalised in a dynamical model of coupled oscillators.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Feb 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    },
+    {
+        "Title": "Natural killer cells modulate motor neuron-immune cell cross talk in models of Amyotrophic Lateral Sclerosis",
+        "Link": "https://www.nature.com/articles/s41467-020-15644-8",
+        "Summary": "Neuroimmune interactions are important in amyotrophic lateral sclerosis (ALS). Here the authors characterize the role of NK cells in mouse models of ALS, and in patient tissue.",
+        "Authors": [
+            "Stefano Garofalo",
+            "Germana Cocozza",
+            "Cristina Limatola"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Apr 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-16"
+    },
+    {
+        "Title": "Natural images are reliably represented by sparse and variable populations of neurons in visual cortex",
+        "Link": "https://www.nature.com/articles/s41467-020-14645-x",
+        "Summary": "Natural scenes sparsely activate V1 neurons. Here, the authors show that a small number of active cells reliably represent visual contents of a natural image across trials regardless of response variability, due to the diverse and partially overlapping representations of individual cells.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Feb 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-19"
+    },
+    {
+        "Title": "Strong inhibitory signaling underlies stable temporal dynamics and working memory in spiking neural networks",
+        "Link": "https://www.nature.com/articles/s41593-020-00753-w",
+        "Summary": "By analyzing computational models and neural data from the primate prefrontal cortex, the authors show that inhibitory-to-inhibitory signaling is critical for the stable temporal dynamics required for performing working memory tasks.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "07 Dec 2020",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 24, P: 129-139"
+    },
+    {
+        "Title": "Astrocytes phagocytose adult hippocampal synapses for circuit homeostasis",
+        "Link": "https://www.nature.com/articles/s41586-020-03060-3",
+        "Summary": "In adult mice, astrocytes carry out phagocytosis of excitatory hippocampal synapses through MEGF10 to maintain synaptic and circuit homeostasis.",
+        "Authors": [
+            "Joon-Hyuk Lee",
+            "Ji-young Kim",
+            "Won-Suk Chung"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 590, P: 612-617"
+    },
+    {
+        "Title": "Vector trace cells in the subiculum of the hippocampal formation",
+        "Link": "https://www.nature.com/articles/s41593-020-00761-w",
+        "Summary": "Poulter et al. report on vector trace cells (VTCs) in the hippocampal subiculum. VTCs support vector coding for previously encountered, now absent, objects and boundaries, potentially facilitating navigation to remembered goals.",
+        "Authors": [
+            "Steven Poulter",
+            "Sang Ah Lee",
+            "Colin Lever"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "21 Dec 2020",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 24, P: 266-275"
+    },
+    {
+        "Title": "Microglia facilitate repair of demyelinated lesions via post-squalene sterol synthesis",
+        "Link": "https://www.nature.com/articles/s41593-020-00757-6",
+        "Summary": "Efficient repair of demyelinated CNS lesions involves the resolution of inflammation and induction of remyelination. Berghoff et al. show that sterol synthesis in microglia is key to both processes, which can be supported by squalene therapy.",
+        "Authors": [
+            "Stefan A. Berghoff",
+            "Lena Spieth",
+            "Gesine Saher"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "21 Dec 2020",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 24, P: 47-60"
+    },
+    {
+        "Title": "Inhibitory neurotransmission drives endocannabinoid degradation to promote memory consolidation",
+        "Link": "https://www.nature.com/articles/s41467-020-20121-3",
+        "Summary": "Endocannabinoid levels are controlled by the fine balance between their synthesis and degradation. Here, the authors show that memory formation through fear conditioning selectively accelerates the degradation of endocannabinoids in the cerebellum via a lasting increase in GABA release.",
+        "Authors": [
+            "Christophe J. Dubois",
+            "Jessica Fawcett-Patel",
+            "Siqiong June Liu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-16"
+    },
+    {
+        "Title": "Sensory substitution reveals a manipulation bias",
+        "Link": "https://www.nature.com/articles/s41467-020-19686-w",
+        "Summary": "The challenge of sensory substitution as a therapeutic approach is to design systems that are well accepted by subjects. Here, in deaf songbirds, the authors substitute hearing with vision, suggesting substitution devices could provide sensory feedback for the key actions that are deprived.",
+        "Authors": [
+            "Anja T. Zai",
+            "Sophie Cav\u00e9-Lopez",
+            "Richard H. R. Hahnloser"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    },
+    {
+        "Title": "Cell-type-specific asynchronous modulation of PKA by dopamine in learning",
+        "Link": "https://www.nature.com/articles/s41586-020-03050-5",
+        "Summary": "The net PKA activities in each class of spiny projection neuron in the nucleus accumbens of the mouse are dichotomously modulated by asynchronous positive and negative dopamine signals during different phases of learning.",
+        "Authors": [
+            "Suk Joon Lee",
+            "Bart Lodder",
+            "Bernardo L. Sabatini"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 590, P: 451-456"
+    }
+]

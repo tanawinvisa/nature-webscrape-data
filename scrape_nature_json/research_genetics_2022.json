@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Natural Killer cells demonstrate distinct eQTL and transcriptome-wide disease associations, highlighting their role in autoimmunity",
+        "Link": "https://www.nature.com/articles/s41467-022-31626-4",
+        "Summary": "Natural Killer cells are key mediators of anti-tumour immunosurveillance and anti-viral immunity. Here, the authors map regulatory genetic variation in primary Natural Killer cells, providing new insights into their role in human health and disease.",
+        "Authors": [
+            "James J. Gilchrist",
+            "Seiko Makino",
+            "Benjamin P. Fairfax"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Jul 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-13"
+    },
+    {
+        "Title": "Natural variation of Dt2 determines branching in soybean",
+        "Link": "https://www.nature.com/articles/s41467-022-34153-4",
+        "Summary": "Shoot branching is critical in determining soybean yield. Here, the authors report natural variation of Dt2 in controlling soybean branching number and the interaction of Dt2 with GmAgl22 and GmSoc1a to activate transcription of GmAp1a and GmAp1d.",
+        "Authors": [
+            "Qianjin Liang",
+            "Liyu Chen",
+            "Zhixi Tian"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Oct 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-9"
+    },
+    {
+        "Title": "A multi-omics integrative network map of maize",
+        "Link": "https://www.nature.com/articles/s41588-022-01262-1",
+        "Summary": "An integrative network map of maize (Zea mays L.) that contains genomic, transcriptomic, translatomic and proteomic networks illustrates the landscape of molecular interactions of different functional elements and potential pathway modules in maize.",
+        "Authors": [
+            "Linqian Han",
+            "Wanshun Zhong",
+            "Lin Li"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Genetics",
+        "Volume and Pages": "Volume: 55, P: 144-153"
+    },
+    {
+        "Title": "Architecture design of cucurbit crops for enhanced productivity by a natural allele",
+        "Link": "https://www.nature.com/articles/s41477-022-01297-6",
+        "Summary": "This study describes a targeted artificial evolution strategy to create a continuum of compact phenotypes in cucurbit crops for higher yield and labour efficiency, based on screening natural populations and artificially generating novel variants.",
+        "Authors": [
+            "Shenhao Wang",
+            "Kun Wang",
+            "Xueyong Yang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "12 Dec 2022",
+        "Journal Title": "Nature Plants",
+        "Volume and Pages": "Volume: 8, P: 1394-1407"
+    },
+    {
+        "Title": "Dietary stress remodels the genetic architecture of lifespan variation in outbred Drosophila",
+        "Link": "https://www.nature.com/articles/s41588-022-01246-1",
+        "Summary": "An analysis of the effects of dietary stress in outbred Drosophila shows that lifespan has a polygenic architecture and is subject to environmental influence, suggesting that this context dependency is important for complex trait variation and evolution.",
+        "Authors": [
+            "Luisa F. Pallares",
+            "Amanda J. Lea",
+            "Julien F. Ayroles"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Genetics",
+        "Volume and Pages": "Volume: 55, P: 123-129"
+    },
+    {
+        "Title": "Natural variation of DROT1 confers drought adaptation in upland rice",
+        "Link": "https://www.nature.com/articles/s41467-022-31844-w",
+        "Summary": "Genetic basis of the drought tolerance of upland rice is unclear. Here, the authors report the cloning of a COBRA-like protein encoding gene DROT1 and reveal that it is repressed by ERF3 and activated by ERF71 to help control the balance between growth and drought tolerance in upland rice.",
+        "Authors": [
+            "Xingming Sun",
+            "Haiyan Xiong",
+            "Zichao Li"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Jul 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-17"
+    },
+    {
+        "Title": "A comparison of the genes and genesets identified by GWAS and EWAS of fifteen complex traits",
+        "Link": "https://www.nature.com/articles/s41467-022-35037-3",
+        "Summary": "Genome-wide and epigenome-wide association studies both link genomic regions to human traits, but here the authors demonstrate that these study types are capturing different genes and biological aspects of complex traits.",
+        "Authors": [
+            "Thomas Battram",
+            "Tom R. Gaunt",
+            "Gibran Hemani"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-13"
+    },
+    {
+        "Title": "Deciphering colorectal cancer genetics through multi-omic analysis of 100,204 cases and 154,587 controls of European and east Asian ancestries",
+        "Link": "https://www.nature.com/articles/s41588-022-01222-9",
+        "Summary": "A multi-ancestry genome-wide association study meta-analysis, combined with transcriptome- and methylome-wide association analyses, identifies risk loci associated with colorectal cancer. Credible effector genes and their target tissues are also highlighted, showing that over a third probably act outside the colonic mucosa.",
+        "Authors": [
+            "Ceres Fernandez-Rozadilla",
+            "Maria Timofeeva",
+            "Ulrike Peters"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "20 Dec 2022",
+        "Journal Title": "Nature Genetics",
+        "Volume and Pages": "Volume: 55, P: 89-99"
+    },
+    {
+        "Title": "Graph-based pangenomics maximizes genotyping density and reveals structural impacts on fungal resistance in melon",
+        "Link": "https://www.nature.com/articles/s41467-022-35621-7",
+        "Summary": "The power of pangenomic graphs to improve genetic mapping is still unclear. Here, the authors demonstrate its value in identification of genetic variants associated with disease resistance traits in melon using PanPipes, a pangenome construction and low-coverage genotype-by-sequencing pipeline.",
+        "Authors": [
+            "Justin N. Vaughn",
+            "Sandra E. Branham",
+            "William P. Wechter"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-14"
+    },
+    {
+        "Title": "SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads",
+        "Link": "https://www.nature.com/articles/s41592-022-01674-1",
+        "Summary": "SVDSS combines multiple strategies to improve detection of structural variation using low-error long-read sequencing data.",
+        "Authors": [
+            "Luca Denti",
+            "Parsoa Khorsand",
+            "Rayan Chikhi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 20, P: 550-558"
+    }
+]

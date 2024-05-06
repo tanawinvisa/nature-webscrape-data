@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Targeted degradation via direct 26S proteasome recruitment",
+        "Link": "https://www.nature.com/articles/s41589-022-01218-w",
+        "Summary": "Discovery of macrocyclic ligands to the 19S regulatory particle protein PSMD2 enables the synthesis of heterobifunctional molecules that demonstrate proof-of-concept, targeted degradation of BRD4 through direct engagement of the 26S proteasome.",
+        "Authors": [
+            "Charlene Bashore",
+            "Sumit Prakash",
+            "Erin C. Dueber"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Dec 2022",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 19, P: 55-63"
+    },
+    {
+        "Title": "Rational enzyme design for enabling biocatalytic Baldwin cyclization and asymmetric synthesis of chiral heterocycles",
+        "Link": "https://www.nature.com/articles/s41467-022-35468-y",
+        "Summary": "Chiral heterocyclic compounds are privileged structures in medicinal chemistry. Here, the authors report an in silico strategy for the enzymatic synthesis of pharmaceutically significant chiral N- and O-heterocycles via Baldwin cyclization of hydroxy- and amino-substituted epoxides and oxetanes using epoxide hydrolase mutants.",
+        "Authors": [
+            "Jun-Kuan Li",
+            "Ge Qu",
+            "Zhoutong Sun"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-11"
+    },
+    {
+        "Title": "Intracellular phase separation of globular proteins facilitated by short cationic peptides",
+        "Link": "https://www.nature.com/articles/s41467-022-35529-2",
+        "Summary": "Phase separation provides intracellular organisation via membraneless entities called biomolecular condensates. Here, the authors show that short, cationic peptide tags can drive biomolecular condensation of engineered proteins in E. coli through associative interactions with RNA.",
+        "Authors": [
+            "Vivian Yeong",
+            "Jou-wen Wang",
+            "Allie C. Obermeyer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-10"
+    },
+    {
+        "Title": "Genetically programmed cell-based synthesis of non-natural peptide and depsipeptide macrocycles",
+        "Link": "https://www.nature.com/articles/s41557-022-01082-0",
+        "Summary": "Macrocyclic peptides can be genetically encoded and synthesized in cells; however, the programmable diversity is limited. Now, macrocycles containing two non-canonical amino acids have been genetically encoded and synthesized in codon-reassigned Syn61\u03943 cells. Incorporating diverse hydroxy acids in Syn61\u03943 cells enables the synthesis of non-natural depsipeptides containing either one or two ester bonds.",
+        "Authors": [
+            "Martin Spinck",
+            "Carlos Piedrafita",
+            "Jason W. Chin"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Chemistry",
+        "Volume and Pages": "Volume: 15, P: 61-69"
+    },
+    {
+        "Title": "Native metabolomics identifies the rivulariapeptolide family of protease inhibitors",
+        "Link": "https://www.nature.com/articles/s41467-022-32016-6",
+        "Summary": "Bioactivity-guided isolation of specialized metabolites is an iterative process. Here, the authors demonstrate a native metabolomics approach that allows for fast screening of complex metabolite extracts against a protein of interest and simultaneous structure annotation.",
+        "Authors": [
+            "Raphael Reher",
+            "Allegra T. Aron",
+            "Daniel Petras"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Aug 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "Thioester-mediated biocatalytic amide bond synthesis with in situ thiol recycling",
+        "Link": "https://www.nature.com/articles/s41929-022-00889-x",
+        "Summary": "Biocatalytic methods to access thioesters, such as acyl-coenzyme A, from carboxylic acids are underdeveloped. Now, it is shown that the adenylation domain of a carboxylic acid reductase enzyme can be exploited as a promiscuous thioester synthetase and combination with acyltransferases facilitates the synthesis of amides and peptide labelling.",
+        "Authors": [
+            "Christian Schnepel",
+            "Laura Rodr\u00edguez P\u00e9rez",
+            "Sabine L. Flitsch"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "28 Dec 2022",
+        "Journal Title": "Nature Catalysis",
+        "Volume and Pages": "Volume: 6, P: 89-99"
+    },
+    {
+        "Title": "An E. coli display method for characterization of peptide\u2013sensor kinase interactions",
+        "Link": "https://www.nature.com/articles/s41589-022-01207-z",
+        "Summary": "A peptide display method was developed, revealing that a kinase important for infection by Salmonella and related pathogens detects specific human antimicrobial peptides, possibly reflecting bacterial adaptation to distinct host locations.",
+        "Authors": [
+            "Kathryn R. Brink",
+            "Maxwell G. Hunt",
+            "Jeffrey J. Tabor"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "08 Dec 2022",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 19, P: 451-459"
+    },
+    {
+        "Title": "Synthetic anaplerotic modules for the direct synthesis of complex molecules from CO2",
+        "Link": "https://www.nature.com/articles/s41589-022-01179-0",
+        "Summary": "Anaplerotic reactions constantly refill metabolic networks with essential intermediates. This concept was adapted to enable a 54-step in vitro biosynthesis of the macrolide backbone of the antibiotic erythromycin from CO2.",
+        "Authors": [
+            "Christoph Diehl",
+            "Patrick D. Gerlinger",
+            "Tobias J. Erb"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2022",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 19, P: 168-175"
+    },
+    {
+        "Title": "Designer installation of a substrate recruitment domain to tailor enzyme specificity",
+        "Link": "https://www.nature.com/articles/s41589-022-01206-0",
+        "Summary": "The specificity constant of a promiscuous enzyme was raised by over 1,000-fold by using computational protein design to place a substrate recruitment domain adjacent to the enzyme active site.",
+        "Authors": [
+            "Rodney Park",
+            "Chayanid Ongpipattanakul",
+            "Brian Kuhlman"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "12 Dec 2022",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 19, P: 460-467"
+    },
+    {
+        "Title": "Unexpected assembly machinery for 4(3H)-quinazolinone scaffold synthesis",
+        "Link": "https://www.nature.com/articles/s41467-022-34340-3",
+        "Summary": "4(3H)-quinazolinone is the core scaffold in more than 200 natural alkaloids and numerous drugs. Here, the authors show an alternative assembly machinery for 4(3H)-quinazolinone mainly includes a two-module NRPS catalysing tripeptide formation, unusual N-3 original sources and an \u03b1-KGD catalysing the C-N bond oxidative cleavage of a tripeptide to form a dipeptide.",
+        "Authors": [
+            "Xi-Wei Chen",
+            "Li Rao",
+            "Yi Zou"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "31 Oct 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-13"
+    }
+]

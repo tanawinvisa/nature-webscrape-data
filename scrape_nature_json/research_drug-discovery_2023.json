@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Small-molecule inhibition of kinesin KIF18A reveals a mitotic vulnerability enriched in chromosomally unstable cancers",
+        "Link": "https://www.nature.com/articles/s43018-023-00699-5",
+        "Summary": "Payton et al. develop small-molecule inhibitors of kinesin KIF18A able to selectively kill cancer cells with high chromosomal instability and demonstrate that the inhibitors are therapeutically beneficial in cancer patient-derived in vivo models.",
+        "Authors": [
+            "Marc Payton",
+            "Brian Belmontes",
+            "Paul E. Hughes"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2023",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 5, P: 66-84"
+    },
+    {
+        "Title": "Mapping combinatorial drug effects to DNA damage response kinase inhibitors",
+        "Link": "https://www.nature.com/articles/s41467-023-44108-y",
+        "Summary": "DNA damage is a key component of many cancer therapies. Here, the authors utilised a dose-response combination screen of ATR, ATM and DNA-PK inhibitors, and identified combination treatments that achieves high combinatorial efficacy and synergy.",
+        "Authors": [
+            "Hanrui Zhang",
+            "Julian Kreis",
+            "Yuanfang Guan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-8"
+    },
+    {
+        "Title": "Identification of 5-HT2A receptor signaling pathways associated with psychedelic potential",
+        "Link": "https://www.nature.com/articles/s41467-023-44016-1",
+        "Summary": "Serotonin 5-HT2A receptor signaling mechanisms associated with predicting psychedelic potential remain elusive. Using 5-HT2A-selective \u03b2-arrestin-biased ligands, here the authors show that a threshold level of 5-HT2A-Gq efficacy and not \u03b2-arrestin recruitment is associated with psychedelic potential.",
+        "Authors": [
+            "Jason Wallach",
+            "Andrew B. Cao",
+            "John D. McCorvy"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-19"
+    },
+    {
+        "Title": "A naturally occurring polyacetylene isolated from carrots promotes health and delays signatures of aging",
+        "Link": "https://www.nature.com/articles/s41467-023-43672-7",
+        "Summary": "Ameliorating or preventing signatures of aging in humans using natural compounds is an exciting area of research. Here the authors isolate a previously unknown phytochemical from carrots which activates defence mechanisms against oxidative stress and extends lifespan in worms, and improves glucose metabolism, promotes exercise capacity, and protects from frailty at higher age in mice.",
+        "Authors": [
+            "Carolin Thomas",
+            "Reto Erni",
+            "Michael Ristow"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-18"
+    },
+    {
+        "Title": "CurveCurator: a recalibrated F-statistic to assess, classify, and explore significance of dose\u2013response curves",
+        "Link": "https://www.nature.com/articles/s41467-023-43696-z",
+        "Summary": "Dose-response curves are ubiquitous in pharmacology and biology, yet potency and effect size are often estimated even when there is no response. Here, authors present a statistical framework to assess curve significance and demonstrate how this aids drug mode of action analysis in large public datasets.",
+        "Authors": [
+            "Florian P. Bayer",
+            "Manuel Gander",
+            "Matthew The"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Nov 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-11"
+    },
+    {
+        "Title": "Systemically administered wound-homing peptide accelerates wound healing by modulating syndecan-4 function",
+        "Link": "https://www.nature.com/articles/s41467-023-43848-1",
+        "Summary": "A systemically administered peptide (CARSKNKDC) that homes to injured tissues, has inherent ability to promote wound healing. Here, the authors show that this peptide binds to syndecan-4 and activates ARF6 to trigger re-epithelialisation and the naturally occurring wound repair pathway.",
+        "Authors": [
+            "Horacio Maldonado",
+            "Bryan D. Savage",
+            "Tero A. H. J\u00e4rvinen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-23"
+    },
+    {
+        "Title": "Bridging the gap between chemical reaction pretraining and conditional molecule generation with a unified model",
+        "Link": "https://www.nature.com/articles/s42256-023-00764-9",
+        "Summary": "Virtual drug design has seen recent progress in methods that can generate new molecules with specific properties. Separately, methods have also improved in the task of computationally predicting the outcome of chemical reactions. Qiang and colleagues use the close relation of the two problems to train a model that aims at solving both tasks.",
+        "Authors": [
+            "Bo Qiang",
+            "Yiran Zhou",
+            "Zhenming Liu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "05 Dec 2023",
+        "Journal Title": "Nature Machine Intelligence",
+        "Volume and Pages": "Volume: 5, P: 1476-1485"
+    },
+    {
+        "Title": "A knowledge-guided pre-training framework for improving molecular representation learning",
+        "Link": "https://www.nature.com/articles/s41467-023-43214-1",
+        "Summary": "Accurate property prediction relies on effective molecular representation. Here, the authors introduce KPGT, a knowledge-guided self-supervised framework that improves molecular representation, leading to superior predictions of molecular properties and advancing AI-driven drug discovery.",
+        "Authors": [
+            "Han Li",
+            "Ruotian Zhang",
+            "Jianyang Zeng"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Nov 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-13"
+    },
+    {
+        "Title": "Emerging drug interaction prediction enabled by a flow-based graph neural network with biomedical network",
+        "Link": "https://www.nature.com/articles/s43588-023-00558-4",
+        "Summary": "EmerGNN, a method to predict interactions for emerging drugs, may improve patient care and drug development by providing insight into the effects of using biomedical networks in interaction predictions.",
+        "Authors": [
+            "Yongqi Zhang",
+            "Quanming Yao",
+            "Yefeng Zheng"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Computational Science",
+        "Volume and Pages": "Volume: 3, P: 1023-1033"
+    },
+    {
+        "Title": "Structures revealing mechanisms of resistance and collateral sensitivity of Plasmodium falciparum to proteasome inhibitors",
+        "Link": "https://www.nature.com/articles/s41467-023-44077-2",
+        "Summary": "The proteasome of Plasmodium falciparum (Pf20S) is a promising multi-stage drug target. Using CryoEM Hsu et al. report the structures of parasite and human proteasome in complex with the recently developed inhibitor TDI-8304 to gain insights into its species selectivity.",
+        "Authors": [
+            "Hao-Chi Hsu",
+            "Daqiang Li",
+            "Gang Lin"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    }
+]

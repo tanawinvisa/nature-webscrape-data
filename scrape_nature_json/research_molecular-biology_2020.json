@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Natural antisense transcripts of MIR398 genes suppress microR398 processing and attenuate plant thermotolerance",
+        "Link": "https://www.nature.com/articles/s41467-020-19186-x",
+        "Summary": "MiRNAs and natural antisense transcripts can both regulate gene expression and plant development. Here, the authors show that cis-NATs to MIR398 repress processing of pri-miR398 and that cis-NAT expression is downregulated at high temperatures, contributing to miR398 mediated thermotolerance responses.",
+        "Authors": [
+            "Yajie Li",
+            "Xiaorong Li",
+            "Yuke He"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Oct 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-13"
+    },
+    {
+        "Title": "Molecular basis of nucleosomal H3K36 methylation by NSD methyltransferases",
+        "Link": "https://www.nature.com/articles/s41586-020-03069-8",
+        "Summary": "Cryo-electron microscopy structures of the nucleosome-bound NSD2 and NSD3 histone methyltransferases reveal the molecular basis of their histone modification activity, and show how mutations in these proteins can lead to oncogenesis.",
+        "Authors": [
+            "Wanqiu Li",
+            "Wei Tian",
+            "Zhanxin Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 590, P: 498-503"
+    },
+    {
+        "Title": "Structural basis for assembly of non-canonical small subunits into type I-C Cascade",
+        "Link": "https://www.nature.com/articles/s41467-020-19785-8",
+        "Summary": "Type I-C Cascade (the CRISPR-associated complex for antiviral defense) is a minimal system, comprising only three unique Cas proteins. Cryo-EM structure of the Desulfovibrio vulgaris type I-C Cascade reveals the molecular mechanisms that underlie RNA-directed complex assembly.",
+        "Authors": [
+            "Roisin E. O\u2019Brien",
+            "In\u00eas C. Santos",
+            "David W. Taylor"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "23 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-6"
+    },
+    {
+        "Title": "Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors",
+        "Link": "https://www.nature.com/articles/s41467-020-20136-w",
+        "Summary": "Primary effusion lymphoma (PEL) has a very poor prognosis. Here, the authors perform H3K27ac HiChIP in PEL cells and generate the PEL enhancer connectome, linking enhancers and promoters in PEL, as well as super-enhancers to dependency factors.",
+        "Authors": [
+            "Chong Wang",
+            "Luyao Zhang",
+            "Bo Zhao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-13"
+    },
+    {
+        "Title": "Alcohol-derived DNA crosslinks are repaired by two distinct mechanisms",
+        "Link": "https://www.nature.com/articles/s41586-020-2059-5",
+        "Summary": "DNA interstrand crosslinks induced by acetaldehyde are repaired by both the Fanconi anaemia pathway and by a second, excision-independent repair mechanism.",
+        "Authors": [
+            "Michael R. Hodskinson",
+            "Alice Bolner",
+            "Puck Knipscheer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "04 Mar 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 579, P: 603-608"
+    },
+    {
+        "Title": "Structure of human RNA polymerase III",
+        "Link": "https://www.nature.com/articles/s41467-020-20262-5",
+        "Summary": "The eukaryotic RNA Polymerase III transcribes tRNAs, some ribosomal and spliceosomal RNAs. Here, the authors resolve a cryo-EM structure of human RNA Polymerase III in its apo form and complemented it with crystal structures and SAXS analysis of RPC5, revealing insights into the molecular mechanisms of Pol III transcription.",
+        "Authors": [
+            "Ewan Phillip Ramsay",
+            "Guillermo Abascal-Palacios",
+            "Alessandro Vannini"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    },
+    {
+        "Title": "Measuring DNA mechanics on the genome scale",
+        "Link": "https://www.nature.com/articles/s41586-020-03052-3",
+        "Summary": "A high-throughput, chromosome-wide analysis of DNA looping reveals its contribution to the organization of chromatin, and provides insight into how nucleosomes are deposited and organised de novo.",
+        "Authors": [
+            "Aakash Basu",
+            "Dmitriy G. Bobrovnikov",
+            "Taekjip Ha"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "16 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 589, P: 462-467"
+    },
+    {
+        "Title": "XBP1 links the 12-hour clock to NAFLD and regulation of membrane fluidity and lipid homeostasis",
+        "Link": "https://www.nature.com/articles/s41467-020-20028-z",
+        "Summary": "Hepatocyte 12-hour rhythms have a role in cellular stress and metabolic functions. Here, the authors demonstrate disrupting the 12-hour clock through deletion of XBP1 is associated with the development of NAFLD as well as disruption of phospholipid composition and the maintenance of lipid homeostasis.",
+        "Authors": [
+            "Huan Meng",
+            "Naomi M. Gonzales",
+            "Bert W. O\u2019Malley"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "04 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-16"
+    },
+    {
+        "Title": "The SARS-CoV-2 RNA\u2013protein interactome in infected human cells",
+        "Link": "https://www.nature.com/articles/s41564-020-00846-z",
+        "Summary": "Interactions between SARS-CoV-2 viral RNAs and host cell proteins during infection are evaluated to improve our understanding of viral RNA functions and the host innate immune response.",
+        "Authors": [
+            "Nora Schmidt",
+            "Caleb A. Lareau",
+            "Mathias Munschauer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2020",
+        "Journal Title": "Nature Microbiology",
+        "Volume and Pages": "Volume: 6, P: 339-353"
+    },
+    {
+        "Title": "H1 histones control the epigenetic landscape by local chromatin compaction",
+        "Link": "https://www.nature.com/articles/s41586-020-3032-z",
+        "Summary": "Experiments using a conditional triple-knockout mouse strain show that histone H1 regulates the activity of chromatin domains by controlling chromatin compaction, genome architecture and \u00a0histone\u00a0methylation.",
+        "Authors": [
+            "Michael A. Willcockson",
+            "Sean E. Healton",
+            "Arthur I. Skoultchi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 589, P: 293-298"
+    }
+]

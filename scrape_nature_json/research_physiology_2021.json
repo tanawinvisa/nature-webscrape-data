@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Circadian REV-ERBs repress E4bp4 to activate NAMPT-dependent NAD+ biosynthesis and sustain cardiac function",
+        "Link": "https://www.nature.com/articles/s44161-021-00001-9",
+        "Summary": "Sustained cardiac function depends on circadian REV-ERBs. Here, Dierickx et al. show that circadian nuclear receptors REV-ERB\u03b1 and \u03b2 are indispensable to establish the transcriptional program that controls cardiac metabolism and NAD+ production. Deregulation of REV-ERBs leads to dilated cardiomyopathy and premature death.",
+        "Authors": [
+            "Pieterjan Dierickx",
+            "Kun Zhu",
+            "Mitchell A. Lazar"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature Cardiovascular Research",
+        "Volume and Pages": "Volume: 1, P: 45-58"
+    },
+    {
+        "Title": "Network-driven anomalous transport is a fundamental component of brain microvascular dysfunction",
+        "Link": "https://www.nature.com/articles/s41467-021-27534-8",
+        "Summary": "Blood microcirculation supplies neurons with oxygen and nutrients, and contributes to clearing their neurotoxic waste. Here, the authors analyse blood flow simulations to establish the physical laws linking the microvascular architecture to the macroscopic transport properties that control oxygen supply and waste clearance.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-11"
+    },
+    {
+        "Title": "Insulin signalling in tanycytes gates hypothalamic insulin uptake and regulation of AgRP neuron activity",
+        "Link": "https://www.nature.com/articles/s42255-021-00499-0",
+        "Summary": "Tanycytic insulin receptors allow insulin access to the hypothalamic arcuate nucleus and are relevant for driving AgRP neuronal activity in response to feeding.",
+        "Authors": [
+            "Marta Porniece Kumar",
+            "Anna Lena Cremer",
+            "Jens C. Br\u00fcning"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2021",
+        "Journal Title": "Nature Metabolism",
+        "Volume and Pages": "Volume: 3, P: 1662-1679"
+    },
+    {
+        "Title": "The structure of the native CNGA1/CNGB1 CNG channel from bovine retinal rods",
+        "Link": "https://www.nature.com/articles/s41594-021-00700-8",
+        "Summary": "The cryo-EM structure of the bovine rod CNG channel, isolated from retina, sheds light onto the structural basis for the subunit stoichiometry and reveals an additional gate within the ion conduction pathway contributed by the CNGB1 subunit.",
+        "Authors": [
+            "Diane C. A. Barret",
+            "Gebhard F. X. Schertler",
+            "Jacopo Marino"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 29, P: 32-39"
+    },
+    {
+        "Title": "A hormone complex of FABP4 and nucleoside kinases regulates islet function",
+        "Link": "https://www.nature.com/articles/s41586-021-04137-3",
+        "Summary": "Hormonal FABP4 is discovered to be a pivotal regulator of an adipose\u2013beta-cell endocrine axis that coordinates energy status and metabolic organ function, and targeting this axis improved metabolic outcomes.",
+        "Authors": [
+            "Kacey J. Prentice",
+            "Jani Saksi",
+            "G\u00f6khan S. Hotamisligil"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "08 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 600, P: 720-726"
+    },
+    {
+        "Title": "Structural basis of inhibition of the human SGLT2\u2013MAP17 glucose transporter",
+        "Link": "https://www.nature.com/articles/s41586-021-04212-9",
+        "Summary": "Using cryogenic electron microscopy, the structure\u00a0of the human SGLT2\u2013MAP17 complex captured in the empagliflozin-bound state reveals the inhibitory mechanism of these anti-diabetic drugs.",
+        "Authors": [
+            "Yange Niu",
+            "Rui Liu",
+            "Lei Chen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "08 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 601, P: 280-284"
+    },
+    {
+        "Title": "NADH inhibition of SIRT1 links energy state to transcription during time-restricted feeding",
+        "Link": "https://www.nature.com/articles/s42255-021-00498-1",
+        "Summary": "Using a model of time-restricted feeding in mice, Levine et al. show that the hepatic NADH cycle links nutrient state to whole-body energetics through the rhythmic regulation of SIRT1.",
+        "Authors": [
+            "Daniel C. Levine",
+            "Hsin-Yu Kuo",
+            "Joseph Bass"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2021",
+        "Journal Title": "Nature Metabolism",
+        "Volume and Pages": "Volume: 3, P: 1621-1632"
+    },
+    {
+        "Title": "High-intensity training induces non-stoichiometric changes in the mitochondrial proteome of human skeletal muscle without reorganisation of respiratory chain content",
+        "Link": "https://www.nature.com/articles/s41467-021-27153-3",
+        "Summary": "Exercise training can be therapeutic but how mitochondria respond remains unclear. Here, the authors use multiple omics techniques to reveal a complex network of non-stoichiometric mitochondrial adaptations that are prioritized or deprioritised during different phases of exercise training.",
+        "Authors": [
+            "Cesare Granata",
+            "Nikeisha J. Caruana",
+            "David J. Bishop"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "03 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-18"
+    },
+    {
+        "Title": "GPR180 is a component of TGF\u03b2 signalling that promotes thermogenic adipocyte function and mediates the metabolic effects of the adipocyte-secreted factor CTHRC1",
+        "Link": "https://www.nature.com/articles/s41467-021-27442-x",
+        "Summary": "Activation of thermogenic adipocytes is a strategy to combat metabolic diseases. Here the authors report that GPR180 is a component of TGF\u03b2 signalling that promotes thermogenic adipocyte function and mediates the metabolic effects of the adipocyte-secreted factor CTHRC1, and contributes to the regulation of glucose and energy metabolism.",
+        "Authors": [
+            "Lucia Balazova",
+            "Miroslav Balaz",
+            "Christian Wolfrum"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-18"
+    },
+    {
+        "Title": "The flavonoid procyanidin C1 has senotherapeutic activity and increases lifespan in mice",
+        "Link": "https://www.nature.com/articles/s42255-021-00491-8",
+        "Summary": "The polyphenol procyanidin C1, a compound found in grape seeds, possesses senomorphic or senolytic activity and is shown to extend the healthspan and survival of old mice and in various models of senescence-associated disability.",
+        "Authors": [
+            "Qixia Xu",
+            "Qiang Fu",
+            "Yu Sun"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Dec 2021",
+        "Journal Title": "Nature Metabolism",
+        "Volume and Pages": "Volume: 3, P: 1706-1726"
+    }
+]

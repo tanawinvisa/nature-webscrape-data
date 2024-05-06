@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "An inflammatory state remodels the immune microenvironment and improves risk stratification in acute myeloid leukemia",
+        "Link": "https://www.nature.com/articles/s43018-022-00480-0",
+        "Summary": "Lasry and Nadorp et al. use single-cell RNA sequencing and CITE sequencing to reveal inflammatory gene expression in a subset of pediatric and adult patients with acute myeloid leukemia that associates with changes in the immune microenvironment and generate an inflammatory score with prognostic potential.",
+        "Authors": [
+            "Audrey Lasry",
+            "Bettina Nadorp",
+            "Iannis Aifantis"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 4, P: 27-42"
+    },
+    {
+        "Title": "DUSP6 mediates resistance to JAK2 inhibition and drives leukemic progression",
+        "Link": "https://www.nature.com/articles/s43018-022-00486-8",
+        "Summary": "Oh and colleagues demonstrate that the DUSP6\u2013RSK1 axis is involved in the transformation of myeloproliferative neoplasms to secondary acute myeloid leukemia and that DUSP6 mediates the response to JAK2 inhibition.",
+        "Authors": [
+            "Tim Kong",
+            "Angelo B. A. Laranjeira",
+            "Stephen T. Oh"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 4, P: 108-127"
+    },
+    {
+        "Title": "Network-based assessment of HDAC6 activity predicts preclinical and clinical responses to the HDAC6 inhibitor ricolinostat in breast cancer",
+        "Link": "https://www.nature.com/articles/s43018-022-00489-5",
+        "Summary": "Silva and colleagues develop a network-based HDAC6 score which could predict sensitivity to the HDAC6 inhibitor ricolinstat in preclinical models, as well as patients with HR+/HER2\u2212 breast cancer that received ricolinstat in a phase 1b clinical trial.",
+        "Authors": [
+            "Tizita Z. Zeleke",
+            "Qingfei Pan",
+            "Jose Silva"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2022",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 4, P: 257-275"
+    },
+    {
+        "Title": "The clinical utility of integrative genomics in childhood cancer extends beyond targetable mutations",
+        "Link": "https://www.nature.com/articles/s43018-022-00474-y",
+        "Summary": "Shlien and colleagues report on 300 patients from the SickKids Cancer Sequencing program and identify clinically actionable variants in 56% of the patients by profiling somatic and germline data at multiple clinical time points.",
+        "Authors": [
+            "Anita Villani",
+            "Scott Davidson",
+            "Adam Shlien"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Dec 2022",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 4, P: 203-221"
+    },
+    {
+        "Title": "Targeting T cell checkpoints 41BB and LAG3 and myeloid cell CXCR1/CXCR2 results in antitumor immunity and durable response in pancreatic cancer",
+        "Link": "https://www.nature.com/articles/s43018-022-00500-z",
+        "Summary": "Gulhati et al. demonstrate therapeutic efficacy for combinatorial administration of 41BB agonist, LAG3 antagonist and a CXCR1/2 inhibitor in murine pancreatic cancer models, resulting in a remodeled tumor microenvironment.",
+        "Authors": [
+            "Pat Gulhati",
+            "Aislyn Schalck",
+            "Ronald A. DePinho"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2022",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 4, P: 62-80"
+    },
+    {
+        "Title": "Genetic features and therapeutic relevance of emergent circulating tumor DNA alterations in refractory non-colorectal gastrointestinal cancers",
+        "Link": "https://www.nature.com/articles/s41467-022-35144-1",
+        "Summary": "Acquired resistance can be associated with genetic changes, however, clinical molecular profiling is usually only considered at the time of diagnosis. Here, the authors use serial ctDNA profiling of 449 gastrointestinal cancers to demonstrate widespread tumour evolution associated with treatment resistance and its potential implications for treatment.",
+        "Authors": [
+            "David Hsiehchen",
+            "Leslie Bucheit",
+            "Hao Zhu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "03 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-10"
+    },
+    {
+        "Title": "A pH-responsive T1-T2 dual-modal MRI contrast agent for cancer imaging",
+        "Link": "https://www.nature.com/articles/s41467-022-35655-x",
+        "Summary": "Magnetic resonance imaging (MRI) is a well-established non-invasive medical imaging technology. Here, to improve the performance of the technique, the authors describe the design of a pH-responsive T1-T2 dual-modal MRI contrast agent, showing enhanced imaging sensitivity in preclinical cancer models.",
+        "Authors": [
+            "Hongwei Lu",
+            "An Chen",
+            "Leilei Tian"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "Design of a self-driven probiotic-CRISPR/Cas9 nanosystem for sono-immunometabolic cancer therapy",
+        "Link": "https://www.nature.com/articles/s41467-022-35580-z",
+        "Summary": "Recently, strategies based on the integration of nanotechnology with microbial carriers have been proposed for cancer therapy. Here the authors report the design of an ultrasound-controlled CRISPR/Cas9 gene editing system for IDO1 silencing compounded with the probiotic Lactobacillus rhamnosus GG, showing the induction of anti-tumor immune responses in preclinical cancer models.",
+        "Authors": [
+            "Jifeng Yu",
+            "Bangguo Zhou",
+            "Huixiong Xu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-20"
+    },
+    {
+        "Title": "PRSS2 remodels the tumor microenvironment via repression of Tsp1 to stimulate tumor growth and progression",
+        "Link": "https://www.nature.com/articles/s41467-022-35649-9",
+        "Summary": "Tsp-1 in the tumor microenvironment is known to suppress tumor growth and progression. Here the authors show that PRSS2 represses Tsp-1 by binding to lipoprotein receptor-related protein 1 and suggest targeting PRSS2 mediated Tsp-1 repression as a potential therapeutic strategy.",
+        "Authors": [
+            "Lufei Sui",
+            "Suming Wang",
+            "Randolph S. Watnick"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-19"
+    },
+    {
+        "Title": "Multiregional single-cell dissection of tumor and immune cells reveals stable lock-and-key features in liver cancer",
+        "Link": "https://www.nature.com/articles/s41467-022-35291-5",
+        "Summary": "Multiregion sequencing is needed to better capture the heterogeneity of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (iCCA). Here, the authors analyse HCC and iCCA tumours with multiregion single-cell RNA-seq, revealing cellular dynamics and communication networks with immune cells.",
+        "Authors": [
+            "Lichun Ma",
+            "Sophia Heinrich",
+            "Xin Wei Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-17"
+    }
+]

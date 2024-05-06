@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Nanoscale imaging of bacterial infections by sphingolipid expansion microscopy",
+        "Link": "https://www.nature.com/articles/s41467-020-19897-1",
+        "Summary": "Imaging of lipid bilayers using light microscopy is challenging. Here the authors label cells using a short chain click-compatible ceramide to visualize mammalian and bacterial membranes with expansion microscopy.",
+        "Authors": [
+            "Ralph G\u00f6tz",
+            "Tobias C. Kunz",
+            "Markus Sauer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "02 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-9"
+    },
+    {
+        "Title": "The smfBox is an open-source platform for single-molecule FRET",
+        "Link": "https://www.nature.com/articles/s41467-020-19468-4",
+        "Summary": "Broad uptake of smFRET has been hindered by high instrument costs and a lack of open-source hardware and acquisition software. Here, the authors present the smfBox, a cost-effective open-source platform capable of measuring precise FRET efficiencies between dyes on freely diffusing single molecules.",
+        "Authors": [
+            "Benjamin Ambrose",
+            "James M. Baxter",
+            "Timothy D. Craggs"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "06 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-6"
+    },
+    {
+        "Title": "Biased localization of actin binding proteins by actin filament conformation",
+        "Link": "https://www.nature.com/articles/s41467-020-19768-9",
+        "Summary": "The assembly of actin filaments into distinct cytoskeletal structures plays a critical role in cell physiology. Here, the authors use a combination of live cell imaging and in vitro single molecule binding measurements to show that tandem calponin homology domains (CH1\u2013CH2) are sensitive to actin filament conformation, biasing their subcellular localization.",
+        "Authors": [
+            "Andrew R. Harris",
+            "Pamela Jreij",
+            "Daniel A. Fletcher"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "25 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-13"
+    },
+    {
+        "Title": "Gap junctions amplify spatial variations in cell volume in proliferating tumor spheroids",
+        "Link": "https://www.nature.com/articles/s41467-020-19904-5",
+        "Summary": "Cell proliferation is regulated by cell volume, but it is unclear how individual cancer cells coordinate to regulate cell volumes in 3D clusters. Here the authors propose a mechano-osmotic model to analyse the exchange of fluid and ions between connected cells and their environment in response to proliferation-induced solid stress.",
+        "Authors": [
+            "Eoin McEvoy",
+            "Yu Long Han",
+            "Vivek B. Shenoy"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "01 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-11"
+    },
+    {
+        "Title": "Automated and optimally FRET-assisted structural modeling",
+        "Link": "https://www.nature.com/articles/s41467-020-19023-1",
+        "Summary": "To overcome the limitation of FRET data being too sparse to cover all structural details, FRET experiments need to be carefully designed and complemented with simulations. Here the authors present a toolkit for automated design of FRET experiments, which determines how many and which FRET pairs should be used to maximize the accuracy, and for FRET-assisted structural modeling and refinement at the atomistic level.",
+        "Authors": [
+            "Mykola Dimura",
+            "Thomas-Otavio Peulen",
+            "Holger Gohlke"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Oct 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-14"
+    },
+    {
+        "Title": "Essential role of accessory subunit LYRM6 in the mechanism of mitochondrial complex I",
+        "Link": "https://www.nature.com/articles/s41467-020-19778-7",
+        "Summary": "Respiratory complex I plays a key role in energy metabolism. Cryo-EM structure of a mutant accessory subunit LYRM6 from the yeast Yarrowia lipolytica and molecular dynamics simulations reveal conformational changes at the interface between LYRM6 and subunit ND3, propagated further into the complex. These findings offer insight into the mechanism of proton pumping by respiratory complex I.",
+        "Authors": [
+            "Etienne Galemou Yoga",
+            "Kristian Parey",
+            "Heike Angerer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "26 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-8"
+    },
+    {
+        "Title": "A method for validating the accuracy of NMR protein structures",
+        "Link": "https://www.nature.com/articles/s41467-020-20177-1",
+        "Summary": "The authors present a method for calculating the accuracy of an NMR structure, where flexibility from backbone chemical shifts is compared to structural flexibility predicted using rigidity theory. The authors validate their method and use it to compare the accuracy of NMR and X-ray structures.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-11"
+    },
+    {
+        "Title": "Minimal system for assembly of SARS-CoV-2 virus like particles",
+        "Link": "https://www.nature.com/articles/s41598-020-78656-w",
+        "Summary": "",
+        "Authors": [
+            "Heather Swann",
+            "Abhimanyu Sharma",
+            "Saveez Saffarian"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2020",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 10, P: 1-5"
+    },
+    {
+        "Title": "Metavinculin modulates force transduction in cell adhesion sites",
+        "Link": "https://www.nature.com/articles/s41467-020-20125-z",
+        "Summary": "Muscle cells express an adhesion molecule called metavinculin, which has been associated with cardiomyopathies. Here, the authors employed molecular tension sensors to reveal that metavinculin expression modulates cell adhesion mechanics and they develop a mouse model to demonstrate\u00a0that the presence of metavinculin is not as critical for heart muscle function\u00a0as previously thought.",
+        "Authors": [
+            "Verena Kanoldt",
+            "Carleen Kluger",
+            "Carsten Grashoff"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-10"
+    },
+    {
+        "Title": "Prolyl isomerization controls activation kinetics of a cyclic nucleotide-gated ion channel",
+        "Link": "https://www.nature.com/articles/s41467-020-20104-4",
+        "Summary": "SthK, a cyclic nucleotide-gated ion channel from Spirochaeta thermophila activates slowly upon cAMP increase. Here, authors investigate cAMP-induced activation in purified SthK channels using stopped-flow assays and enzymatic catalysis and reveal that the cis/trans conformation of a conserved proline in the cyclic nucleotide-binding domain determines the activation kinetics of SthK.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-12"
+    }
+]

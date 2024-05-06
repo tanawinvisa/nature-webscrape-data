@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Maturation and specialization of group 2 innate lymphoid cells through the lung-gut axis",
+        "Link": "https://www.nature.com/articles/s41467-022-35347-6",
+        "Summary": "The developmental process of group 2 innate lymphoid cells (ILC2) involves migration between different internal organs. Here the authors show that ILC2s migrate from the lung to the intestine to undergo maturation after treatment with IL-33 and that lung and intestine ILC2s have a different phenotype.",
+        "Authors": [
+            "Min Zhao",
+            "Fei Shao",
+            "Shuo Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-13"
+    },
+    {
+        "Title": "Adaptive immune responses to SARS-CoV-2 persist in the pharyngeal lymphoid tissue of children",
+        "Link": "https://www.nature.com/articles/s41590-022-01367-z",
+        "Summary": "Manthiram and colleagues analyze the peripheral blood, tonsils and adenoids in children undergoing tonsillectomy or adenoidectomy and find evidence of continued tissue-specific immunity to SARS-CoV-2 and viral RNA persistence weeks to months after acute infection.",
+        "Authors": [
+            "Qin Xu",
+            "Pedro Milanez-Almeida",
+            "Kalpana Manthiram"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 24, P: 186-199"
+    },
+    {
+        "Title": "Ablation of CD8+ T cell recognition of an immunodominant epitope in SARS-CoV-2 Omicron variants BA.1, BA.2 and BA.3",
+        "Link": "https://www.nature.com/articles/s41467-022-34180-1",
+        "Summary": "The T cell response to SARS-CoV-2 is important in protection from infection. Here the authors show by concentrating on a specific HLA haplotype that mutations in SARS-CoV-2 as new variants emerge can affect T cell recognition and reduce T cell responses to the virus.",
+        "Authors": [
+            "Srividhya Swaminathan",
+            "Katie E. Lineburg",
+            "Corey Smith"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Oct 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-6"
+    },
+    {
+        "Title": "Natural Killer cells demonstrate distinct eQTL and transcriptome-wide disease associations, highlighting their role in autoimmunity",
+        "Link": "https://www.nature.com/articles/s41467-022-31626-4",
+        "Summary": "Natural Killer cells are key mediators of anti-tumour immunosurveillance and anti-viral immunity. Here, the authors map regulatory genetic variation in primary Natural Killer cells, providing new insights into their role in human health and disease.",
+        "Authors": [
+            "James J. Gilchrist",
+            "Seiko Makino",
+            "Benjamin P. Fairfax"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Jul 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-13"
+    },
+    {
+        "Title": "The phosphatidylinositol-transfer protein Nir3 promotes PI(4,5)P2 replenishment in response to TCR signaling during T cell development and survival",
+        "Link": "https://www.nature.com/articles/s41590-022-01372-2",
+        "Summary": "Weiss and colleagues identify a role for the endoplasmic reticulum-tethered PI transfer protein Nir3 in replenishing plasma membrane PIP2 levels in DN3-DP thymocytes, thereby increasing the sensitivity of developing thymocytes to weak TCR agonists.",
+        "Authors": [
+            "Wen Lu",
+            "Ynes A. Helou",
+            "Arthur Weiss"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 24, P: 136-147"
+    },
+    {
+        "Title": "SHP-2 and PD-1-SHP-2 signaling regulate myeloid cell differentiation and antitumor responses",
+        "Link": "https://www.nature.com/articles/s41590-022-01385-x",
+        "Summary": "Boussiotis and colleagues show that the tyrosine phosphatase SHP-2 regulates the differentiation and antitumor function of monocytes downstream of the inhibitory PD-1 receptor.",
+        "Authors": [
+            "Anthos Christofides",
+            "Xanthi-Lida Katopodi",
+            "Vassiliki A. Boussiotis"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2022",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 24, P: 55-68"
+    },
+    {
+        "Title": "Harnessing low dimensionality to visualize the antibody\u2013virus landscape for influenza",
+        "Link": "https://www.nature.com/articles/s43588-022-00375-1",
+        "Summary": "A framework is presented to extrapolate the range of behaviors for influenza antibodies. Using this basis set of behaviors, the collective action of multiple antibodies can be teased apart to describe the individual antibodies within.",
+        "Authors": [
+            "Tal Einav",
+            "Adrian Creanga",
+            "Masaru Kanekiyo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Dec 2022",
+        "Journal Title": "Nature Computational Science",
+        "Volume and Pages": "Volume: 3, P: 164-173"
+    },
+    {
+        "Title": "Imprinted SARS-CoV-2 humoral immunity induces convergent Omicron RBD evolution",
+        "Link": "https://www.nature.com/articles/s41586-022-05644-7",
+        "Summary": "Convergent mutations in hotspots of the SARS-CoV-2 Omicron receptor-binding domain can cause immune evasion and maintain sufficient ACE2-binding capability.",
+        "Authors": [
+            "Yunlong Cao",
+            "Fanchong Jian",
+            "Xiaoliang Sunney Xie"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 614, P: 521-529"
+    },
+    {
+        "Title": "Single-cell sequencing shows cellular heterogeneity of cutaneous lesions in lupus erythematosus",
+        "Link": "https://www.nature.com/articles/s41467-022-35209-1",
+        "Summary": "Discoid lupus erythematosus (DLE) and systemic LE (SLE) can present as cutaneous lesions. Here the authors characterise an scRNA dataset of cutaneous lesions from these patients and compare these to healthy controls showing differential immune cell recruitment, cell type and gene expression.",
+        "Authors": [
+            "Meiling Zheng",
+            "Zhi Hu",
+            "Ming Zhao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-17"
+    },
+    {
+        "Title": "Hypoxia drives CD39-dependent suppressor function in exhausted T cells to limit antitumor immunity",
+        "Link": "https://www.nature.com/articles/s41590-022-01379-9",
+        "Summary": "Exhausted CD8+ T cells with diminished effector functions accumulate in tumors. Here, the authors show that hypoxia induces a suppressive phenotype in exhausted T cells and that interfering with hypoxia-mediated CD39 expression limits immunosuppression in the tumor and augments immunotherapy, resulting in arrest of tumor growth.",
+        "Authors": [
+            "Paolo D. A. Vignali",
+            "Kristin DePeaux",
+            "Greg M. Delgoffe"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "21 Dec 2022",
+        "Journal Title": "Nature Immunology",
+        "Volume and Pages": "Volume: 24, P: 267-279"
+    }
+]

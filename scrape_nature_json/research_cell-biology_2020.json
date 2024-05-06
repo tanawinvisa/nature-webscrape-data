@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Metavinculin modulates force transduction in cell adhesion sites",
+        "Link": "https://www.nature.com/articles/s41467-020-20125-z",
+        "Summary": "Muscle cells express an adhesion molecule called metavinculin, which has been associated with cardiomyopathies. Here, the authors employed molecular tension sensors to reveal that metavinculin expression modulates cell adhesion mechanics and they develop a mouse model to demonstrate\u00a0that the presence of metavinculin is not as critical for heart muscle function\u00a0as previously thought.",
+        "Authors": [
+            "Verena Kanoldt",
+            "Carleen Kluger",
+            "Carsten Grashoff"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-10"
+    },
+    {
+        "Title": "Chromothripsis drives the evolution of gene amplification in cancer",
+        "Link": "https://www.nature.com/articles/s41586-020-03064-z",
+        "Summary": "Chromothripsis\u2014a process during which chromosomes are \u2018shattered\u2019\u2014drives the evolution of gene amplification and subsequent drug resistance in cancer cells.",
+        "Authors": [
+            "Ofer Shoshani",
+            "Simon F. Brunner",
+            "Don W. Cleveland"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2020",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 591, P: 137-141"
+    },
+    {
+        "Title": "Ubiquitination of RIPK1 regulates its activation mediated by TNFR1 and TLRs signaling in distinct manners",
+        "Link": "https://www.nature.com/articles/s41467-020-19935-y",
+        "Summary": "RIPK1 is a critical kinase which mediates necroptosis, apoptosis and inflammation. Regulation of RIPK1 by ubiquitination is being intensively investigated. Here, the authors made knock-in RIPK1-K612R mice and demonstrate that this mutation alters the RIPK1 ubiquitinylation pattern and inhibits its prodeath kinase activity in response to TNF\u03b1 but sensitizes cell death to TLRs signals.",
+        "Authors": [
+            "Xingyan Li",
+            "Mengmeng Zhang",
+            "Junying Yuan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-18"
+    },
+    {
+        "Title": "Age-associated telomere attrition in adipocyte progenitors predisposes to metabolic disease",
+        "Link": "https://www.nature.com/articles/s42255-020-00320-4",
+        "Summary": "Telomere shortening in adipocyte progenitors, promoted by genetic Tert inactivation, is shown to compromise adipose tissue health and systemic metabolism, providing a possible mechanistic link between obesity, ageing and metabolic disease.",
+        "Authors": [
+            "Zhanguo Gao",
+            "Alexes C. Daquinag",
+            "Mikhail G. Kolonin"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "14 Dec 2020",
+        "Journal Title": "Nature Metabolism",
+        "Volume and Pages": "Volume: 2, P: 1482-1497"
+    },
+    {
+        "Title": "Crbn modulates calcium influx by regulating Orai1 during efferocytosis",
+        "Link": "https://www.nature.com/articles/s41467-020-19272-0",
+        "Summary": "Calcium flux must be carefully controlled during the phagocytosis of apoptotic cells (efferocytosis), although how this occurs is not fully understood. Here, the authors show that the Cereblon E3 ligase regulates Orai1 degradation and subsequently SOCE-mediated calcium influx.",
+        "Authors": [
+            "Hyunji Moon",
+            "Chanhyuk Min",
+            "Daeho Park"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "30 Oct 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-13"
+    },
+    {
+        "Title": "Divergent architecture of the heterotrimeric NatC complex explains N-terminal acetylation of cognate substrates",
+        "Link": "https://www.nature.com/articles/s41467-020-19321-8",
+        "Summary": "The conserved eukaryotic heterotrimeric NatC complex co-translationally acetylates the N-termini of numerous target proteins. Here, the authors provide insights into the catalytic mechanism of NatC by determining the crystal structures of Saccharomyces cerevisiae NatC in the absence and presence of cofactors and peptide substrates and reveal the molecular basis of substrate binding by further biochemical analyses.",
+        "Authors": [
+            "Stephan Grunwald",
+            "Linus V. M. Hopf",
+            "Oliver Daumke"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "02 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-14"
+    },
+    {
+        "Title": "Biased localization of actin binding proteins by actin filament conformation",
+        "Link": "https://www.nature.com/articles/s41467-020-19768-9",
+        "Summary": "The assembly of actin filaments into distinct cytoskeletal structures plays a critical role in cell physiology. Here, the authors use a combination of live cell imaging and in vitro single molecule binding measurements to show that tandem calponin homology domains (CH1\u2013CH2) are sensitive to actin filament conformation, biasing their subcellular localization.",
+        "Authors": [
+            "Andrew R. Harris",
+            "Pamela Jreij",
+            "Daniel A. Fletcher"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "25 Nov 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-13"
+    },
+    {
+        "Title": "Gap junctions amplify spatial variations in cell volume in proliferating tumor spheroids",
+        "Link": "https://www.nature.com/articles/s41467-020-19904-5",
+        "Summary": "Cell proliferation is regulated by cell volume, but it is unclear how individual cancer cells coordinate to regulate cell volumes in 3D clusters. Here the authors propose a mechano-osmotic model to analyse the exchange of fluid and ions between connected cells and their environment in response to proliferation-induced solid stress.",
+        "Authors": [
+            "Eoin McEvoy",
+            "Yu Long Han",
+            "Vivek B. Shenoy"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "01 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-11"
+    },
+    {
+        "Title": "Epistasis-driven identification of SLC25A51 as a regulator of human mitochondrial NAD import",
+        "Link": "https://www.nature.com/articles/s41467-020-19871-x",
+        "Summary": "Maintenance of a mitochondrial NAD+ pool is critical for cellular life, yet the existence and identity of the transporter responsible for mitochondrial NAD+ uptake was unknown until recently. Here, the authors use genomic, genetic, and metabolomic approaches to demonstrate that SLC25A51 controls NAD+ mitochondrial levels and is the functional homolog of the yeast mitochondrial NAD+ transporter.",
+        "Authors": [
+            "Enrico Girardi",
+            "Gennaro Agrimi",
+            "Giulio Superti-Furga"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "01 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-9"
+    },
+    {
+        "Title": "Cryo-electron tomography structure of Arp2/3 complex in cells reveals new insights into the branch junction",
+        "Link": "https://www.nature.com/articles/s41467-020-20286-x",
+        "Summary": "The actin-related protein (Arp)2/3 complex nucleates branched actin filament networks pivotal for cell migration, endocytosis and pathogen infection. Here, authors report a 9.0\u2009\u00c5 resolution structure of the actin filament Arp2/3 complex branch junction in cells using cryo-electron tomography and subtomogram averaging.",
+        "Authors": [
+            "Florian F\u00e4\u00dfler",
+            "Georgi Dimchev",
+            "Florian K. M. Schur"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2020",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 11, P: 1-10"
+    }
+]

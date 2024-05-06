@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "H2A.Z facilitates licensing and activation of early replication origins",
+        "Link": "https://www.nature.com/articles/s41586-019-1877-9",
+        "Summary": "DNA replication in eukaryotes requires the histone variant H2A.Z, which binds the enzyme SUV420H1 to promote the dimethylation of histone H4, in turn recruiting the origin-recognition complex to activate early replication origins.",
+        "Authors": [
+            "Haizhen Long",
+            "Liwei Zhang",
+            "Guohong Li"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "25 Dec 2019",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 577, P: 576-581"
+    },
+    {
+        "Title": "Structural basis for ribosome recycling by RRF and tRNA",
+        "Link": "https://www.nature.com/articles/s41594-019-0350-7",
+        "Summary": "The crystal structure of a posttermination 70S ribosome complex with EF-G, RRF and two tRNAs bound reveals the active roles played by those factors in ribosome splitting and recycling.",
+        "Authors": [
+            "Dejian Zhou",
+            "Takehito Tanzawa",
+            "Matthieu G. Gagnon"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 27, P: 25-32"
+    },
+    {
+        "Title": "MyoD induced enhancer RNA interacts with hnRNPL to activate target gene transcription during myogenic differentiation",
+        "Link": "https://www.nature.com/articles/s41467-019-13598-0",
+        "Summary": "Enhancers are often transcribed into non-coding RNAs called enhancer RNAs. Here the authors show that super enhancer generated seRNA-1 regulates the expression of nearby myoglobin (Mb) gene by binding to heterogeneous nuclear ribonucleoprotein L during myogenic differentiation.",
+        "Authors": [
+            "Yu Zhao",
+            "Jiajian Zhou",
+            "Huating Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-17"
+    },
+    {
+        "Title": "Dynamics of transcription\u2013translation coordination tune bacterial indole signaling",
+        "Link": "https://www.nature.com/articles/s41589-019-0430-3",
+        "Summary": "The authors utilize fluorescence-activated cell sorting coupled with next-generation sequencing, as well as dynamic modeling, to study the molecular mechanism underlying indole signaling and reveal different roles of the two ends of tnaC in coordinating transcription and translation.",
+        "Authors": [
+            "Tianmin Wang",
+            "Xiang Zheng",
+            "Chong Zhang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2019",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 16, P: 440-449"
+    },
+    {
+        "Title": "PARP1 exhibits enhanced association and catalytic efficiency with \u03b3H2A.X-nucleosome",
+        "Link": "https://www.nature.com/articles/s41467-019-13641-0",
+        "Summary": "The poly(ADP-ribose) polymerases play a key role in maintaining genomic integrity by detecting DNA damage and mediating repair. Here the authors characterize the kinetics of PARP1 binding to a variety of nucleosomes harbouring DNA double-strand breaks.",
+        "Authors": [
+            "Deepti Sharma",
+            "Louis De Falco",
+            "Curt A. Davey"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-12"
+    },
+    {
+        "Title": "Single-molecule detection on a portable 3D-printed microscope",
+        "Link": "https://www.nature.com/articles/s41467-019-13617-0",
+        "Summary": "Single-molecule in vitro assays require dedicated confocal microscopes equipped with fluorescence correlation spectroscopy (FCS) modules. Here the authors present a compact, cheap and open-source 3D-printed confocal microscope for single photon counting and FCS measurements, and use it to detect \u03b1-synuclein aggregation.",
+        "Authors": [
+            "James W. P. Brown",
+            "Arnaud Bauer",
+            "Yann Gambin"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-7"
+    },
+    {
+        "Title": "A primate-specific retroviral enhancer wires the XACT lncRNA into the core pluripotency network in humans",
+        "Link": "https://www.nature.com/articles/s41467-019-13551-1",
+        "Summary": "XACT is a primate-specific TE-derived lncRNA that coats active X chromosomes in pluripotent cells and may contribute to species-specific regulation of X chromosome inactivation. Here, the authors investigate TEs associated with\u00a0the XACT locus and identify a critical enhancer for its regulation, which evolved from an ancestral group of mammalian endogenous retroviruses, prior to the emergence of XACT.",
+        "Authors": [
+            "Miguel Casanova",
+            "Madeleine Moscatelli",
+            "Claire Rougeulle"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "11 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-14"
+    },
+    {
+        "Title": "A revised model for promoter competition based on multi-way chromatin interactions at the \u03b1-globin locus",
+        "Link": "https://www.nature.com/articles/s41467-019-13404-x",
+        "Summary": "The coordination of interactions between multiple regulatory elements and genes within a chromatin domain remains poorly understood. Here,\u00a0the authors use a method to detect multi-way chromatin interactions in a mouse model in which the \u03b1-globin domain is extended to include several additional genes, finding that the promoters do not form mutually exclusive interactions with the enhancers, but all interact simultaneously in a single complex.",
+        "Authors": [
+            "A. Marieke Oudelaar",
+            "Caroline L. Harrold",
+            "Jim R. Hughes"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-8"
+    },
+    {
+        "Title": "Differential roles of human PUS10 in miRNA processing and tRNA pseudouridylation",
+        "Link": "https://www.nature.com/articles/s41589-019-0420-5",
+        "Summary": "PUS10 exhibits two different functions: one is to promote miRNA biogenesis in a catalytically independent manner; the other is to install pseudouridine modification in tRNAs in a catalytically dependent manner.",
+        "Authors": [
+            "Jinghui Song",
+            "Yuan Zhuang",
+            "Chengqi Yi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2019",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 16, P: 160-169"
+    },
+    {
+        "Title": "Structure of H3K36-methylated nucleosome\u2013PWWP complex reveals multivalent cross-gyre binding",
+        "Link": "https://www.nature.com/articles/s41594-019-0345-4",
+        "Summary": "The cryo-EM structure of the PWWP reader domain of the transcriptional coactivator LEDGF in complex with an H3K36-methylated nucleosome reveals multivalent binding of the reader domain to the methylated histone tail and to both gyres of nucleosomal DNA.",
+        "Authors": [
+            "Haibo Wang",
+            "Lucas Farnung",
+            "Patrick Cramer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2019",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 27, P: 8-13"
+    }
+]

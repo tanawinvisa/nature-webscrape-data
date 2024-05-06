@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "VWCE modulates amino acid-dependent mTOR signaling and coordinates with KICSTOR to recruit GATOR1 to the lysosomes",
+        "Link": "https://www.nature.com/articles/s41467-023-44241-8",
+        "Summary": "mTORC1 adapts cellular metabolism in response to nutrient signals. Here, the authors identify VWCE as a negative regulator of amino acid-dependent mTORC1 signaling and a potential as a therapeutic target in prostate cancer treatments.",
+        "Authors": [
+            "Tianyu Zhao",
+            "Yuanyuan Guan",
+            "Ying Liu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-10"
+    },
+    {
+        "Title": "Rho GTPase activity crosstalk mediated by Arhgef11 and Arhgef12 coordinates cell protrusion-retraction cycles",
+        "Link": "https://www.nature.com/articles/s41467-023-43875-y",
+        "Summary": "Cell movements are achieved by the spatio-temporal coordination of local membrane protrusions and retractions. Here, the authors identify a mechanism by which these protrusion and retraction events are coupled and how this affects the directionality of cell movements.",
+        "Authors": [
+            "Suchet Nanda",
+            "Abram Calderon",
+            "Leif Dehmelt"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-17"
+    },
+    {
+        "Title": "Quantitative subcellular reconstruction reveals a lipid mediated inter-organelle biogenesis network",
+        "Link": "https://www.nature.com/articles/s41556-023-01297-4",
+        "Summary": "Lee et al. use three-dimensional cell reconstruction of focused ion beam scanning electron microscopy data and multi-omics to show that ether-lipid metabolism regulates inter-organelle biogenesis and dynamics.",
+        "Authors": [
+            "Richard G. Lee",
+            "Danielle L. Rudler",
+            "Aleksandra Filipovska"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "21 Dec 2023",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 26, P: 57-71"
+    },
+    {
+        "Title": "Native doublet microtubules from Tetrahymena thermophila reveal the importance of outer junction proteins",
+        "Link": "https://www.nature.com/articles/s41467-023-37868-0",
+        "Summary": "Using cryo-EM, the authors identified 42 MIPs, including outer junction protein CFAP77 and outer dense fibers, in native doublet microtubules of Tetrahymena thermophila. Knockout of CFAP77 reduced ciliary beat frequency and led to outer junction damage.",
+        "Authors": [
+            "Shintaroh Kubo",
+            "Corbin S. Black",
+            "Khanh Huy Bui"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Apr 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-16"
+    },
+    {
+        "Title": "The function of ER-phagy receptors is regulated through phosphorylation-dependent ubiquitination pathways",
+        "Link": "https://www.nature.com/articles/s41467-023-44101-5",
+        "Summary": "Berkane et al. investigated the activation process of selective autophagy of the ER. They show that that phosphorylation of FAM134 proteins by CK2 is a prerequisite for the formation of large micro-clusters of high-density at the ER membrane.",
+        "Authors": [
+            "Rayene Berkane",
+            "Hung Ho-Xuan",
+            "Alexandra Stolz"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-17"
+    },
+    {
+        "Title": "Force transmission by retrograde actin flow-induced dynamic molecular stretching of Talin",
+        "Link": "https://www.nature.com/articles/s41467-023-44018-z",
+        "Summary": "Focal adhesion proteins transmit intracellular forces to the extracellular matrix (ECM). Here, the authors show a force transmission by elastic transient clutch of Talin between ECM and constantly flowing F-actin at focal adhesions.",
+        "Authors": [
+            "Sawako Yamashiro",
+            "David M. Rutkowski",
+            "Naoki Watanabe"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-14"
+    },
+    {
+        "Title": "Cytoneme-mediated transport of active Wnt5b\u2013Ror2 complexes in zebrafish",
+        "Link": "https://www.nature.com/articles/s41586-023-06850-7",
+        "Summary": "In zebrafish embryos, active complexes of Wnt5b and its membrane-bound receptor Ror2 are transported between cells via cellular protrusions called cytonemes to initiate paracrine Wnt5b signalling in cells that do not endogenously express the receptor.",
+        "Authors": [
+            "Chengting Zhang",
+            "Lucy Brunt",
+            "Steffen Scholpp"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 625, P: 126-133"
+    },
+    {
+        "Title": "Mtfp1 ablation enhances mitochondrial respiration and protects against hepatic steatosis",
+        "Link": "https://www.nature.com/articles/s41467-023-44143-9",
+        "Summary": "Excessive lipid accumulation in hepatocytes causes fatty liver disease and liver failure. Here the authors show that ablation of Mitochondrial Fission Process 1 in hepatocytes in mice protects fatty liver disease and dysfunction caused by high fat diet.",
+        "Authors": [
+            "Cecilia Patitucci",
+            "Juan Diego Hern\u00e1ndez-Camacho",
+            "Timothy Wai"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-21"
+    },
+    {
+        "Title": "NEMO reshapes the \u03b1-Synuclein aggregate interface and acts as an autophagy adapter by co-condensation with p62",
+        "Link": "https://www.nature.com/articles/s41467-023-44033-0",
+        "Summary": "Selective autophagy helps to degrade aggregated proteins accumulating in neurodegenerative diseases. Here, the authors show that NEMO, a ubiquitin binding protein previously linked to innate immune signaling, is recruited to misfolded proteins and promotes their autophagic clearance by forming condensates with the autophagy receptor p62.",
+        "Authors": [
+            "Nikolas Furthmann",
+            "Verian Bader",
+            "Konstanze F. Winklhofer"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-24"
+    },
+    {
+        "Title": "Cryo-EM structures of PP2A:B55\u2013FAM122A and PP2A:B55\u2013ARPP19",
+        "Link": "https://www.nature.com/articles/s41586-023-06870-3",
+        "Summary": "Cryo-electron microscopy structures of the PP2A:B55 holoenzyme bound to its inhibitors ARPP19 and FAM122A show distinct binding modes of the two inhibitors.",
+        "Authors": [
+            "Sathish K. R. Padi",
+            "Margaret R. Vos",
+            "Wolfgang Peti"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 625, P: 195-203"
+    }
+]

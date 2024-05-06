@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Natural image and receptive field statistics predict saccade sizes",
+        "Link": "https://www.nature.com/articles/s41593-018-0255-5",
+        "Summary": "Saccadic eye movements during free viewing exhibit patterns that reflect a strategy to increase neural responses by matching motor behavior with the statistics of the natural world and with the processing limitations of sensory systems.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "22 Oct 2018",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 21, P: 1591-1599"
+    },
+    {
+        "Title": "Spike-timing-dependent plasticity learning of coincidence detection with passively integrated memristive circuits",
+        "Link": "https://www.nature.com/articles/s41467-018-07757-y",
+        "Summary": "Hardware implementation of spiking neural networks holds promise for high energy efficient brain-inspired computing. Here, Prezioso et al. realize the detection of synchrony in a demo circuit composed of 20 metal-oxide memristor synapses connected to a leaky-integrate-and-fire silicon neuron.",
+        "Authors": [
+            "M. Prezioso",
+            "M. R. Mahmoodi",
+            "D. B. Strukov"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-8"
+    },
+    {
+        "Title": "Local hippocampal fast gamma rhythms precede brain-wide hyperemic patterns during spontaneous rodent REM sleep",
+        "Link": "https://www.nature.com/articles/s41467-018-07752-3",
+        "Summary": "Neural activity during REM sleep is similar to the waking state. Here, the authors measure blood volume with neurofunctional ultrasound imaging together with hippocampal neural activity during REM sleep and report that fast gamma oscillations are coupled to a brain-wide upregulation of vascular flow.",
+        "Authors": [
+            "Antoine Bergel",
+            "Thomas Deffieux",
+            "Ivan Cohen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-12"
+    },
+    {
+        "Title": "IgSF9b regulates anxiety behaviors through effects on centromedial amygdala inhibitory synapses",
+        "Link": "https://www.nature.com/articles/s41467-018-07762-1",
+        "Summary": "IgSF9b is a synaptic adhesion protein that has been linked to psychiatric disorders. Here the authors show that deletion of IgSF9b regulates anxiety-like behaviour in mice by increasing inhibitory synaptic transmission in the centromedial amygdala.",
+        "Authors": [
+            "Olga Babaev",
+            "Hugo Cruces-Solis",
+            "Dilja Krueger-Burg"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-16"
+    },
+    {
+        "Title": "Organizing principles of pulvino-cortical functional coupling in humans",
+        "Link": "https://www.nature.com/articles/s41467-018-07725-6",
+        "Summary": "The pulvinar is involved in vision and attention, but its interactions with other brain regions are little-studied. Here, using fMRI the authors show that the human pulvinar has widespread functional coupling with cortical areas that reflects its intrinsic organization and the topographic layout of cortex.",
+        "Authors": [
+            "Michael J. Arcaro",
+            "Mark A. Pinsk",
+            "Sabine Kastner"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-14"
+    },
+    {
+        "Title": "Sex separation induces differences in the olfactory sensory receptor repertoires of male and female mice",
+        "Link": "https://www.nature.com/articles/s41467-018-07120-1",
+        "Summary": "Olfactory experience can alter the relative abundance of neurons expressing specific chemoreceptors. Here, the authors demonstrate that the distinct odor experiences of sex-separated male and female mice induce sex-specific differences in the abundance of neurons that detect sexually dimorphic odors.",
+        "Authors": [
+            "Carl van der Linden",
+            "Susanne Jakob",
+            "Stephen W. Santoro"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "04 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-15"
+    },
+    {
+        "Title": "Motor primitives in space and time via targeted gain modulation in cortical networks",
+        "Link": "https://www.nature.com/articles/s41593-018-0276-0",
+        "Summary": "Many behavioral tasks require fast, reliable switching of the shape and duration of cortical activity. Stroud et al. show that modulation of neural excitability in recurrent network models provides flexible spatiotemporal control of neural activity.",
+        "Authors": [
+            "Jake P. Stroud",
+            "Mason A. Porter",
+            "Tim P. Vogels"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "26 Nov 2018",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 21, P: 1774-1783"
+    },
+    {
+        "Title": "Neural representation of visual concepts in people born blind",
+        "Link": "https://www.nature.com/articles/s41467-018-07574-3",
+        "Summary": "How are abstract, imperceptible concepts such as \u2018freedom\u2019 represented in the brain? Here, the authors use fMRI in people born blind to compare the neural responses for abstract concepts, concrete concepts like \u2018rainbow\u2019 which in blind people lack sensory qualities, and concrete concepts sensorily accessible to the blind.",
+        "Authors": [
+            "Ella Striem-Amit",
+            "Xiaoying Wang",
+            "Alfonso Caramazza"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "07 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-12"
+    },
+    {
+        "Title": "Eye activity tracks task-relevant structures during speech and auditory sequence perception",
+        "Link": "https://www.nature.com/articles/s41467-018-07773-y",
+        "Summary": "Our eyes constantly follow objects we see, but do they also move in synchrony with auditory inputs? Here, the authors show that eyelid movements track the temporal structure of speech and other sound sequences, which could reflect a role of motor systems in temporal attention and sequence processing.",
+        "Authors": [
+            "Peiqing Jin",
+            "Jiajie Zou",
+            "Nai Ding"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-15"
+    },
+    {
+        "Title": "Signal peptide represses GluK1 surface and synaptic trafficking through binding to amino-terminal domain",
+        "Link": "https://www.nature.com/articles/s41467-018-07403-7",
+        "Summary": "The two kainate receptors GluK1 and GluK2 show different surface expression and synaptic trafficking. Here authors engineer chimeric GluK1-GluK2 receptors and decipher a role how the signal peptide of GluK1 behaves as a ligand of GluK1 and modifies surface expression and trafficking.",
+        "Authors": [
+            "Gui-Fang Duan",
+            "Yaxin Ye",
+            "Nengyin Sheng"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Nov 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-11"
+    }
+]

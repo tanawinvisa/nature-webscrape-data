@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Forty-five patient-derived xenografts capture the clinical and biological heterogeneity of Wilms tumor",
+        "Link": "https://www.nature.com/articles/s41467-019-13646-9",
+        "Summary": "The progress in pre-clinical drug discovery for Wilms tumor (WT) is limited by a\u00a0lack of disease models. Here, the authors develop 45 heterotopic WT patient-derived xenografts including several anaplastic models that recapitulate the biological heterogeneity of WT, and propose this as a resource for evaluating future therapeutics for WT.",
+        "Authors": [
+            "Andrew J. Murphy",
+            "Xiang Chen",
+            "Andrew M. Davidoff"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-13"
+    },
+    {
+        "Title": "Integrated exome and RNA sequencing of dedifferentiated liposarcoma",
+        "Link": "https://www.nature.com/articles/s41467-019-13286-z",
+        "Summary": "Understanding the genomic features of dedifferentiated liposarcoma (DDLPS) is likely to uncover new options for management. Here, the authors reveal three prognostic groups, and highlight molecular markers associated with malignant transformation.",
+        "Authors": [
+            "Makoto Hirata",
+            "Naofumi Asano",
+            "Koichi Matsuda"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-12"
+    },
+    {
+        "Title": "Epithelial tumor suppressor ELF3 is a lineage-specific amplified oncogene in lung adenocarcinoma",
+        "Link": "https://www.nature.com/articles/s41467-019-13295-y",
+        "Summary": "Tissue context can dictate why a gene can have seemingly opposing functions in different settings. ELF3 is tumor suppressive in many cancers of epithelial origin but in lung cancer, the authors describe an oncogenic role in the adenocarcinoma histology of non-small cell lung cancer.",
+        "Authors": [
+            "Katey S. S. Enfield",
+            "Erin A. Marshall",
+            "Wan L. Lam"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-13"
+    },
+    {
+        "Title": "Characterization of genetic subclonal evolution in pancreatic cancer mouse models",
+        "Link": "https://www.nature.com/articles/s41467-019-13100-w",
+        "Summary": "In pancreatic cancer the Kras and Trp53 transgene driven KPC mouse model is used to experimentally study disease processes. Here, the authors analyse tumour evolution within the KPC model, finding both linear and branched evolution and highlighting the utility of this model in mechanistic research of tumour evolution.",
+        "Authors": [
+            "Noushin Niknafs",
+            "Yi Zhong",
+            "Rachel Karchin"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-10"
+    },
+    {
+        "Title": "PBRM1 acts as a p53 lysine-acetylation reader to suppress renal tumor growth",
+        "Link": "https://www.nature.com/articles/s41467-019-13608-1",
+        "Summary": "Acetylation of p53 is critical for its transcriptional activity and its tumour suppressive function. Here, the authors show that PBRM1 is a reader protein for p53\u2032s C-terminal domain acetylation on lysine 382 through its bromodomain 4 and that mutations in this domain leads to compromised tumour suppressive function and renal tumour growth.",
+        "Authors": [
+            "Weijia Cai",
+            "Liya Su",
+            "Haifeng Yang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-15"
+    },
+    {
+        "Title": "TRIB3 supports breast cancer stemness by suppressing FOXO1 degradation and enhancing SOX2 transcription",
+        "Link": "https://www.nature.com/articles/s41467-019-13700-6",
+        "Summary": "Cancer stem cells contribute to breast cancer metastasis and recurrence. Here the authors show that TRIB3 enhances breast cancer stemness through interaction with AKT to promote FOXO1 stability, which then increases SOX2 activity.",
+        "Authors": [
+            "Jin-mei Yu",
+            "Wei Sun",
+            "Zhuo-Wei Hu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-16"
+    },
+    {
+        "Title": "An open source automated tumor infiltrating lymphocyte algorithm for prognosis in melanoma",
+        "Link": "https://www.nature.com/articles/s41467-019-13043-2",
+        "Summary": "Histology data exists for many cancer samples and\u00a0the ability to automatically image this data may provide prognostic information. Here, the authors generated an algorithm to measure tumour infiltrating lymphocytes in melanoma histology specimens and show that the\u00a0ratio\u00a0of these immune cells\u00a0to tumour cells has prognostic value.",
+        "Authors": [
+            "Balazs Acs",
+            "Fahad Shabbir Ahmed",
+            "David L. Rimm"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-7"
+    },
+    {
+        "Title": "Genomic and immune profiling of pre-invasive lung adenocarcinoma",
+        "Link": "https://www.nature.com/articles/s41467-019-13460-3",
+        "Summary": "The genomic and immune landscape of pre-invasive lung adenocarcinoma is poorly understood. Here, the authors perform exome and transcriptome sequencing on precursor legions and invasive lung adenocarcinomas, identifying recurrently mutated genes in pre/minimally invasive cases, and arm level alteration events linked to immune infiltration.",
+        "Authors": [
+            "Haiquan Chen",
+            "Jian Carrot-Zhang",
+            "Matthew Meyerson"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Nov 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-6"
+    },
+    {
+        "Title": "scRNA-seq in medulloblastoma shows cellular heterogeneity and lineage expansion support resistance to SHH inhibitor therapy",
+        "Link": "https://www.nature.com/articles/s41467-019-13657-6",
+        "Summary": "Although the hedgehog (HH) pathway is known to be deregulated in medulloblastoma, inhibitors of the pathway have shown disappointing clinical benefit. Using single-cell sequencing in a mouse model of the disease, the authors show that the response to the HH pathway inhibitor vismodegib is cell-type specific.",
+        "Authors": [
+            "Jennifer Karin Ocasio",
+            "Benjamin Babcock",
+            "Timothy R. Gershon"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2019",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 10, P: 1-17"
+    },
+    {
+        "Title": "PAK4 inhibition improves PD-1 blockade immunotherapy",
+        "Link": "https://www.nature.com/articles/s43018-019-0003-0",
+        "Summary": "Ribas and colleagues report that inhibition of PAK4 improves response to anti-PD-1 immunotherapy by reducing Wnt pathway activation and increasing tumor infiltration by T cells.",
+        "Authors": [
+            "Gabriel Abril-Rodriguez",
+            "Davis Y. Torrejon",
+            "Antoni Ribas"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2019",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 1, P: 46-58"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Structure of transcribing RNA polymerase II-nucleosome complex",
+        "Link": "https://www.nature.com/articles/s41467-018-07870-y",
+        "Summary": "Eukaryotic transcription requires passage of RNA polymerase II (Pol II) through chromatin, which is impaired by nucleosomes. Here the authors report the cryo-EM structure of transcribing Pol II engaged with a downstream nucleosome core particle at an overall resolution of 4.4\u2009\u00c5, providing insights into the mechanism of chromatin transcription.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-6"
+    },
+    {
+        "Title": "Transcription-dependent regulation of replication dynamics modulates genome stability",
+        "Link": "https://www.nature.com/articles/s41594-018-0170-1",
+        "Summary": "Analysis of the relationships between transcription, replication, and stability of large genes associated with common fragile sites suggests that high transcription levels alleviate genome instability by altering replication timing and allowing cells to complete replication before mitosis.",
+        "Authors": [
+            "Marion Blin",
+            "Beno\u00eet Le Tallec",
+            "Michelle Debatisse"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "31 Dec 2018",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 26, P: 58-66"
+    },
+    {
+        "Title": "Transcription shapes DNA replication initiation and termination in human cells",
+        "Link": "https://www.nature.com/articles/s41594-018-0171-0",
+        "Summary": "Comparative genome-wide analyses reveal that DNA replication origins fire near the initiation site of highly transcribed genes, ensuring co-directional replication and transcription in highly active regions of the human genome.",
+        "Authors": [
+            "Yu-Hung Chen",
+            "Sarah Keegan",
+            "Duncan J. Smith"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "31 Dec 2018",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 26, P: 67-77"
+    },
+    {
+        "Title": "Noncanonical CTD kinases regulate RNA polymerase II in a gene-class-specific manner",
+        "Link": "https://www.nature.com/articles/s41589-018-0194-1",
+        "Summary": "Ten new RNA polymerase II kinases were identified, of these Hrr25 was engineered to enable covalent and noncovalent chemical inhibition in vivo, revealing that this kinase regulates polymerase function at noncoding snoRNA genes.",
+        "Authors": [
+            "Corey M. Nemec",
+            "Amit K. Singh",
+            "Aseem Z. Ansari"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "31 Dec 2018",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 15, P: 123-131"
+    },
+    {
+        "Title": "The H/ACA complex disrupts triplex in hTR precursor to permit processing by RRP6 and PARN",
+        "Link": "https://www.nature.com/articles/s41467-018-07822-6",
+        "Summary": "Telomerase RNA (hTR) is transcribed as a 3\u2032-extended precursor. Here the authors examine the processing of hTR precursors of various lengths and show that processing occurs in distinct steps involving different nucleases PARN and RRP6.",
+        "Authors": [
+            "Chi-Kang Tseng",
+            "Hui-Fang Wang",
+            "Peter Baumann"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-12"
+    },
+    {
+        "Title": "The ASCIZ-DYNLL1 axis promotes 53BP1-dependent non-homologous end joining and PARP inhibitor sensitivity",
+        "Link": "https://www.nature.com/articles/s41467-018-07855-x",
+        "Summary": "53BP1 is a key player in non-homologous end joining (NHEJ). Here the authors reveal an important role for the multifunctional homodimeric protein hub dynein light chain 1 (DYNLL1) in increasing the efficacy of 53BP1-mediated repair of DNA double-strand breaks (DSBs) by NHEJ.",
+        "Authors": [
+            "Jordan R. Becker",
+            "Raquel Cuella-Martin",
+            "J. Ross Chapman"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-12"
+    },
+    {
+        "Title": "The long noncoding RNA CHROME regulates cholesterol homeostasis in primates",
+        "Link": "https://www.nature.com/articles/s42255-018-0004-9",
+        "Summary": "Maintenance of cholesterol homeostasis is essential to human health. Here, the authors identify and characterize a primate-specific long noncoding RNA, called CHROME, that controls cholesterol homeostasis through fine-tuning of miRNAs and whose levels are elevated in human atherosclerosis.",
+        "Authors": [
+            "Elizabeth J. Hennessy",
+            "Coen van Solingen",
+            "Kathryn J. Moore"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "03 Dec 2018",
+        "Journal Title": "Nature Metabolism",
+        "Volume and Pages": "Volume: 1, P: 98-110"
+    },
+    {
+        "Title": "miR-122 removal in the liver activates imprinted microRNAs and enables more effective microRNA-mediated gene repression",
+        "Link": "https://www.nature.com/articles/s41467-018-07786-7",
+        "Summary": "miR-122 is a\u00a0highly expressed microRNA in the liver. Here the authors analyse the mouse liver microRNA landscape following depletion of miR-122 and the impact that this has on its target mRNAs.",
+        "Authors": [
+            "Paul N. Valdmanis",
+            "Hak Kyun Kim",
+            "Mark A. Kay"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-9"
+    },
+    {
+        "Title": "CRISPR/Cas9-mediated glycolate oxidase disruption is an efficacious and safe treatment for primary hyperoxaluria type I",
+        "Link": "https://www.nature.com/articles/s41467-018-07827-1",
+        "Summary": "Substrate reduction therapies (SRT) are a promising therapeutic approach for monogenic inherited metabolic diseases. Here the authors evaluate the therapeutic potential of an in vivo CRISPR/Cas9-mediated SRT to treat primary hyperoxaluria type I and demonstrate its safety and efficacy.",
+        "Authors": [
+            "Nerea Zabaleta",
+            "Miren Barberia",
+            "Juan R. Rodriguez-Madoz"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2018",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 9, P: 1-9"
+    },
+    {
+        "Title": "Epigenome-wide study uncovers large-scale changes in histone acetylation driven by tau pathology in aging and Alzheimer\u2019s human brains",
+        "Link": "https://www.nature.com/articles/s41593-018-0291-1",
+        "Summary": "Tau but not amyloid-beta pathology is associated with widespread alterations of histone 3 lysine 9 acetylation in the aged human cortex. Similar alterations of chromatin organization occur in iPSC-derived neurons after overexpression of tau.",
+        "Authors": [
+            "Hans-Ulrich Klein",
+            "Cristin McCabe",
+            "Philip L. De Jager"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "17 Dec 2018",
+        "Journal Title": "Nature Neuroscience",
+        "Volume and Pages": "Volume: 22, P: 37-46"
+    }
+]

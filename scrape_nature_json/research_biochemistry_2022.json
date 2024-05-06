@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Native metabolomics identifies the rivulariapeptolide family of protease inhibitors",
+        "Link": "https://www.nature.com/articles/s41467-022-32016-6",
+        "Summary": "Bioactivity-guided isolation of specialized metabolites is an iterative process. Here, the authors demonstrate a native metabolomics approach that allows for fast screening of complex metabolite extracts against a protein of interest and simultaneous structure annotation.",
+        "Authors": [
+            "Raphael Reher",
+            "Allegra T. Aron",
+            "Daniel Petras"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Aug 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-12"
+    },
+    {
+        "Title": "A single 2\u2032-O-methylation of ribosomal RNA gates assembly of a functional ribosome",
+        "Link": "https://www.nature.com/articles/s41594-022-00891-8",
+        "Summary": "Yelland et al. use yeast genetics and cryo-EM to show how 2\u2032-O-methylation on a single rRNA base gates the assembly of the ribosome via regulating interaction with the essential GTPase Nog2.",
+        "Authors": [
+            "James N. Yelland",
+            "Jack P. K. Bravo",
+            "Arlen W. Johnson"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 30, P: 91-98"
+    },
+    {
+        "Title": "Ligand recognition and activation of neuromedin U receptor 2",
+        "Link": "https://www.nature.com/articles/s41467-022-34814-4",
+        "Summary": "Neuromedin U receptor 2 is an emerging attractive target for treating obesity. Here, a Cryo-EM structure of NmU-25\u2013NMU2\u2013Gi1 provides the structural basis for the designation of highly selective drugs.",
+        "Authors": [
+            "Wenli Zhao",
+            "Wenru Zhang",
+            "Qiang Zhao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-10"
+    },
+    {
+        "Title": "Pol\u03bb promotes microhomology-mediated end-joining",
+        "Link": "https://www.nature.com/articles/s41594-022-00895-4",
+        "Summary": "Chandramouly et al. discover that human Pol\u03bb exhibits robust microhomology-mediated end-joining (MMEJ) activity like Pol\u03a6. Pol\u03bb promotes MMEJ in mammalian cells independently of essential nonhomologous end-joining factors LIG4/XRCC4 and Polq, which indicates a distinct Pol\u03bb-dependent MMEJ mechanism.",
+        "Authors": [
+            "Gurushankar Chandramouly",
+            "Joonas Jamsen",
+            "Richard T. Pomerantz"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 30, P: 107-114"
+    },
+    {
+        "Title": "Structural basis of the acyl-transfer mechanism of human GPAT1",
+        "Link": "https://www.nature.com/articles/s41594-022-00884-7",
+        "Summary": "GPAT1 is a mitochondrial outer membrane protein that catalyzes the first step of glycerolipid biosynthesis. Cryo-EM structures and functional studies of human GPAT1 uncover the molecular architecture and mechanism of this important acyltransferase.",
+        "Authors": [
+            "Zachary Lee Johnson",
+            "Mark Ammirati",
+            "Huixian Wu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "15 Dec 2022",
+        "Journal Title": "Nature Structural & Molecular Biology",
+        "Volume and Pages": "Volume: 30, P: 22-30"
+    },
+    {
+        "Title": "Molecular basis for isoform-selective inhibition of presenilin-1 by MRK-560",
+        "Link": "https://www.nature.com/articles/s41467-022-33817-5",
+        "Summary": "Presenilin isoforms (PS1 and PS2) containing \u03b3-secretase show contrasting sensitivity to MRK-560. Here, the authors determined cryo-EM structures of PS1/PS2-complexes treated with MRK-560 and identified key residues responsible for the isoform-dependent selectivity.",
+        "Authors": [
+            "Xuefei Guo",
+            "Yumeng Wang",
+            "Yigong Shi"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Oct 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-7"
+    },
+    {
+        "Title": "A conformation-specific nanobody targeting the nicotinamide mononucleotide-activated state of SARM1",
+        "Link": "https://www.nature.com/articles/s41467-022-35581-y",
+        "Summary": "SARM1 is a key player in axon degeneration. Here, the authors generate a nanobody, which specifically recognizes the NMN-bound state of SARM1 and helps resolve the SARM1 structure in an intermediate state of activation.",
+        "Authors": [
+            "Yun Nan Hou",
+            "Yang Cai",
+            "Yong Juan Zhao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-15"
+    },
+    {
+        "Title": "Sourcing thermotolerant poly(ethylene terephthalate) hydrolase scaffolds from natural diversity",
+        "Link": "https://www.nature.com/articles/s41467-022-35237-x",
+        "Summary": "Enzymes have potential for recycling plastics such as PET, a polyester used in textiles and single-use packaging. Here, the authors identify and characterize additional PET-active biocatalysts and expand the number and diversity of thermotolerant scaffolds for enzymatic PET deconstruction.",
+        "Authors": [
+            "Erika Erickson",
+            "Japheth E. Gado",
+            "John E. McGeehan"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-15"
+    },
+    {
+        "Title": "Identifying antibiotics based on structural differences in the conserved allostery from mitochondrial heme-copper oxidases",
+        "Link": "https://www.nature.com/articles/s41467-022-34771-y",
+        "Summary": "Antimicrobial resistance to currently available antibiotics requires innovation of antibiotics. Here, the authors identify a critical inhibitory site in an energy-producing enzyme, which can lead to rational design of antibiotics.",
+        "Authors": [
+            "Yuya Nishida",
+            "Sachiko Yanagisawa",
+            "Yasunori Shintani"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2022",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 13, P: 1-14"
+    },
+    {
+        "Title": "mTORC1 regulates a lysosome-dependent adaptive shift in intracellular lipid species",
+        "Link": "https://www.nature.com/articles/s42255-022-00706-6",
+        "Summary": "Hosios et al. demonstrate that inhibition of mechanistic target of rapamycin complex 1 in cells and in tumors in mice leads to a lysosome-dependent but autophagy-independent shift in membrane lipid metabolism, resulting in increased intracellular triglyceride pools.",
+        "Authors": [
+            "Aaron M. Hosios",
+            "Meghan E. Wilkinson",
+            "Brendan D. Manning"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "19 Dec 2022",
+        "Journal Title": "Nature Metabolism",
+        "Volume and Pages": "Volume: 4, P: 1792-1811"
+    }
+]

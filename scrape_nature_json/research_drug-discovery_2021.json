@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Imitation of \u03b2-lactam binding enables broad-spectrum metallo-\u03b2-lactamase inhibitors",
+        "Link": "https://www.nature.com/articles/s41557-021-00831-x",
+        "Summary": "The efficacy of carbapenem antibiotics can be compromised by metallo-\u03b2-lactamases, but a high-throughput screen followed by optimization has now enabled the discovery of indole-2-carboxylates (InCs) as potent broad-spectrum metallo-\u03b2-lactamase inhibitors. The results highlight the potential of InC\u2013carbapenem combinations for clinical use as well as mechanism-guided approaches to combatting globally disseminated antibiotic resistant mechanisms.",
+        "Authors": [
+            "J\u00fcrgen Brem",
+            "Tharindi Panduwawala",
+            "Christopher J. Schofield"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "13 Dec 2021",
+        "Journal Title": "Nature Chemistry",
+        "Volume and Pages": "Volume: 14, P: 15-24"
+    },
+    {
+        "Title": "Naturally-occurring spinosyn A and its derivatives function as argininosuccinate synthase activator and tumor inhibitor",
+        "Link": "https://www.nature.com/articles/s41467-021-22235-8",
+        "Summary": "Arginine addiction induced by argininosuccinate synthase (ASSN1) deficiency has been exploited to treat ASS1-deficient cancers. Here, the authors show an alternative therapeutic approach where ASS1 activity is increased by the pesticide spinosyn A and is shown to inhibit breast cancer cell proliferation.",
+        "Authors": [
+            "Zizheng Zou",
+            "Xiyuan Hu",
+            "Zhiyong Luo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Apr 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-15"
+    },
+    {
+        "Title": "Numerical investigation of ibuprofen removal from pharmaceutical wastewater using adsorption process",
+        "Link": "https://www.nature.com/articles/s41598-021-04185-9",
+        "Summary": "",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2021",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 11, P: 1-11"
+    },
+    {
+        "Title": "Engineering CAR-T cells to activate small-molecule drugs in situ",
+        "Link": "https://www.nature.com/articles/s41589-021-00932-1",
+        "Summary": "The synthetic enzyme-armed killer (SEAKER) approach equips chimeric antigen receptor (CAR)-T cells with the capacity to express enzymes that process anticancer prodrugs at tumor sites of action.",
+        "Authors": [
+            "Thomas J. Gardner",
+            "J. Peter Lee",
+            "David A. Scheinberg"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Chemical Biology",
+        "Volume and Pages": "Volume: 18, P: 216-225"
+    },
+    {
+        "Title": "Optimizing molecules using efficient queries from property evaluations",
+        "Link": "https://www.nature.com/articles/s42256-021-00422-y",
+        "Summary": "Zeroth-order optimization is used on problems where no explicit gradient function is accessible, but single points can be queried. Hoffman et al. present here a molecular design method that uses zeroth-order optimization to deal with the discreteness of molecule sequences and to incorporate external guidance from property evaluations and design constraints.",
+        "Authors": [
+            "Samuel C. Hoffman",
+            "Vijil Chenthamarakshan",
+            "Payel Das"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Machine Intelligence",
+        "Volume and Pages": "Volume: 4, P: 21-31"
+    },
+    {
+        "Title": "Suppression of mutant C9orf72 expression by a potent mixed backbone antisense oligonucleotide",
+        "Link": "https://www.nature.com/articles/s41591-021-01557-6",
+        "Summary": "An antisense oligonucleotide targets mutant transcripts of the ALS gene C9orf72, suppressing the poly(GP) dipeptide in tissues in mice and in the spinal fluid of a single patient harboring the C9orf72 gene mutation",
+        "Authors": [
+            "H\u00e9l\u00e8ne Tran",
+            "Michael P. Moazami",
+            "Robert H. Brown Jr"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "23 Dec 2021",
+        "Journal Title": "Nature Medicine",
+        "Volume and Pages": "Volume: 28, P: 117-124"
+    },
+    {
+        "Title": "Mechanisms of SARS-CoV-2 neutralization by shark variable new antigen receptors elucidated through X-ray crystallography",
+        "Link": "https://www.nature.com/articles/s41467-021-27611-y",
+        "Summary": "Shark antibodies (Variable New Antigen Receptors, VNARs) are the smallest naturally occurring antibody fragments. Here, the authors screen a VNAR phage display library against the SARS-CoV2 receptor binding domain (RBD) and identify VNARs that neutralize the SARSCoV-2 virus and discuss their mechanisms of viral neutralization.",
+        "Authors": [
+            "Obinna C. Ubah",
+            "Eric W. Lake",
+            "Caroline J. Barelle"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    },
+    {
+        "Title": "Biomimetic nanoparticles deliver mRNAs encoding costimulatory receptors and enhance T cell mediated cancer immunotherapy",
+        "Link": "https://www.nature.com/articles/s41467-021-27434-x",
+        "Summary": "Antibodies targeting OX40 or CD137, two T cell costimulatory receptors, have been shown to improve antitumor immunity. Here the authors design a phospholipid-derived nanoparticle to deliver OX40 or CD137 mRNA to T cells in vivo, improving efficacy of anti-OX40 and anti-CD137 antibody therapy in preclinical tumor models.",
+        "Authors": [
+            "Wenqing Li",
+            "Xinfu Zhang",
+            "Yizhou Dong"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    },
+    {
+        "Title": "Synthon-based ligand discovery in virtual libraries of over 11 billion compounds",
+        "Link": "https://www.nature.com/articles/s41586-021-04220-9",
+        "Summary": "V-SYNTHES, a scalable and computationally cost-effective synthon-based approach to compound screening, identified compounds with a high affinity for CB2 and CB1 in a hierarchical structure-based screen of more than 11\u2009billion compounds.",
+        "Authors": [
+            "Arman A. Sadybekov",
+            "Anastasiia V. Sadybekov",
+            "Vsevolod Katritch"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "15 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 601, P: 452-459"
+    },
+    {
+        "Title": "Small molecule splicing modifiers with systemic HTT-lowering activity",
+        "Link": "https://www.nature.com/articles/s41467-021-27157-z",
+        "Summary": "Here the authors describe the discovery of a class of small molecule splicing modifiers which are orally bioavailable, cross the blood-brain barrier, and lower levels of huntingtin in a mouse model of Huntington\u2019s disease (HD).",
+        "Authors": [
+            "Anuradha Bhattacharyya",
+            "Christopher R. Trotta",
+            "Stuart W. Peltz"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    }
+]

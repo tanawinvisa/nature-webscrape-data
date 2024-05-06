@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "Structure of the complete Saccharomyces cerevisiae Rpd3S-nucleosome complex",
+        "Link": "https://www.nature.com/articles/s41467-023-43968-8",
+        "Summary": "In this study, the authors present the cryogenic electron microscopy reconstruction of the Rpd3S complex engaged with a nucleosome. The corresponding model describes the interactions that facilitate histone deacetylation within gene bodies by the Rpd3S complex.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-11"
+    },
+    {
+        "Title": "iMUT-seq: high-resolution DSB-induced mutation profiling reveals prevalent homologous-recombination dependent mutagenesis",
+        "Link": "https://www.nature.com/articles/s41467-023-44167-1",
+        "Summary": "DNA double-strand breaks (DSBs) are highly mutagenic making them central to many pathologies. Here, the authors developed a highly sensitive sequencing approach to study DSB mutagenesis, yielding insights into mutagenic outcomes and characterising their underlying mechanisms.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "18 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-16"
+    },
+    {
+        "Title": "Nuclear cGAS restricts L1 retrotransposition by promoting TRIM41-mediated ORF2p ubiquitination and degradation",
+        "Link": "https://www.nature.com/articles/s41467-023-43001-y",
+        "Summary": "Zhen and colleagues show that nuclear cGAS represses L1 retrotransposition to stabilize the genome by enhancing the interaction between ORF2p and the E3 ligase TRIM41 upon DNA damage, which leads to the ubiquitination and degradation of ORF2p.",
+        "Authors": [
+            "Zhengyi Zhen",
+            "Yu Chen",
+            "Zhiyong Mao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "12 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-14"
+    },
+    {
+        "Title": "Native structure of mosquito salivary protein uncovers domains relevant to pathogen transmission",
+        "Link": "https://www.nature.com/articles/s41467-023-36577-y",
+        "Summary": "Female mosquitoes inject saliva into vertebrate hosts during blood feeding, transmitting mosquito-borne pathogens. Here, cryo-EM of mosquito salivary gland extract uncovers the native SGS1 structure and domains relevant to pathogen transmission.",
+        "Authors": [
+            "Shiheng Liu",
+            "Xian Xia",
+            "Z. Hong Zhou"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Feb 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "RNA-mediated symmetry breaking enables singular olfactory receptor choice",
+        "Link": "https://www.nature.com/articles/s41586-023-06845-4",
+        "Summary": "Messenger RNAs transcribed from olfactory-receptor genes may have non-coding functions that include recruitment of transcriptional enhancers and inhibition of potentially thousands of competing alleles to ensure stable transcription of a single allele.",
+        "Authors": [
+            "Ariel D. Pourmorady",
+            "Elizaveta V. Bashkirova",
+            "Stavros Lomvardas"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 625, P: 181-188"
+    },
+    {
+        "Title": "Building synthetic chromosomes from natural DNA",
+        "Link": "https://www.nature.com/articles/s41467-023-44112-2",
+        "Summary": "Building synthetic chromosomes from natural components is an unexplored alternative to de novo chromosome synthesis that may have many potential applications. In this paper, the authors report CReATiNG, a method for constructing synthetic chromosomes from natural components in yeast.",
+        "Authors": [
+            "Alessandro L. V. Coradini",
+            "Christopher Ne Ville",
+            "Ian M. Ehrenreich"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "The distinct translational landscapes of gram-negative Salmonella and gram-positive Listeria",
+        "Link": "https://www.nature.com/articles/s41467-023-43759-1",
+        "Summary": "In this work, Bryant and Lastovka\u00a0et al. utilise advanced ribosome profiling and transcriptomics techniques, to reveal distinct translation control mechanisms in Salmonella and Listeria, two highly divergent bacterial species.",
+        "Authors": [
+            "Owain J. Bryant",
+            "Filip Lastovka",
+            "Betty Y. -W. Chung"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "09 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-15"
+    },
+    {
+        "Title": "Profiling ubiquitin signalling with UBIMAX reveals DNA damage- and SCF\u03b2-Trcp1-dependent ubiquitylation of the actin-organizing protein Dbn1",
+        "Link": "https://www.nature.com/articles/s41467-023-43873-0",
+        "Summary": "Using Xenopus egg extracts, the authors developed a mass spectrometry method (UBIMAX) to identify proteins ubiquitylated in response to defined DNA lesions. Highlighting UBIMAX\u2019s versatility, they describe the ubiquitylation of the actin regulator Dbn1 in response to DNA double-strand breaks.",
+        "Authors": [
+            "Camilla S. Colding-Christensen",
+            "Ellen S. Kakulidis",
+            "Michael L. Nielsen"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-19"
+    },
+    {
+        "Title": "LncRNA MIR200CHG inhibits EMT in gastric cancer by stabilizing miR-200c from target-directed miRNA degradation",
+        "Link": "https://www.nature.com/articles/s41467-023-43974-w",
+        "Summary": "The roles of long non-coding RNAs (lncRNAs) in different subtypes of gastric cancer (GC) remain to be characterized. Here, the authors identify lncRNA MIR200CHG as a master regulator of Microsatellite stable (MSS)/epithelial-mesenchymal transition (EMT) GC subtype, which inhibits EMT and metastasis by stabilizing miR-200c.",
+        "Authors": [
+            "Yixiao Zhu",
+            "Chengmei Huang",
+            "Xin Wang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-19"
+    },
+    {
+        "Title": "Single-cell DNA methylome and 3D multi-omic atlas of the adult mouse brain",
+        "Link": "https://www.nature.com/articles/s41586-023-06805-y",
+        "Summary": "Methylome-based clustering and cross-modality integration with companion datasets from the BRAIN Initiative Cell Census Network enabled the construction of a 3D multi-omic genome atlas of the adult mouse brain featuring thousands of cell-type-specific profiles.",
+        "Authors": [
+            "Hanqing Liu",
+            "Qiurui Zeng",
+            "Joseph R. Ecker"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "13 Dec 2023",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 624, P: 366-377"
+    }
+]

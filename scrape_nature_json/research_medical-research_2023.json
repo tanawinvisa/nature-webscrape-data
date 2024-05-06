@@ -1,0 +1,150 @@
+[
+    {
+        "Title": "Natriuresis-guided diuretic therapy in acute heart failure: a pragmatic randomized trial",
+        "Link": "https://www.nature.com/articles/s41591-023-02532-z",
+        "Summary": "In patients with acute heart failure, personalized dosing of a diuretic led to treatment intensification in the majority of patients and improved natriuresis, but had no effects on time to all-cause mortality or heart failure rehospitalization.",
+        "Authors": [
+            "Jozine M. ter Maaten",
+            "Iris E. Beldhuis",
+            "Kevin Damman"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "28 Aug 2023",
+        "Journal Title": "Nature Medicine",
+        "Volume and Pages": "Volume: 29, P: 2625-2632"
+    },
+    {
+        "Title": "A pilot study of alternative substrates in the critically Ill subject using a ketogenic feed",
+        "Link": "https://www.nature.com/articles/s41467-023-42659-8",
+        "Summary": "Critical illness leads to altered metabolic states and bioenergetic failure caused by impaired utilisation of glucose, fatty acids and amino acids. Here the authors show ketogenic diets may provide a safe and acceptable alternative metabolic fuel enabling energy production and maintaining tissue homeostasis.",
+        "Authors": [
+            "Angela McNelly",
+            "Anne Langan",
+            "Zudin A. Puthucheary"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-14"
+    },
+    {
+        "Title": "Distinct gene expression signatures comparing latent tuberculosis infection with different routes of Bacillus Calmette-Gu\u00e9rin vaccination",
+        "Link": "https://www.nature.com/articles/s41467-023-44136-8",
+        "Summary": "The ability of BCG vaccination to prevent pulmonary tuberculosis could be improved by targeting mucosal immunity within the lung. Here the authors compare latent Mtb-infected donors with intradermal or oral BCG vaccine recipients to show distinct systemic and pulmonary immune responses are induced by differing routes of natural infection or vaccination.",
+        "Authors": [
+            "Richard F. Silver",
+            "Mei Xia",
+            "Daniel F. Hoft"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-17"
+    },
+    {
+        "Title": "Optimal timing of nirmatrelvir/ritonavir treatment after COVID-19 symptom onset or diagnosis: target trial emulation",
+        "Link": "https://www.nature.com/articles/s41467-023-43706-0",
+        "Summary": "Nirmatrelvir/ritonavir can reduce COVID-19 severity when initiated within five days of symptom onset but the optimal timing within this window is unknown. Here, the authors emulate a randomised trial using electronic health records from Hong Kong and find evidence for a benefit of early treatment initiation.",
+        "Authors": [
+            "Carlos K. H. Wong",
+            "Jonathan J. Lau",
+            "Joseph T. Wu"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "16 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-13"
+    },
+    {
+        "Title": "A standardized metric to enhance clinical trial design and outcome interpretation in type 1 diabetes",
+        "Link": "https://www.nature.com/articles/s41467-023-42581-z",
+        "Summary": "The use of a standardized outcome metric enhances clinical trial interpretation and cross-trial comparison. Here, the authors show the implementation of such a metric using type 1 diabetes trial data, reassess and compare results from these trials, and extend its use to define response to therapy.",
+        "Authors": [
+            "Alyssa Ylescupidez",
+            "Henry T. Bahnson",
+            "Carla J. Greenbaum"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Nov 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "Repurposed drugs and their combinations prevent morbidity-inducing dermonecrosis caused by diverse cytotoxic snake venoms",
+        "Link": "https://www.nature.com/articles/s41467-023-43510-w",
+        "Summary": "Three drugs initially developed for other conditions, 2,3-dimercapto-1-propanesulfonic acid (DMPS), marimastat and varespladib, have shown promise in preventing the lethality of snakebite envenoming. Here, Hall et al., show that a combination of these drugs can combat the local dermonecrotic effects caused by diverse cytotoxic venoms.",
+        "Authors": [
+            "Steven R. Hall",
+            "Sean A. Rasmussen",
+            "Nicholas R. Casewell"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-15"
+    },
+    {
+        "Title": "lesSDRF is more: maximizing the value of proteomics data through streamlined metadata annotation",
+        "Link": "https://www.nature.com/articles/s41467-023-42543-5",
+        "Summary": "Public proteomics data often lack essential metadata, limiting their potential. To address this, the authors developed lesSDRF, a tool to simplify the process of metadata annotation, thereby ensuring that data leave a lasting, impactful legacy well beyond their initial publication.",
+        "Authors": [
+            "Tine Claeys",
+            "Tim Van Den Bossche",
+            "Lennart Martens"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "24 Oct 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-4"
+    },
+    {
+        "Title": "Assessing the cyclic fatigue resistance and sterilization effects on replica-like endodontic instruments compared to Reciproc Blue",
+        "Link": "https://www.nature.com/articles/s41598-023-50096-2",
+        "Summary": "",
+        "Authors": [
+            "Fernando Antonio Siano dos Reis",
+            "Amjad Abu Hasna",
+            "Carlos Eduardo Silveira Bueno"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Dec 2023",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 13, P: 1-10"
+    },
+    {
+        "Title": "Multigroup analysis of compositions of microbiomes with covariate adjustments and repeated measures",
+        "Link": "https://www.nature.com/articles/s41592-023-02092-7",
+        "Summary": "ANCOM-BC2 is developed to perform multigroup differential abundance analysis and allows modeling of covariates and longitudinal measures while controlling false discovery rate (FDR) or mixed directional FDR.",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "29 Dec 2023",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 21, P: 83-91"
+    },
+    {
+        "Title": "Evaluation of pragmatic oxygenation measurement as a proxy for Covid-19 severity",
+        "Link": "https://www.nature.com/articles/s41467-023-42205-6",
+        "Summary": "There is a need for an accurate measure of pulmonary oxygenation function that can be used as an intermediate endpoint in pragmatic clinical trials, to increase statistical power and efficiency. Here, the authors show that the S/F94, a modification of the S/F ratio, is a simple, meaningful and effective intermediate outcome measure.",
+        "Authors": [
+            "Maaike C. Swets",
+            "Steven Kerr",
+            "J. Kenneth Baillie"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Nov 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-10"
+    }
+]

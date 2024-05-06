@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Intracerebral fate of organic and inorganic nanoparticles is dependent on microglial extracellular vesicle function",
+        "Link": "https://www.nature.com/articles/s41565-023-01551-8",
+        "Summary": "Nanoparticle clearance is critical for safety and therapeutic applicability. Here the authors report the modulatory role of microglial extracellular vesicles on the brain clearance of organic and inorganic nanoparticles and provide a strategy to control their intracerebral fate.",
+        "Authors": [
+            "Jinchao Gao",
+            "Qingxiang Song",
+            "Xiaoling Gao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "29 Dec 2023",
+        "Journal Title": "Nature Nanotechnology",
+        "Volume and Pages": "Volume: 19, P: 376-386"
+    },
+    {
+        "Title": "Screening for lipid nanoparticles that modulate the immune activity of helper T cells towards enhanced antitumour activity",
+        "Link": "https://www.nature.com/articles/s41551-023-01131-0",
+        "Summary": "The composition of lipid nanoparticles for the delivery of tumour-antigen-encoding mRNA can be optimized via a screening method to enhance antitumour activity via the modulation of the immune activity of helper T cells.",
+        "Authors": [
+            "Yining Zhu",
+            "Jingyao Ma",
+            "Hai-Quan Mao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "11 Dec 2023",
+        "Journal Title": "Nature Biomedical Engineering",
+        "Volume and Pages": "P: 1-17"
+    },
+    {
+        "Title": "Redox-enabled electronic interrogation and feedback control of hierarchical and networked biological systems",
+        "Link": "https://www.nature.com/articles/s41467-023-44223-w",
+        "Summary": "With redox-linked synthetic biology and electrobiofabrication, electronic information can be transmitted in a bidirectional manner between biology and electronics. Here the authors design an electrogenetic platform that allows real time electronic control of biological functions from proteins and gene circuits to cell consortia.",
+        "Authors": [
+            "Sally Wang",
+            "Chen-Yu Chen",
+            "William E. Bentley"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "21 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-17"
+    },
+    {
+        "Title": "ANCA: artificial nucleic acid circuit with argonaute protein for one-step isothermal detection of antibiotic-resistant bacteria",
+        "Link": "https://www.nature.com/articles/s41467-023-43899-4",
+        "Summary": "Antibiotic-resistant bacteria pose a growing threat to global health. Here, the authors present an artificial nucleic acid circuit with argonaute protein (ANCA) for one-step, amplification-free, and isothermal detection of carbapenemase-producing Klebsiella pneumoniae.",
+        "Authors": [
+            "Hyowon Jang",
+            "Jayeon Song",
+            "Taejoon Kang"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "05 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-13"
+    },
+    {
+        "Title": "Characterizations of a neutralizing antibody broadly reactive to multiple gluten peptide:HLA-DQ2.5 complexes in the context of celiac disease",
+        "Link": "https://www.nature.com/articles/s41467-023-44083-4",
+        "Summary": "Targeting gluten antigens presents a plausible therapy option for celiac disease. Here the authors generate and characterize a broadly neutralizing antibody recognizing more than 25 gluten peptide:HLA-DQ2.5 complexes, with structural analyses implicating its mode of interaction, and with mouse in vivo studies supporting its therapeutic feasibility.",
+        "Authors": [
+            "Yuu Okura",
+            "Yuri Ikawa-Teranishi",
+            "Tomoyuki Igawa"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-15"
+    },
+    {
+        "Title": "Whole-genome sequencing reveals the molecular implications of the stepwise progression of lung adenocarcinoma",
+        "Link": "https://www.nature.com/articles/s41467-023-43732-y",
+        "Summary": "Current sequencing technologies can shed light on the stepwise progression of lung adenocarcinoma. Here, the authors characterize tumor progression in lung adenocarcinomas from an early stage using short and long read whole-genome sequencing, bulk and spatial transcriptomics, and epigenomics.",
+        "Authors": [
+            "Yasuhiko Haga",
+            "Yoshitaka Sakamoto",
+            "Ayako Suzuki"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-19"
+    },
+    {
+        "Title": "Optimized design and in vivo application of optogenetically functionalized Drosophila dopamine receptors",
+        "Link": "https://www.nature.com/articles/s41467-023-43970-0",
+        "Summary": "Designing optogenetically functionalized G protein-coupled receptors (optoXRs) to mimic endogenous signaling in vivo is challenging. Here, the authors optimize the design of optoXRs by considering evolutionary conserved protein interactions, and they employ this approach in fruit flies.",
+        "Authors": [
+            "Fangmin Zhou",
+            "Alexandra-Madelaine Tichy",
+            "Peter Soba"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "19 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-18"
+    },
+    {
+        "Title": "Building synthetic chromosomes from natural DNA",
+        "Link": "https://www.nature.com/articles/s41467-023-44112-2",
+        "Summary": "Building synthetic chromosomes from natural components is an unexplored alternative to de novo chromosome synthesis that may have many potential applications. In this paper, the authors report CReATiNG, a method for constructing synthetic chromosomes from natural components in yeast.",
+        "Authors": [
+            "Alessandro L. V. Coradini",
+            "Christopher Ne Ville",
+            "Ian M. Ehrenreich"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "20 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-12"
+    },
+    {
+        "Title": "The oxygen-tolerant reductive glycine pathway assimilates methanol, formate and CO2 in the yeast Komagataella phaffii",
+        "Link": "https://www.nature.com/articles/s41467-023-43610-7",
+        "Summary": "One carbon compounds such as CO2, methanol and formate are cost-effective and environmentally friendly microbial feedstocks for biomanufacturing. Here, the authors report the oxygen tolerant reductive glycine pathway in Komagataella phaffii can co-assimilate CO2, methanol and formate.",
+        "Authors": [
+            "Bernd M. Mitic",
+            "Christina Troyer",
+            "Diethard Mattanovich"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "27 Nov 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-13"
+    },
+    {
+        "Title": "Dynamic and static control of the off-target interactions of antisense oligonucleotides using toehold chemistry",
+        "Link": "https://www.nature.com/articles/s41467-023-43714-0",
+        "Summary": "Off-target toxicity of antisense oligonucleotides (ASOs) poses a challenge for their clinical use. Here, authors develop a toehold-bearing ASO architecture that mitigates a broad spectrum of off-target interactions, significantly enhancing the safety profile of ASO drugs.",
+        "Authors": [
+            "Chisato Terada",
+            "Kaho Oh",
+            "Tsuyoshi Yamamoto"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "02 Dec 2023",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 14, P: 1-18"
+    }
+]

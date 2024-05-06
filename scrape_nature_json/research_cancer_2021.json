@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "Intermittent BRAF inhibition in advanced BRAF mutated melanoma results of a phase II randomized trial",
+        "Link": "https://www.nature.com/articles/s41467-021-26572-6",
+        "Summary": "Whether intermittent strategies of delivering drugs can improve cancer patients survival is still unclear. Here, the authors reports the results of a randomized phase II clinical trial aimed to compare the efficacy and safety of two dosing regimens (continuous and intermittent) of vemurafenib and cobimetinib combination as first-line treatment of patients with unresectable or metastatic advanced melanoma with BRAFV600 mutation",
+        "Authors": [
+            "Maria Gonzalez-Cao",
+            "Clara Mayo de las Casas",
+            "Alfonso Berrocal"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "01 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-6"
+    },
+    {
+        "Title": "Integrated single-cell transcriptome analysis reveals heterogeneity of esophageal squamous cell carcinoma microenvironment",
+        "Link": "https://www.nature.com/articles/s41467-021-27599-5",
+        "Summary": "The microenvironment of oesophageal squamous cell carcinomas (ESCC) is heterogeneous and can strongly impact response to treatment. Here, the authors characterize the ESCC tumour microenvironment with single-cell RNA-seq, finding CST1\u2009+\u2009myofibroblasts with potential biological and prognostic significance as well as immunosuppression signatures.",
+        "Authors": [
+            "Huy Q. Dinh",
+            "Feng Pan",
+            "En-Min Li"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "17 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-15"
+    },
+    {
+        "Title": "The KEYNOTE-811 trial of dual PD-1 and HER2 blockade in HER2-positive gastric cancer",
+        "Link": "https://www.nature.com/articles/s41586-021-04161-3",
+        "Summary": "Interim analysis of a phase III clinical trial of HER2-positive gastric adenocarinoma shows\u00a0pembrolizumab plus trastuzumab and chemotherapy improves response rates compared with trastuzumab and chemotherapy alone.",
+        "Authors": [
+            "Yelena Y. Janjigian",
+            "Akihito Kawazoe",
+            "Hyun Cheol Chung"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "15 Dec 2021",
+        "Journal Title": "Nature",
+        "Volume and Pages": "Volume: 600, P: 727-730"
+    },
+    {
+        "Title": "Live tumor imaging shows macrophage\u00a0induction and TMEM-mediated enrichment of cancer stem cells during metastatic dissemination",
+        "Link": "https://www.nature.com/articles/s41467-021-27308-2",
+        "Summary": "Intravital imaging reveals macrophage-driven de novo induction of cancer stem cells in vivo, and their dramatic enrichment on dissemination through TMEM doorways. These findings provide a mechanism for the validated ability of TMEM doorway density to be prognostic for distant recurrence of metastatic tumors in breast cancer patients.",
+        "Authors": [
+            "Ved P. Sharma",
+            "Binwu Tang",
+            "Maja H. Oktay"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-24"
+    },
+    {
+        "Title": "Astrocytic laminin-211 drives disseminated breast tumor cell dormancy in brain",
+        "Link": "https://www.nature.com/articles/s43018-021-00297-3",
+        "Summary": "Ghajar and colleagues report that astrocyte-deposited laminin-211 promotes the quiescence of disseminated tumor cells in the brain, in a manner dependent on the cytoplasmic sequestration of YAP by dystroglycan.",
+        "Authors": [
+            "Jinxiang Dai",
+            "Patrick J. Cimino",
+            "Cyrus M. Ghajar"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "24 Dec 2021",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 3, P: 25-42"
+    },
+    {
+        "Title": "Interleukin-7 receptor \u03b1 mutational activation can initiate precursor B-cell acute lymphoblastic leukemia",
+        "Link": "https://www.nature.com/articles/s41467-021-27197-5",
+        "Summary": "Interleukin-7 receptor alpha (IL7Ra) is important for lymphoid cell development but its role in leukaemogenesis is not clear. Here, the authors generate a knock-in murine model to show that activating mutations in IL7Ra can initiate precursor B-cell acute lymphoblastic leukaemia.",
+        "Authors": [
+            "Afonso R. M. Almeida",
+            "Jo\u00e3o L. Neto",
+            "Jo\u00e3o T. Barata"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-16"
+    },
+    {
+        "Title": "Naturally-occurring spinosyn A and its derivatives function as argininosuccinate synthase activator and tumor inhibitor",
+        "Link": "https://www.nature.com/articles/s41467-021-22235-8",
+        "Summary": "Arginine addiction induced by argininosuccinate synthase (ASSN1) deficiency has been exploited to treat ASS1-deficient cancers. Here, the authors show an alternative therapeutic approach where ASS1 activity is increased by the pesticide spinosyn A and is shown to inhibit breast cancer cell proliferation.",
+        "Authors": [
+            "Zizheng Zou",
+            "Xiyuan Hu",
+            "Zhiyong Luo"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Apr 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-15"
+    },
+    {
+        "Title": "A tumor-derived type III collagen-rich ECM niche regulates tumor cell dormancy",
+        "Link": "https://www.nature.com/articles/s43018-021-00291-9",
+        "Summary": "Bravo-Cordero and colleagues demonstrate that disseminated tumor cells remodel the extracellular matrix by secreting collagen III and generate a stromal architecture that favors dormancy through DDR1 and STAT1 signaling.",
+        "Authors": [
+            "Julie S. Di Martino",
+            "Ana Rita Nobre",
+            "Jose Javier Bravo-Cordero"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "13 Dec 2021",
+        "Journal Title": "Nature Cancer",
+        "Volume and Pages": "Volume: 3, P: 90-107"
+    },
+    {
+        "Title": "A tumour-resident Lgr5+ stem-cell-like pool drives the establishment and progression of advanced gastric cancers",
+        "Link": "https://www.nature.com/articles/s41556-021-00793-9",
+        "Summary": "Fatehullah et al. develop transgenic and orthotopic mouse models to recapitulate advanced human gastric cancer and uncover a mechanistic role for Lgr5+ stem-like cells in promoting disease initiation and progression.",
+        "Authors": [
+            "A. Fatehullah",
+            "Y. Terakado",
+            "N. Barker"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "02 Dec 2021",
+        "Journal Title": "Nature Cell Biology",
+        "Volume and Pages": "Volume: 23, P: 1299-1313"
+    },
+    {
+        "Title": "Protein phosphatase 2A inactivation induces microsatellite instability, neoantigen production and immune response",
+        "Link": "https://www.nature.com/articles/s41467-021-27620-x",
+        "Summary": "Microsatellite instability (MSI), caused by deficiency of the DNA mismatch repair system, has been associated with improved response to immune checkpoint blockade (ICB). Here the authors show that inactivation of protein phosphatase 2A induces a MSI status, promoting cytotoxic T cell infiltration and response to ICB in pre-clinical cancer models.",
+        "Authors": [
+            "Yu-Ting Yen",
+            "May Chien",
+            "Shih-Chieh Hung"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "15 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-14"
+    }
+]

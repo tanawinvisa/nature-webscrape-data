@@ -1,0 +1,148 @@
+[
+    {
+        "Title": "DNA/RNA heteroduplex oligonucleotide technology for regulating lymphocytes in vivo",
+        "Link": "https://www.nature.com/articles/s41467-021-26902-8",
+        "Summary": "Using gene silencing to regulate lymphocyte function is a promising therapeutic approach for autommunity, inflammation and cancer. Here the authors use a heteroduplex oligonucleotide for improved potency, efficacy and longer retention times.",
+        "Authors": [
+            "Masaki Ohyagi",
+            "Tetsuya Nagata",
+            "Takanori Yokota"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "22 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-12"
+    },
+    {
+        "Title": "Intrapleural nano-immunotherapy promotes innate and adaptive immune responses to enhance anti-PD-L1 therapy for malignant pleural effusion",
+        "Link": "https://www.nature.com/articles/s41565-021-01032-w",
+        "Summary": "Malignant pleural effusion (MPE) is the terminal stage of cancer and the current standard of care for MPE is largely palliative. Here the authors design a liposomal nanoparticle loaded with cyclic dinucleotide for targeted activation of STING signalling in macrophages and dendritic cells and show that, on intrapleural administration, the nanoparticle effectively mitigates the immune cold MPE and significantly augments the checkpoint blockade immunotherapy in a mouse MPE model and clinical patients\u2019 samples.",
+        "Authors": [
+            "Yang Liu",
+            "Lulu Wang",
+            "Dawen Zhao"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "16 Dec 2021",
+        "Journal Title": "Nature Nanotechnology",
+        "Volume and Pages": "Volume: 17, P: 206-216"
+    },
+    {
+        "Title": "Low immunogenicity of LNP allows repeated administrations of CRISPR-Cas9 mRNA into skeletal muscle in mice",
+        "Link": "https://www.nature.com/articles/s41467-021-26714-w",
+        "Summary": "In vivo delivery of CRISPR-Cas9 holds promise for treating muscular dystrophy, however, AAV delivery is known to be immunogenic. Here, the authors show that LNP delivery of CRISPR-Cas9 enables repeated injections into skeletal muscle and leads to restored dystrophin expression in multiple muscle groups.",
+        "Authors": [
+            "Eriya Kenjo",
+            "Hiroyuki Hozumi",
+            "Akitsu Hotta"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-13"
+    },
+    {
+        "Title": "Questions about the role of P3HT nanoparticles in retinal stimulation",
+        "Link": "https://www.nature.com/articles/s41565-021-01044-6",
+        "Summary": "",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2021",
+        "Journal Title": "Nature Nanotechnology",
+        "Volume and Pages": "Volume: 16, P: 1330-1332"
+    },
+    {
+        "Title": "Exploiting a Y chromosome-linked Cas9 for sex selection and gene drive",
+        "Link": "https://www.nature.com/articles/s41467-021-27333-1",
+        "Summary": "CRISPR-based engineering can be used to bias sex ratios. Here the authors develop a transgenic line of Drosophila melanogaster expressing Cas9 from the Y chromosome and functionally characterize the utility of this strain for both sex selection and gene drive.",
+        "Authors": [
+            "Stephanie Gamez",
+            "Duverney Chaverra-Rodriguez",
+            "Omar S. Akbari"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "10 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-14"
+    },
+    {
+        "Title": "Alginate-amphotericin B nanocomplexes covered by nanocrystals from bacterial cellulose: physico-chemical characterization and in vitro toxicity",
+        "Link": "https://www.nature.com/articles/s41598-021-03264-1",
+        "Summary": "",
+        "Authors": [
+            "Vict\u00f3ria Soares Soeiro",
+            "Ricardo Silva-Carvalho",
+            "Angela Faustino Jozala"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "14 Dec 2021",
+        "Journal Title": "Scientific Reports",
+        "Volume and Pages": "Volume: 11, P: 1-8"
+    },
+    {
+        "Title": "Systematic molecular evolution enables robust biomolecule discovery",
+        "Link": "https://www.nature.com/articles/s41592-021-01348-4",
+        "Summary": "Phage and robotics-assisted near-continuous evolution enables phage-assisted continuous evolution in high throughput, allowing for improved exploration of sequence space and insight into how variables affect evolution outcomes.",
+        "Authors": [
+            "Erika A. DeBenedictis",
+            "Emma J. Chory",
+            "Kevin M. Esvelt"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 19, P: 55-64"
+    },
+    {
+        "Title": "Monitoring protein conformational changes using fluorescent nanoantennas",
+        "Link": "https://www.nature.com/articles/s41592-021-01355-5",
+        "Summary": "Fluorescent nanoantennas represent a versatile detection strategy for monitoring fast, large- and small-scale protein dynamics.",
+        "Authors": [
+            "Scott G. Harroun",
+            "Dominic Lauzon",
+            "Alexis Vall\u00e9e-B\u00e9lisle"
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "30 Dec 2021",
+        "Journal Title": "Nature Methods",
+        "Volume and Pages": "Volume: 19, P: 71-80"
+    },
+    {
+        "Title": "Engineering Bacillus subtilis for the formation of a durable living biocomposite material",
+        "Link": "https://www.nature.com/articles/s41467-021-27467-2",
+        "Summary": "Despite the advances in engineered living materials (ELMs), the diversity of ELMs\u00a0especially those that are capable of autonomous self-fabrication and regeneration, is low. Here, the authors engineer a resilient ELM biocomposite using Bacillus subtilis and secreted EutM proteins as selfassembling scaffold building blocks.",
+        "Authors": [
+            "Sun-Young Kang",
+            "Anaya Pokhrel",
+            "Claudia Schmidt-Dannert"
+        ],
+        "Article Type": "Research",
+        "Open Access": "Open Access",
+        "Publication Date": "08 Dec 2021",
+        "Journal Title": "Nature Communications",
+        "Volume and Pages": "Volume: 12, P: 1-17"
+    },
+    {
+        "Title": "Reply to: Questions about the role of P3HT nanoparticles in retinal stimulation",
+        "Link": "https://www.nature.com/articles/s41565-021-01043-7",
+        "Summary": "",
+        "Authors": [
+            ""
+        ],
+        "Article Type": "Research",
+        "Open Access": "",
+        "Publication Date": "09 Dec 2021",
+        "Journal Title": "Nature Nanotechnology",
+        "Volume and Pages": "Volume: 16, P: 1333-1336"
+    }
+]
